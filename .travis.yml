@@ -9,7 +9,9 @@ before_install:
   - sudo apt-get update -qq
   - sudo apt-get -y build-dep freewheeling
   # build-dep is not sufficient, we need to explicitly install liblo-dev
-  - sudo apt-get -y install liblo-dev doxygen graphviz
+  - sudo apt-get -y install liblo-dev
+  # required for documentation
+  - sudo apt-get -y install doxygen graphviz
 
 script:
   - autoreconf -if
@@ -25,7 +27,7 @@ script:
 deploy:
   provider: pages
   strategy: git
-  cleanup: false
+  skip_cleanup: true
   local_dir: html
   token: $GH_REPO_TOKEN
   on:
