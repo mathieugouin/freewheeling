@@ -32,4 +32,5 @@ deploy:
   token: $GH_REPO_TOKEN
   on:
     branch: ci-doxygen  # TBD for now
+    condition: $TRAVIS_OS_NAME = linux
 
