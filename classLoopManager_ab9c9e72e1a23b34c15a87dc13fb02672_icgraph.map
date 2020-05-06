@@ -1,0 +1,10 @@
+<map id="LoopManager::GetTriggerVol" name="LoopManager::GetTriggerVol">
+<area shape="rect" id="node2" href="$classSnapshot.html#a1616e84bbc439dfb50eb827a27e4f6fd" title="Snapshot::CreateSnapshot" alt="" coords="259,35,452,61"/>
+<area shape="rect" id="node6" href="$classVideoIO.html#adca60a99be6e51d8af7ce2a32f92349a" title="VideoIO::DrawLoop" alt="" coords="282,85,429,112"/>
+<area shape="rect" id="node7" href="$classVideoIO.html#a50e4ccae99e278ed7d65d9db86f18c92" title="VideoIO::video_event_loop" alt="" coords="257,136,453,163"/>
+<area shape="rect" id="node9" href="$classLoopTray.html#adb34eb649311a401b0cbf8d4b09613c7" title="LoopTray::Draw_Item" alt="" coords="276,187,435,213"/>
+<area shape="rect" id="node3" href="$classFweelin.html#a46ac4eb76aa2025f2bec97c23658abef" title="Fweelin::CreateSnapshot" alt="" coords="501,5,684,32"/>
+<area shape="rect" id="node4" href="$classFweelin.html#a057cfd43583e073f0216dd275e4b26a7" title="Fweelin::LoadSnapshot" alt="" coords="507,56,678,83"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a05a6a438d14482e2f22aa802cfb432e8" title="LoopManager::LoadScene" alt="" coords="732,56,919,83"/>
+<area shape="rect" id="node8" href="$classVideoIO.html#adb25c81a2bfe792fd4f64e23a4e21176" title="VideoIO::run_video\l_thread" alt="" coords="520,129,665,170"/>
+</map>

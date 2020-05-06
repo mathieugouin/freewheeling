@@ -1,0 +1,6 @@
+<map id="VorbisEncoder::VorbisEncoder" name="VorbisEncoder::VorbisEncoder">
+<area shape="rect" id="node2" href="$classFweelin.html#acb51892233f08f4b0b9f2e7d7a625448" title="Fweelin::getAUDIO" alt="" coords="296,5,440,32"/>
+<area shape="rect" id="node3" href="$classAudioIO.html#ab175bb73ae9aadb84940dace46c71fd8" title="AudioIO::get_srate" alt="" coords="297,56,439,83"/>
+<area shape="rect" id="node4" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="305,107,431,133"/>
+<area shape="rect" id="node5" href="$classFloConfig.html#a0d093db4e3fbc504e66107c1d2ac2b81" title="FloConfig::GetVorbisEncode\lQuality" alt="" coords="268,158,468,199"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="AudioBuffers::GetIntAudioIns" name="AudioBuffers::GetIntAudioIns">
+<area shape="rect" id="node2" href="$classFloConfig.html#a96460020d4ac390b2ab318d49ac42c95" title="FloConfig::ConfigureBasics" alt="" coords="263,43,458,69"/>
+<area shape="rect" id="node6" href="$classFloConfig.html#ac0e1101c8fc196548c0e1dc26251ea2b" title="FloConfig::IsStereoMaster" alt="" coords="267,100,454,127"/>
+<area shape="rect" id="node10" href="$classAudioBuffers.html#aec3e43d2ecc488ec1c9944611ea9c8dd" title="AudioBuffers::AudioBuffers" alt="" coords="263,151,459,177"/>
+<area shape="rect" id="node3" href="$classFloConfig.html#a60461cb1265c667f106326ed8067d521" title="FloConfig::ConfigureRoot" alt="" coords="521,31,703,57"/>
+<area shape="rect" id="node4" href="$classFloConfig.html#a5cc18494ea2e32020314e08e43c920c5" title="FloConfig::ConfigureInterfaces" alt="" coords="765,5,983,32"/>
+<area shape="rect" id="node5" href="$classFloConfig.html#a865bfdba679c01b96854166af2103cf2" title="FloConfig::Parse" alt="" coords="811,56,937,83"/>
+<area shape="rect" id="node7" href="$classAudioBuffers.html#ae41352754c280c76eb03a902cbe6819a" title="AudioBuffers::IsStereoMaster" alt="" coords="507,107,717,133"/>
+<area shape="rect" id="node8" href="$classProcessor.html#a2d113c5c4d42aad6cfd6db30614be629" title="Processor::Processor" alt="" coords="796,107,952,133"/>
+<area shape="rect" id="node9" href="$classRootProcessor.html#aec5fac86449797c873b0c6a1c364309c" title="RootProcessor::RootProcessor" alt="" coords="767,157,981,184"/>
+</map>

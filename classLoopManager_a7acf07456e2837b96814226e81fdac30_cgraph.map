@@ -1,0 +1,8 @@
+<map id="LoopManager::UpdateLoopLists_ItemAdded" name="LoopManager::UpdateLoopLists_ItemAdded">
+<area shape="rect" id="node2" href="$classFweelin.html#a91b18ce962a309b483f19e75c5f5a040" title="Fweelin::getSNAPS" alt="" coords="317,5,461,32"/>
+<area shape="rect" id="node3" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="325,56,452,83"/>
+<area shape="rect" id="node4" href="$classFloConfig.html#a15b1ee51e84fb75465286ea8b7f3fe24" title="FloConfig::GetMaxSnapshots" alt="" coords="285,107,492,133"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#acca75f9dd9685cbf0a6e2ccbea1a1475" title="LoopManager::GetLoopVolume" alt="" coords="279,157,499,184"/>
+<area shape="rect" id="node6" href="$classFweelin.html#a10bb364ecf38990653b49a98c5a89c90" title="Fweelin::getTMAP" alt="" coords="553,132,691,159"/>
+<area shape="rect" id="node7" href="$classTriggerMap.html#aca3f85b40f3aa29a280c2d7511b84217" title="TriggerMap::GetMap" alt="" coords="547,183,697,209"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Browser::Rename" name="Browser::Rename">
+<area shape="rect" id="node2" href="$classItemRenamer.html#a142fa081aa16f3ce9bddfcb44619a90f" title="ItemRenamer::ItemRenamer" alt="" coords="189,107,396,133"/>
+<area shape="rect" id="node3" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="474,5,601,32"/>
+<area shape="rect" id="node4" href="$classFloConfig.html#aac54136f9c70ae1996a104ac86b691dd" title="FloConfig::AddEventHook" alt="" coords="444,56,631,83"/>
+<area shape="rect" id="node5" href="$classFweelin.html#aa35dbda0867fa05ac034bbe6109fe7b3" title="Fweelin::getSDLIO" alt="" coords="467,107,607,133"/>
+<area shape="rect" id="node6" href="$classSDLIO.html#abf96a6353a25f3ea3ae662f6d84f4353" title="SDLIO::EnableUNICODE" alt="" coords="450,157,625,184"/>
+<area shape="rect" id="node7" href="$classSDLIO.html#ab44a16efa49008f84b68bf849aaea01d" title="SDLIO::EnableKeyRepeat" alt="" coords="446,208,629,235"/>
+</map>

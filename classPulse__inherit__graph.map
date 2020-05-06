@@ -1,0 +1,4 @@
+<map id="Pulse" name="Pulse">
+<area shape="rect" id="node2" href="$classProcessor.html" title="{Processor\n|+ MIN_VOL\l+ DEFAULT_SMOOTH_LENGTH\l# app\l# preab\l# prelen\l# prewritten\l# prewriting\l|+ Processor()\l+ ~Processor()\l+ process()\l+ getAPP()\l+ Halt()\l+ dopreprocess()\l# fadepreandcurrent()\l}" alt="" coords="5,131,223,384"/>
+<area shape="rect" id="node3" href="$classEventProducer.html" title="{EventProducer\n||}" alt="" coords="56,5,172,83"/>
+</map>

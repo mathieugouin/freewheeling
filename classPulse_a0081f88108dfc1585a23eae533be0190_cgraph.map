@@ -1,0 +1,6 @@
+<map id="Pulse::~Pulse" name="Pulse::~Pulse">
+<area shape="rect" id="node2" href="$classFweelin.html#a600688955c7470a1b7a2fa95ddcc4118" title="Fweelin::getBMG" alt="" coords="196,5,327,32"/>
+<area shape="rect" id="node3" href="$classBlockManager.html#aed9f3464448ad90022bc613002b912f2" title="BlockManager::RefDeleted" alt="" coords="164,56,359,83"/>
+<area shape="rect" id="node4" href="$classBlockManager.html#ac251e0ace481edc4b8da20dca37472a6" title="BlockManager::HiRefDeleted" alt="" coords="407,56,615,83"/>
+<area shape="rect" id="node5" href="$classHiPriManagedChain.html#ac1e45103a45f1dc90be396aeb8c226eb" title="HiPriManagedChain::\lRefDeleted" alt="" coords="663,49,820,90"/>
+</map>

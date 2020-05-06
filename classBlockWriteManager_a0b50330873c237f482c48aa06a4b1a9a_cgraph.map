@@ -1,0 +1,17 @@
+<map id="BlockWriteManager::Manage" name="BlockWriteManager::Manage">
+<area shape="rect" id="node2" href="$classAutoWriteControl.html#a8b605032754eaf5d508498cb3188dcff" title="AutoWriteControl::GetWrite\lBlock" alt="" coords="209,34,408,75"/>
+<area shape="rect" id="node3" href="$classBlockWriteManager.html#ad694fe4875f415467800cab9f05a504a" title="BlockWriteManager::\lStart" alt="" coords="231,99,387,141"/>
+<area shape="rect" id="node9" href="$classiFileEncoder.html#aa8ecf63cb23e1d6d428c423eecef396b" title="iFileEncoder::IsStereo" alt="" coords="228,165,389,192"/>
+<area shape="rect" id="node10" href="$classAudioBlockIterator.html#a86cfc4c09c380d6304ed3aa6ff2ea17b" title="AudioBlockIterator\l::GetFragment" alt="" coords="491,299,634,341"/>
+<area shape="rect" id="node13" href="$classiFileEncoder.html#a6b11df3424d8aa35873ffc34bacc5dc9" title="iFileEncoder::WriteSamples\lToDisk" alt="" coords="209,267,408,309"/>
+<area shape="rect" id="node14" href="$classBlockWriteManager.html#a71f78a8f8c3f49e7e311e8553b5fa029" title="BlockWriteManager::End" alt="" coords="219,399,399,425"/>
+<area shape="rect" id="node16" href="$classAudioBlockIterator.html#ae0521dee0479a9203bed6515bfc89568" title="AudioBlockIterator\l::NextFragment" alt="" coords="237,333,380,374"/>
+<area shape="rect" id="node4" href="$classBlockManager.html#a42884d55a4c50d9aa57b98e8211e9747" title="BlockManager::GetApp" alt="" coords="477,5,648,32"/>
+<area shape="rect" id="node5" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="499,56,626,83"/>
+<area shape="rect" id="node6" href="$classFloConfig.html#a0b52185644573f2b0bae10f391ec69fd" title="FloConfig::GetLoopOutFormat" alt="" coords="456,107,669,133"/>
+<area shape="rect" id="node7" href="$classAudioBlock.html#a5d7b94e41f0f024f767cb5e2d219b3ea" title="AudioBlock::IsStereo" alt="" coords="485,157,641,184"/>
+<area shape="rect" id="node8" href="$classiFileEncoder.html#ae134e439d1cf7a729ead45d624f6bb23" title="iFileEncoder::SetupFileFor\lWriting" alt="" coords="469,209,656,250"/>
+<area shape="rect" id="node11" href="$classAudioBlock.html#ae7aec1591ed6f228799c11b650b2cc1b" title="AudioBlock::GetExtendedData" alt="" coords="717,307,936,333"/>
+<area shape="rect" id="node12" href="$classBlockExtendedData.html#ae33e9550384a32abf2a91386334a2be9" title="BlockExtendedData::\lGetType" alt="" coords="984,299,1143,341"/>
+<area shape="rect" id="node15" href="$classiFileEncoder.html#a688c77631f58abe047c36ef552ec83bb" title="iFileEncoder::PrepareFile\lForClosing" alt="" coords="473,391,653,433"/>
+</map>

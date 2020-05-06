@@ -1,0 +1,13 @@
+<map id="RecordProcessor::~RecordProcessor" name="RecordProcessor::~RecordProcessor">
+<area shape="rect" id="node2" href="$classRecordProcessor.html#a5bce44b8a038567efcf660cfeeae93f4" title="RecordProcessor::AbortRecording" alt="" coords="245,147,481,174"/>
+<area shape="rect" id="node5" href="$classFweelin.html#a600688955c7470a1b7a2fa95ddcc4118" title="Fweelin::getBMG" alt="" coords="570,223,701,250"/>
+<area shape="rect" id="node9" href="$classBlockManager.html#aed9f3464448ad90022bc613002b912f2" title="BlockManager::RefDeleted" alt="" coords="266,274,461,301"/>
+<area shape="rect" id="node12" href="$classPulse.html#a3251783157dd6440cb94ca966d2de06e" title="Pulse::DelPulseSync" alt="" coords="287,325,440,351"/>
+<area shape="rect" id="node3" href="$classAudioBlockIterator.html#a48be225cf6283fb66268a832abd89b30" title="AudioBlockIterator\l::Stop" alt="" coords="564,5,707,47"/>
+<area shape="rect" id="node4" href="$classPeaksAvgsManager.html#a7d5c60dc637af4095167410c4ae924f4" title="PeaksAvgsManager::End" alt="" coords="545,71,725,98"/>
+<area shape="rect" id="node6" href="$classBlockManager.html#a7380825963fc62c90186a0b3c72e8d89" title="BlockManager::PeakAvgOff" alt="" coords="537,122,734,149"/>
+<area shape="rect" id="node8" href="$classBlockManager.html#add099506b29910e9dabdab9f6a1af92f" title="BlockManager::GrowChainOff" alt="" coords="529,173,741,199"/>
+<area shape="rect" id="node7" href="$classBlockManager.html#ae59dae7f7f6572b004dcdacc740204ac" title="BlockManager::DelManager" alt="" coords="789,147,989,174"/>
+<area shape="rect" id="node10" href="$classBlockManager.html#ac251e0ace481edc4b8da20dca37472a6" title="BlockManager::HiRefDeleted" alt="" coords="531,274,739,301"/>
+<area shape="rect" id="node11" href="$classHiPriManagedChain.html#ac1e45103a45f1dc90be396aeb8c226eb" title="HiPriManagedChain::\lRefDeleted" alt="" coords="811,267,968,308"/>
+</map>

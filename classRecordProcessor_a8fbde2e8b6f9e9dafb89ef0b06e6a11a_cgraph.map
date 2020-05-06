@@ -1,0 +1,21 @@
+<map id="RecordProcessor::Jump" name="RecordProcessor::Jump">
+<area shape="rect" id="node2" href="$classAudioBlockIterator.html#afdaa1beeae81dbfb277fae51bee42ca0" title="AudioBlockIterator\l::GetTotalLength2Cur" alt="" coords="240,5,399,47"/>
+<area shape="rect" id="node3" href="$classAudioBlock.html#a380880c91c3af2322d232ce2de83b881" title="AudioBlock::GetTotalLen" alt="" coords="483,134,663,161"/>
+<area shape="rect" id="node4" href="$classPulse.html#ae4c83e1199ea7a74791c9d0fe80a54f5" title="Pulse::GetLength" alt="" coords="253,122,385,149"/>
+<area shape="rect" id="node5" href="$classRecordProcessor.html#ab8e5a9b5fca2d7690df56a5209b57e50" title="RecordProcessor::FadeOut\l_Input" alt="" coords="224,173,415,215"/>
+<area shape="rect" id="node6" href="$classFweelin.html#a538440216608aed67e6940c2903c3072" title="Fweelin::getBUFSZ" alt="" coords="247,239,391,266"/>
+<area shape="rect" id="node7" href="$classAudioBlockIterator.html#aee775d7a85e66fa08144b582658a9cac" title="AudioBlockIterator\l::Jump" alt="" coords="248,291,391,332"/>
+<area shape="rect" id="node9" href="$classAudioBlockIterator.html#a5cc11c9589308f5da0fea19c701c84b3" title="AudioBlockIterator\l::PutFragment" alt="" coords="248,356,391,397"/>
+<area shape="rect" id="node19" href="$classProcessor.html#a1ff3aad172b41d0c3c9a1bd06cd6a4ef" title="Processor::dopreprocess" alt="" coords="229,443,409,470"/>
+<area shape="rect" id="node8" href="$classAudioBlock.html#a4f53140535b4c56db4c5360f3fb9eb7d" title="AudioBlock::SetPtrsFromAbs\lOffset" alt="" coords="470,247,675,288"/>
+<area shape="rect" id="node10" href="$classAudioBlock.html#ae7aec1591ed6f228799c11b650b2cc1b" title="AudioBlock::GetExtendedData" alt="" coords="463,313,682,339"/>
+<area shape="rect" id="node12" href="$classPreallocatedType.html#ae8a5326530dd0f38ecbb094f7818bd42" title="PreallocatedType::RTNew" alt="" coords="479,363,666,390"/>
+<area shape="rect" id="node18" href="$classAudioBlock.html#aa3129140d4e8c54e83afbef223cf8a65" title="AudioBlock::AddExtendedData" alt="" coords="463,414,683,441"/>
+<area shape="rect" id="node11" href="$classBlockExtendedData.html#ae33e9550384a32abf2a91386334a2be9" title="BlockExtendedData::\lGetType" alt="" coords="751,272,910,313"/>
+<area shape="rect" id="node13" href="$classRTStore.html#a2be0d247570dc611a379ab0a80dd14da" title="RTStore::FindItemWithState" alt="" coords="731,338,931,365"/>
+<area shape="rect" id="node14" href="$classRTStore.html#af3c93f31bd68ce149a812b05d9e7cd86" title="RTStore::ChangeStateAtIdx" alt="" coords="732,389,929,415"/>
+<area shape="rect" id="node15" href="$classMemoryManager.html#a3971e97751f5eccd04086eb2e6fb6f43" title="MemoryManager::WakeUp" alt="" coords="734,439,927,466"/>
+<area shape="rect" id="node16" href="$classSRMWRingBuffer.html#a47699ccc0600c38559c8e10f0ca9bf3c" title="SRMWRingBuffer::WriteElement" alt="" coords="991,414,1217,441"/>
+<area shape="rect" id="node17" href="$classMemoryManager.html#ab15be510a88e9eab04db2d6554d7e947" title="MemoryManager::WakeupIfNeeded" alt="" coords="979,465,1229,491"/>
+<area shape="rect" id="node20" href="$classProcessor.html#a2a6ea9cec150529a6b61898634540254" title="Processor::process" alt="" coords="501,465,644,491"/>
+</map>

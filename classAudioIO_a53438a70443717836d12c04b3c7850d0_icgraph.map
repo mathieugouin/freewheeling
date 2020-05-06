@@ -1,0 +1,9 @@
+<map id="AudioIO::GetTimeScale" name="AudioIO::GetTimeScale">
+<area shape="rect" id="node2" href="$classLoopManager.html#a58a134fe97355ce8f17e261da1142c64" title="LoopManager::AdjustLoopVolume" alt="" coords="484,5,723,32"/>
+<area shape="rect" id="node4" href="$classInputSettings.html#a485faa0edfa19afb7c673f7ac8f3f4ff" title="InputSettings::AdjustInputVol" alt="" coords="225,56,436,83"/>
+<area shape="rect" id="node5" href="$classRootProcessor.html#acbec725df020a7e0592399291eb701a6" title="RootProcessor::AdjustOutput\lVolume" alt="" coords="227,107,434,149"/>
+<area shape="rect" id="node7" href="$classRootProcessor.html#af1a55b84d3f7d50eb13cc8f0c0a5c315" title="RootProcessor::AdjustInput\lVolume" alt="" coords="233,173,429,214"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="771,85,976,112"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#aea540a972ff4cba15544e2af9ed33ff6" title="LoopManager::AdjustOutput\lVolume" alt="" coords="502,107,705,149"/>
+<area shape="rect" id="node8" href="$classLoopManager.html#a3a31dbd91e9ad302fc64ea941f0a0165" title="LoopManager::AdjustInput\lVolume" alt="" coords="508,173,699,214"/>
+</map>

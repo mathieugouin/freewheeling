@@ -1,0 +1,5 @@
+<map id="ItemRenamer::IsRenaming" name="ItemRenamer::IsRenaming">
+<area shape="rect" id="node2" href="$classLoopManager.html#afe784bb20bf5fc2605fdc3273b3c1be8" title="LoopManager::RenameLoop" alt="" coords="248,31,449,57"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a242f1bd7eba01c186de801ba393503e7" title="LoopManager::ItemRenamed" alt="" coords="497,5,705,32"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="499,56,704,83"/>
+</map>

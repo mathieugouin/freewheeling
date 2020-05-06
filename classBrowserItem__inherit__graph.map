@@ -1,0 +1,7 @@
+<map id="BrowserItem" name="BrowserItem">
+<area shape="rect" id="node2" href="$classBrowserDivision.html" title="{BrowserDivision\n||+ GetType()\l}" alt="" coords="5,336,133,413"/>
+<area shape="rect" id="node3" href="$classLoopBrowserItem.html" title="{LoopBrowserItem\n|+ time\l+ filename\l|+ LoopBrowserItem()\l+ ~LoopBrowserItem()\l+ Compare()\l+ GetType()\l}" alt="" coords="158,307,330,443"/>
+<area shape="rect" id="node4" href="$classLoopTrayItem.html" title="{LoopTrayItem\n|+ l\l+ loopid\l+ xpos\l+ ypos\l+ placename\l|+ LoopTrayItem()\l+ Compare()\l+ MatchItem()\l+ GetType()\l}" alt="" coords="354,285,489,465"/>
+<area shape="rect" id="node5" href="$classPatchItem.html" title="{PatchItem\n|+ id\l+ bank\l+ prog\l+ channel\l+ bypasscc\l+ bypasschannel\l+ bypasstime1\l+ bypasstime2\l+ zones\l+ numzones\l|+ PatchItem()\l+ ~PatchItem()\l+ SetupZones()\l+ GetZone()\l+ IsCombi()\l+ GetType()\l}" alt="" coords="513,233,647,516"/>
+<area shape="rect" id="node6" href="$classSceneBrowserItem.html" title="{SceneBrowserItem\n|+ time\l+ filename\l|+ SceneBrowserItem()\l+ ~SceneBrowserItem()\l+ Compare()\l+ GetType()\l}" alt="" coords="671,307,851,443"/>
+</map>

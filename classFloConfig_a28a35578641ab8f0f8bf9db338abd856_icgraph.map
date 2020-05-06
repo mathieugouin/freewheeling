@@ -1,0 +1,5 @@
+<map id="FloConfig::GetLimiterThreshhold" name="FloConfig::GetLimiterThreshhold">
+<area shape="rect" id="node2" href="$classAutoLimitProcessor.html#a8b769b0b6d4eb0aa759d13a0387ade4c" title="AutoLimitProcessor\l::ResetLimiter" alt="" coords="284,5,432,47"/>
+<area shape="rect" id="node4" href="$classAutoLimitProcessor.html#afd77c96b8603a53316f8beeea00341c6" title="AutoLimitProcessor\l::process" alt="" coords="284,71,432,112"/>
+<area shape="rect" id="node3" href="$classAutoLimitProcessor.html#a1f9aa779b4405ce033c0a77c39d80bb4" title="AutoLimitProcessor\l::AutoLimitProcessor" alt="" coords="480,5,636,47"/>
+</map>

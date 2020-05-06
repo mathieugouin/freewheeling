@@ -1,0 +1,6 @@
+<map id="PeaksAvgsManager::Setup" name="PeaksAvgsManager::Setup">
+<area shape="rect" id="node2" href="$classBlockManager.html#af050835c736257358a3f572f8422ff1d" title="BlockManager::PeakAvgOn" alt="" coords="247,31,443,57"/>
+<area shape="rect" id="node3" href="$classBlockReadManager.html#af12804c61f944904eedf8c9edf5cd3bd" title="BlockReadManager::Start" alt="" coords="520,5,705,32"/>
+<area shape="rect" id="node5" href="$classRecordProcessor.html#a1aea5f833c59a12398b05b514b26b572" title="RecordProcessor::RecordProcessor" alt="" coords="491,56,735,83"/>
+<area shape="rect" id="node4" href="$classBlockReadManager.html#aa990976dec4a3ec5bd6384b54ce5f09b" title="BlockReadManager::Manage" alt="" coords="783,5,988,32"/>
+</map>

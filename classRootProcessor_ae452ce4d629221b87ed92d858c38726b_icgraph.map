@@ -1,0 +1,6 @@
+<map id="RootProcessor::GetOutputVolume" name="RootProcessor::GetOutputVolume">
+<area shape="rect" id="node2" href="$classLoopManager.html#a8f64a19e15059db80af9cd9f1fa0c05b" title="LoopManager::GetOutputVolume" alt="" coords="243,31,476,57"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a861cdd2ace9aeb53b4ecf92728215265" title="LoopManager::Deactivate" alt="" coords="524,31,712,57"/>
+<area shape="rect" id="node4" href="$classFweelin.html#a4654015e2bc7cc94f3bfc421899a60d3" title="Fweelin::TriggerSnapshot" alt="" coords="760,5,944,32"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="992,31,1197,57"/>
+</map>

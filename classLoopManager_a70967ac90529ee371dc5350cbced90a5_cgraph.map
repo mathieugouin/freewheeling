@@ -1,0 +1,11 @@
+<map id="LoopManager::LoopManager" name="LoopManager::LoopManager">
+<area shape="rect" id="node2" href="$classFweelin.html#a10bb364ecf38990653b49a98c5a89c90" title="Fweelin::getTMAP" alt="" coords="296,5,433,32"/>
+<area shape="rect" id="node3" href="$classTriggerMap.html#aa7d410849b2b17c3623c6d105241418e" title="TriggerMap::GetMapSize" alt="" coords="275,56,454,83"/>
+<area shape="rect" id="node4" href="$classLoop.html#a5d0ccd861c092696db05f4f0d7382176" title="Loop::SetupLoopPreallocation" alt="" coords="257,107,472,133"/>
+<area shape="rect" id="node5" href="$classFweelin.html#a2fd02f86f34253432dd13776434f16db" title="Fweelin::getMMG" alt="" coords="298,157,431,184"/>
+<area shape="rect" id="node6" href="$classFweelin.html#a600688955c7470a1b7a2fa95ddcc4118" title="Fweelin::getBMG" alt="" coords="299,208,430,235"/>
+<area shape="rect" id="node7" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="301,259,428,285"/>
+<area shape="rect" id="node8" href="$classBlockManager.html#aa5e8b71de591a2e25779a1eacdc09704" title="BlockManager::AddManager" alt="" coords="263,309,466,336"/>
+<area shape="rect" id="node9" href="$classFweelin.html#a21e51d7b639faaecc415624ab6c16a71" title="Fweelin::getEMG" alt="" coords="299,360,430,387"/>
+<area shape="rect" id="node10" href="$classEventManager.html#a900be2c959408f76e6926c96197bd773" title="EventManager::ListenEvent" alt="" coords="265,411,464,437"/>
+</map>

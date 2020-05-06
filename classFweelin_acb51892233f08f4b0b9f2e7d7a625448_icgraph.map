@@ -1,0 +1,26 @@
+<map id="Fweelin::getAUDIO" name="Fweelin::getAUDIO">
+<area shape="rect" id="node2" href="$classSndFileDecoder.html#a74a2b4f793067771c904e4a64a11811f" title="SndFileDecoder::ReadFromFile" alt="" coords="203,5,419,32"/>
+<area shape="rect" id="node3" href="$classVorbisDecoder.html#af68926dd65a6491b87318ee505a89063" title="VorbisDecoder::ReadFromFile" alt="" coords="205,56,416,83"/>
+<area shape="rect" id="node4" href="$classSndFileEncoder.html#a5d5ba47e9db796dad8cc1d75c27f473c" title="SndFileEncoder::SndFileEncoder" alt="" coords="197,107,424,133"/>
+<area shape="rect" id="node5" href="$classVorbisEncoder.html#a97a04788b45c6ad2417eaa6af44986e6" title="VorbisEncoder::VorbisEncoder" alt="" coords="203,157,418,184"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a58a134fe97355ce8f17e261da1142c64" title="LoopManager::AdjustLoopVolume" alt="" coords="472,208,711,235"/>
+<area shape="rect" id="node8" href="$classLoopManager.html#a67c6f44d33880b35c875a8e6ea8babac" title="LoopManager::TapPulse" alt="" coords="504,259,679,285"/>
+<area shape="rect" id="node9" href="$classAudioBuffers.html#a0ef951c1d9fa74a04d269cf8cbfe218d" title="AudioBuffers::MixInputs" alt="" coords="223,309,399,336"/>
+<area shape="rect" id="node12" href="$classInputSettings.html#a485faa0edfa19afb7c673f7ac8f3f4ff" title="InputSettings::AdjustInputVol" alt="" coords="486,427,697,453"/>
+<area shape="rect" id="node13" href="$classPulse.html#ad159d5b915010a5fd93eb397aa47aa39" title="Pulse::Pulse" alt="" coords="261,411,361,437"/>
+<area shape="rect" id="node14" href="$classPulse.html#adf28cef50c1f7543db7171b67126c38f" title="Pulse::process" alt="" coords="253,461,368,488"/>
+<area shape="rect" id="node15" href="$classRootProcessor.html#acbec725df020a7e0592399291eb701a6" title="RootProcessor::AdjustOutput\lVolume" alt="" coords="207,513,414,554"/>
+<area shape="rect" id="node17" href="$classRootProcessor.html#af1a55b84d3f7d50eb13cc8f0c0a5c315" title="RootProcessor::AdjustInput\lVolume" alt="" coords="213,578,409,619"/>
+<area shape="rect" id="node19" href="$classMidiIO.html#aef220bcce8b89bea36032298868a919e" title="MidiIO::run_midi_thread" alt="" coords="503,636,680,663"/>
+<area shape="rect" id="node21" href="$classMidiIO.html#a1753eb05e14eb572a5f52b9616480d55" title="MidiIO::SetMIDIForPatch" alt="" coords="223,695,399,721"/>
+<area shape="rect" id="node24" href="$classOSCClient.html#acbb974bf11667aa6fb48c111ae14a4fe" title="OSCClient::SendPlayingLoops" alt="" coords="204,749,417,776"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="759,427,964,453"/>
+<area shape="rect" id="node10" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="498,309,685,336"/>
+<area shape="rect" id="node11" href="$classPassthroughProcessor.html#a10fbf639d2b8899ef15011532da47ad8" title="PassthroughProcessor\l::process" alt="" coords="509,361,673,402"/>
+<area shape="rect" id="node16" href="$classLoopManager.html#aea540a972ff4cba15544e2af9ed33ff6" title="LoopManager::AdjustOutput\lVolume" alt="" coords="490,485,693,526"/>
+<area shape="rect" id="node18" href="$classLoopManager.html#a3a31dbd91e9ad302fc64ea941f0a0165" title="LoopManager::AdjustInput\lVolume" alt="" coords="496,563,687,605"/>
+<area shape="rect" id="node20" href="$classMidiIO.html#a222509803679fcf4bcb7b4b4a34cf0cd" title="MidiIO::activate" alt="" coords="799,640,923,667"/>
+<area shape="rect" id="node22" href="$classPatchBrowser.html#a90246446ed1a2650a2a7555f5d76c653" title="PatchBrowser::SetMIDIFor\lPatch" alt="" coords="497,687,685,729"/>
+<area shape="rect" id="node23" href="$classFweelin.html#acacaa80535c0688358984d2070fedb71" title="Fweelin::ItemSelected" alt="" coords="778,695,945,721"/>
+<area shape="rect" id="node25" href="$classOSCClient.html#a8b38ea5b76702f9e763daeb694091116" title="OSCClient::ReceiveEvent" alt="" coords="500,753,683,780"/>
+</map>

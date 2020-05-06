@@ -1,0 +1,9 @@
+<map id="BlockManager::BlockManager" name="BlockManager::BlockManager">
+<area shape="rect" id="node2" href="$classFweelin.html#a2fd02f86f34253432dd13776434f16db" title="Fweelin::getMMG" alt="" coords="313,23,447,49"/>
+<area shape="rect" id="node3" href="$classBlockManager.html#a07b5a821c70151176fbf3db215dbba82" title="BlockManager::run_manage\l_thread" alt="" coords="279,74,481,115"/>
+<area shape="rect" id="node8" href="$classRT__RWThreads.html#af83b41e330638728272af35ff18dfa01" title="RT_RWThreads::RegisterReader\lOrWriter" alt="" coords="268,139,492,181"/>
+<area shape="rect" id="node4" href="$classManagedChain.html#a24205aa4547a5a79484244a941760662" title="ManagedChain::Manage" alt="" coords="541,5,718,32"/>
+<area shape="rect" id="node5" href="$classPreallocated.html#aaf2139a79ca16de70acd9bc4564171b7" title="Preallocated::RTDelete" alt="" coords="544,56,715,83"/>
+<area shape="rect" id="node6" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="566,107,693,133"/>
+<area shape="rect" id="node7" href="$classManagedChain.html#a6a392adc8f5b7725af60baac4ab93180" title="ManagedChain::GetType" alt="" coords="540,157,719,184"/>
+</map>

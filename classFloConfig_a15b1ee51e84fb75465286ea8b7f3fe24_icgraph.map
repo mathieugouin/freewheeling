@@ -1,0 +1,14 @@
+<map id="FloConfig::GetMaxSnapshots" name="FloConfig::GetMaxSnapshots">
+<area shape="rect" id="node2" href="$classTriggerMap.html#a92e251eec5a7c5741807805b6869fab8" title="TriggerMap::GoSave" alt="" coords="297,5,448,32"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a7acf07456e2837b96814226e81fdac30" title="LoopManager::UpdateLoopLists\l_ItemAdded" alt="" coords="260,57,485,98"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="1067,148,1272,175"/>
+<area shape="rect" id="node8" href="$classLoopManager.html#af9b1708b49b00b353059227a458e1887" title="LoopManager::UpdateLoopLists\l_ItemRemoved" alt="" coords="260,195,485,237"/>
+<area shape="rect" id="node12" href="$classLoopManager.html#aeabdbc5dd40563f5c4577228908f5179" title="LoopManager::UpdateLoopLists\l_ItemMoved" alt="" coords="533,307,759,349"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="541,5,751,32"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a861cdd2ace9aeb53b4ecf92728215265" title="LoopManager::Deactivate" alt="" coords="552,64,740,91"/>
+<area shape="rect" id="node6" href="$classFweelin.html#a4654015e2bc7cc94f3bfc421899a60d3" title="Fweelin::TriggerSnapshot" alt="" coords="821,21,1005,48"/>
+<area shape="rect" id="node9" href="$classLoopManager.html#a332a9868980750f28fbf0e05b2336174" title="LoopManager::DeleteLoop" alt="" coords="551,213,741,240"/>
+<area shape="rect" id="node10" href="$classLoopManager.html#a6048a702c9cec3676a1c56792b16ec44" title="LoopManager::ReadComplete" alt="" coords="807,224,1019,251"/>
+<area shape="rect" id="node11" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="815,275,1010,301"/>
+<area shape="rect" id="node13" href="$classLoopManager.html#af67b2c3a3417115739cccbe6360828fe" title="LoopManager::MoveLoop" alt="" coords="821,325,1004,352"/>
+</map>

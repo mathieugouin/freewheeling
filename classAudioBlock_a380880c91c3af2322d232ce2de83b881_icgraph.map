@@ -1,0 +1,34 @@
+<map id="AudioBlock::GetTotalLen" name="AudioBlock::GetTotalLen">
+<area shape="rect" id="node2" href="$classAudioBlock.html#a09c778d19d7d45dbb68951fabff2f518" title="AudioBlock::Smooth" alt="" coords="567,173,720,200"/>
+<area shape="rect" id="node12" href="$classAudioBlock.html#aea20227efbc9017f7fb247cb2d851086" title="AudioBlock::GenerateSubChain" alt="" coords="241,439,465,465"/>
+<area shape="rect" id="node14" href="$classAudioBlock.html#aa9e0bc3fa297c7c97aedda16f240108f" title="AudioBlock::HackTotalLengthBy" alt="" coords="239,188,467,215"/>
+<area shape="rect" id="node15" href="$classAudioBlockIterator.html#aee775d7a85e66fa08144b582658a9cac" title="AudioBlockIterator\l::Jump" alt="" coords="282,355,425,397"/>
+<area shape="rect" id="node17" href="$classRecordProcessor.html#a8fbde2e8b6f9e9dafb89ef0b06e6a11a" title="RecordProcessor::Jump" alt="" coords="558,224,729,251"/>
+<area shape="rect" id="node20" href="$classLoopManager.html#ade17096b555db9f73679815e53a19429" title="LoopManager::GetLength" alt="" coords="261,489,445,516"/>
+<area shape="rect" id="node27" href="$classLoopManager.html#ada4d7a3e7f2d1a07b295aae79c1c5489" title="LoopManager::GetRoundedLength" alt="" coords="233,540,473,567"/>
+<area shape="rect" id="node30" href="$classVideoIO.html#adca60a99be6e51d8af7ce2a32f92349a" title="VideoIO::DrawLoop" alt="" coords="570,629,717,656"/>
+<area shape="rect" id="node31" href="$classLoopManager.html#aa0d9e2fff052bf7776c1146f3f2a452e" title="LoopManager::GetPos" alt="" coords="272,641,435,668"/>
+<area shape="rect" id="node32" href="$classLoopManager.html#a306ffe72c9623e33cad280ec3609c359" title="LoopManager::SetupSaveLoop" alt="" coords="245,692,462,719"/>
+<area shape="rect" id="node3" href="$classBlockReadManager.html#a0956beb932559fdea3ecca152db2bd0a" title="BlockReadManager::End" alt="" coords="832,123,1011,149"/>
+<area shape="rect" id="node8" href="$classRecordProcessor.html#a9984f573bbc265321ad0604f97b23820" title="RecordProcessor::EndNow" alt="" coords="826,275,1017,301"/>
+<area shape="rect" id="node4" href="$classBlockReadManager.html#a935aa663d9fa5b6d346f77c7b3882e2b" title="BlockReadManager::\l~BlockReadManager" alt="" coords="1106,57,1263,98"/>
+<area shape="rect" id="node5" href="$classBlockReadManager.html#af12804c61f944904eedf8c9edf5cd3bd" title="BlockReadManager::Start" alt="" coords="1092,173,1277,200"/>
+<area shape="rect" id="node6" href="$classBlockReadManager.html#aa990976dec4a3ec5bd6384b54ce5f09b" title="BlockReadManager::Manage" alt="" coords="1340,148,1545,175"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#aadca58536e41c8b0b8fd148ac40b23c0" title="LoopManager::~LoopManager" alt="" coords="1077,5,1292,32"/>
+<area shape="rect" id="node9" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="1083,224,1286,251"/>
+<area shape="rect" id="node10" href="$classRecordProcessor.html#ab035edfb707f8f1066b3597df7ddda7d" title="RecordProcessor::End" alt="" coords="1104,275,1265,301"/>
+<area shape="rect" id="node11" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="1091,325,1278,352"/>
+<area shape="rect" id="node13" href="$classRecordProcessor.html#aa20c0f68a5ee5e4739759b3783b6e4d1" title="RecordProcessor::RecordProcessor" alt="" coords="521,477,765,504"/>
+<area shape="rect" id="node16" href="$classRecordProcessor.html#a1aea5f833c59a12398b05b514b26b572" title="RecordProcessor::RecordProcessor" alt="" coords="521,376,765,403"/>
+<area shape="rect" id="node18" href="$classPlayProcessor.html#a4f2f7e937cc77b2516d03aa76d29519d" title="PlayProcessor::PlayProcessor" alt="" coords="537,427,749,453"/>
+<area shape="rect" id="node19" href="$classPlayProcessor.html#a13ce406fdf45f876f305b01c031f04a2" title="PlayProcessor::PulseSync" alt="" coords="550,275,737,301"/>
+<area shape="rect" id="node21" href="$classLoopManager.html#ab9cb8744d6082938582fd30e75a7f482" title="LoopManager::CreatePulse" alt="" coords="546,528,741,555"/>
+<area shape="rect" id="node22" href="$classLoopManager.html#ab79aef15f1e783de1ab6827378bea274" title="LoopManager::SelectPulse" alt="" coords="825,528,1017,555"/>
+<area shape="rect" id="node25" href="$classLoopManager.html#ac70cdd5344c524d6aedfe5c67e856409" title="LoopManager::SetupLoadLoop" alt="" coords="813,477,1029,504"/>
+<area shape="rect" id="node23" href="$classLoopManager.html#a67c6f44d33880b35c875a8e6ea8babac" title="LoopManager::TapPulse" alt="" coords="1097,579,1272,605"/>
+<area shape="rect" id="node24" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="1340,553,1545,580"/>
+<area shape="rect" id="node26" href="$classLoopManager.html#a564ecf9fdbe0fa8709ebc046afc148d5" title="LoopManager::GetReadBlock" alt="" coords="1081,477,1289,504"/>
+<area shape="rect" id="node28" href="$classOSCClient.html#acbb974bf11667aa6fb48c111ae14a4fe" title="OSCClient::SendPlayingLoops" alt="" coords="537,579,750,605"/>
+<area shape="rect" id="node29" href="$classOSCClient.html#a8b38ea5b76702f9e763daeb694091116" title="OSCClient::ReceiveEvent" alt="" coords="830,579,1013,605"/>
+<area shape="rect" id="node33" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="538,692,749,719"/>
+</map>

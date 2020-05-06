@@ -1,0 +1,7 @@
+<map id="Fweelin::getSNAP" name="Fweelin::getSNAP">
+<area shape="rect" id="node2" href="$classFloDisplaySnapshots.html#afb7aeeaa71af5466e371927d3c11f39f" title="FloDisplaySnapshots\l::Rename" alt="" coords="204,5,361,47"/>
+<area shape="rect" id="node4" href="$classFloDisplaySnapshots.html#a9e6492664d93b6ee3bbc69196bbbfb8b" title="FloDisplaySnapshots\l::ItemRenamed" alt="" coords="204,71,361,112"/>
+<area shape="rect" id="node5" href="$classFweelin.html#a4654015e2bc7cc94f3bfc421899a60d3" title="Fweelin::TriggerSnapshot" alt="" coords="191,137,375,163"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a05a6a438d14482e2f22aa802cfb432e8" title="LoopManager::LoadScene" alt="" coords="189,187,376,214"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="424,75,629,102"/>
+</map>

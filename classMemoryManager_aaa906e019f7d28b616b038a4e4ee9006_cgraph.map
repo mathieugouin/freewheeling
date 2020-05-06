@@ -1,0 +1,11 @@
+<map id="MemoryManager::ProcessQueue" name="MemoryManager::ProcessQueue">
+<area shape="rect" id="node2" href="$classSRMWRingBuffer.html#ae907e34d6dc9fff4f1e3955dd3aa53b7" title="SRMWRingBuffer::ReadElement" alt="" coords="287,5,513,32"/>
+<area shape="rect" id="node3" href="$classMemoryManagerUpdate.html#aeee060760229cbcbdb9801f9873156d1" title="MemoryManagerUpdate\l::IsValid" alt="" coords="311,57,489,98"/>
+<area shape="rect" id="node4" href="$classPreallocatedType.html#aeb51d964fefa41b30cbcdf8b97882121" title="PreallocatedType::GoPostdelete" alt="" coords="286,123,514,149"/>
+<area shape="rect" id="node6" href="$classPreallocatedType.html#a58ec3848b8d6e75e6e65f6be93e79276" title="PreallocatedType::GoPreallocate" alt="" coords="284,199,516,225"/>
+<area shape="rect" id="node5" href="$classPreallocated.html#a5d458f28b1cd937b14fd9907278b7f45" title="Preallocated::Recycle" alt="" coords="598,97,759,124"/>
+<area shape="rect" id="node7" href="$classPreallocated.html#a6c7fad49a12301624b0dfbd9cef2f358" title="Preallocated::NewInstance" alt="" coords="581,148,776,175"/>
+<area shape="rect" id="node8" href="$classPreallocated.html#ad31c546d3c1641b44135dccb4ef0cafd" title="Preallocated::SetupPreallocated" alt="" coords="564,199,793,225"/>
+<area shape="rect" id="node9" href="$classRTStore.html#af3c93f31bd68ce149a812b05d9e7cd86" title="RTStore::ChangeStateAtIdx" alt="" coords="580,249,777,276"/>
+<area shape="rect" id="node10" href="$classRTStore.html#a491601a177c671d8700a30d775d37bad" title="RTStore::GetItemAtIdx" alt="" coords="595,300,762,327"/>
+</map>

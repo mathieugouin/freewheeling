@@ -1,0 +1,5 @@
+<map id="EventManager::DeleteQueue" name="EventManager::DeleteQueue">
+<area shape="rect" id="node2" href="$classLoopManager.html#aadca58536e41c8b0b8fd148ac40b23c0" title="LoopManager::~LoopManager" alt="" coords="262,5,477,32"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#af213761ccf6208b94354a3658de91cfb" title="LoopManager::CheckSaveMap" alt="" coords="261,56,477,83"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="525,56,736,83"/>
+</map>

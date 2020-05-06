@@ -1,0 +1,11 @@
+<map id="Fweelin::LoadSnapshot" name="Fweelin::LoadSnapshot">
+<area shape="rect" id="node2" href="$classTriggerMap.html#ac8dd153318fc2546c999bd5184c827cf" title="TriggerMap::TouchMap" alt="" coords="238,56,403,83"/>
+<area shape="rect" id="node5" href="$classSnapshot.html#a1616e84bbc439dfb50eb827a27e4f6fd" title="Snapshot::CreateSnapshot" alt="" coords="224,183,417,209"/>
+<area shape="rect" id="node3" href="$fweelin__event_8h.html#a0bb68d7f77df8d1848af0e9fc6716197" title="mygettime" alt="" coords="520,5,615,32"/>
+<area shape="rect" id="node4" href="$classSaveable.html#a60561f2bd64b6e0044bae84729d3a01a" title="Saveable::SetSaveStatus" alt="" coords="475,56,659,83"/>
+<area shape="rect" id="node6" href="$classTriggerMap.html#a17fce9bb5d04e10463484c2bd6dff6f4" title="TriggerMap::CountLoops" alt="" coords="479,107,656,133"/>
+<area shape="rect" id="node7" href="$classTriggerMap.html#aa7d410849b2b17c3623c6d105241418e" title="TriggerMap::GetMapSize" alt="" coords="478,157,657,184"/>
+<area shape="rect" id="node8" href="$classTriggerMap.html#aca3f85b40f3aa29a280c2d7511b84217" title="TriggerMap::GetMap" alt="" coords="492,208,643,235"/>
+<area shape="rect" id="node9" href="$classLoopManager.html#a66574bbc447d4f891ef382469c521b05" title="LoopManager::GetStatus" alt="" coords="477,259,658,285"/>
+<area shape="rect" id="node10" href="$classLoopManager.html#ab9c9e72e1a23b34c15a87dc13fb02672" title="LoopManager::GetTriggerVol" alt="" coords="465,309,669,336"/>
+</map>

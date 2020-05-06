@@ -1,0 +1,5 @@
+<map id="AudioBlock::HackTotalLengthBy" name="AudioBlock::HackTotalLengthBy">
+<area shape="rect" id="node2" href="$classAudioBlock.html#a380880c91c3af2322d232ce2de83b881" title="AudioBlock::GetTotalLen" alt="" coords="294,5,474,32"/>
+<area shape="rect" id="node3" href="$classAudioBlock.html#a4f53140535b4c56db4c5360f3fb9eb7d" title="AudioBlock::SetPtrsFromAbs\lOffset" alt="" coords="281,57,487,98"/>
+<area shape="rect" id="node4" href="$classPreallocated.html#aaf2139a79ca16de70acd9bc4564171b7" title="Preallocated::RTDelete" alt="" coords="299,123,469,149"/>
+</map>

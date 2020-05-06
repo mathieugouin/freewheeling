@@ -1,0 +1,13 @@
+<map id="MidiIO::SetMIDIForPatch" name="MidiIO::SetMIDIForPatch">
+<area shape="rect" id="node2" href="$classPatchItem.html#a193dba9833309437fed1241957cd20dd" title="PatchItem::IsCombi" alt="" coords="283,5,431,32"/>
+<area shape="rect" id="node3" href="$classPatchItem.html#a80e0a72bb7db8f68cd4f7bc32bb36361" title="PatchItem::GetZone" alt="" coords="281,56,432,83"/>
+<area shape="rect" id="node4" href="$classMidiIO.html#a768bb4ca3d6df0d4d7b2dfcc95ce8417" title="MidiIO::getBP" alt="" coords="302,107,411,133"/>
+<area shape="rect" id="node5" href="$classFweelin.html#acb51892233f08f4b0b9f2e7d7a625448" title="Fweelin::getAUDIO" alt="" coords="285,157,429,184"/>
+<area shape="rect" id="node6" href="$classAudioIO.html#ab175bb73ae9aadb84940dace46c71fd8" title="AudioIO::get_srate" alt="" coords="285,208,428,235"/>
+<area shape="rect" id="node7" href="$classEvent.html#aa67af0ae99b897e4f0ce42068c4e4c00" title="Event::GetEventByType" alt="" coords="269,259,444,285"/>
+<area shape="rect" id="node8" href="$classFweelin.html#a21e51d7b639faaecc415624ab6c16a71" title="Fweelin::getEMG" alt="" coords="291,309,422,336"/>
+<area shape="rect" id="node9" href="$classEventManager.html#a4a73f2e7ff1724f28427f7c0d5725c8e" title="EventManager::BroadcastEventNow" alt="" coords="229,360,484,387"/>
+<area shape="rect" id="node10" href="$classEvent.html#ac4c4170579544b41dff38ca1b8110e30" title="Event::GetType" alt="" coords="575,309,695,336"/>
+<area shape="rect" id="node11" href="$classEventListener.html#a831820a9229e852bd7e2fad686b725b2" title="EventListener::ReceiveEvent" alt="" coords="532,360,739,387"/>
+<area shape="rect" id="node12" href="$classPreallocated.html#aaf2139a79ca16de70acd9bc4564171b7" title="Preallocated::RTDelete" alt="" coords="550,411,721,437"/>
+</map>

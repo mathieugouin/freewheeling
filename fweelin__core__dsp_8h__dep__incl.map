@@ -1,0 +1,20 @@
+<map id="src/fweelin_core_dsp.h" name="src/fweelin_core_dsp.h">
+<area shape="rect" id="node2" href="$fweelin__core_8h.html" title="src/fweelin_core.h" alt="" coords="896,80,1036,107"/>
+<area shape="rect" id="node4" href="$fweelin_8cc.html" title="src/fweelin.cc" alt="" coords="5,162,116,189"/>
+<area shape="rect" id="node9" href="$fweelin__config_8cc.html" title="src/fweelin_config.cc" alt="" coords="141,162,298,189"/>
+<area shape="rect" id="node18" href="$fweelin__audioio_8cc.html" title="src/fweelin_audioio.cc" alt="" coords="1060,80,1227,107"/>
+<area shape="rect" id="node19" href="$fweelin__core__dsp_8cc.html" title="src/fweelin_core_dsp.cc" alt="" coords="1251,80,1427,107"/>
+<area shape="rect" id="node3" href="$FweelinMac_8mm.html" title="MacOSX/FweelinMac.mm" alt="" coords="1428,162,1613,189"/>
+<area shape="rect" id="node5" href="$fweelin__amixer_8h.html" title="src/fweelin_amixer.h" alt="" coords="322,162,479,189"/>
+<area shape="rect" id="node7" href="$fweelin__block_8cc.html" title="src/fweelin_block.cc" alt="" coords="1689,162,1843,189"/>
+<area shape="rect" id="node8" href="$fweelin__browser_8cc.html" title="src/fweelin_browser.cc" alt="" coords="1867,162,2036,189"/>
+<area shape="rect" id="node10" href="$fweelin__core_8cc.html" title="src/fweelin_core.cc" alt="" coords="2141,244,2287,271"/>
+<area shape="rect" id="node11" href="$fweelin__looplibrary_8h.html" title="src/fweelin_looplibrary.h" alt="" coords="2060,162,2240,189"/>
+<area shape="rect" id="node12" href="$fweelin__osc_8cc.html" title="src/fweelin_osc.cc" alt="" coords="1747,244,1887,271"/>
+<area shape="rect" id="node13" href="$fweelin__midiio_8cc.html" title="src/fweelin_midiio.cc" alt="" coords="504,162,663,189"/>
+<area shape="rect" id="node14" href="$fweelin__paramset_8cc.html" title="src/fweelin_paramset.cc" alt="" coords="687,162,867,189"/>
+<area shape="rect" id="node15" href="$fweelin__sdlio_8cc.html" title="src/fweelin_sdlio.cc" alt="" coords="891,162,1041,189"/>
+<area shape="rect" id="node16" href="$fweelin__videoio_8cc.html" title="src/fweelin_videoio.cc" alt="" coords="1065,162,1232,189"/>
+<area shape="rect" id="node17" href="$fweelin__videoio__displays_8cc.html" title="src/fweelin_videoio\l_displays.cc" alt="" coords="1256,155,1404,196"/>
+<area shape="rect" id="node6" href="$fweelin__amixer_8cc.html" title="src/fweelin_amixer.cc" alt="" coords="319,244,482,271"/>
+</map>

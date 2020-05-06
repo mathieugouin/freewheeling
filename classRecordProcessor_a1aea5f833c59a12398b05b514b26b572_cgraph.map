@@ -1,0 +1,22 @@
+<map id="RecordProcessor::RecordProcessor" name="RecordProcessor::RecordProcessor">
+<area shape="rect" id="node2" href="$classSaveable.html#a60561f2bd64b6e0044bae84729d3a01a" title="Saveable::SetSaveStatus" alt="" coords="325,5,509,32"/>
+<area shape="rect" id="node3" href="$classFweelin.html#a538440216608aed67e6940c2903c3072" title="Fweelin::getBUFSZ" alt="" coords="345,56,489,83"/>
+<area shape="rect" id="node4" href="$classAudioBlock.html#a5d7b94e41f0f024f767cb5e2d219b3ea" title="AudioBlock::IsStereo" alt="" coords="339,107,495,133"/>
+<area shape="rect" id="node5" href="$classFweelin.html#a8bbb791d815a8c4f39f9ce672828b50e" title="Fweelin::getPRE_EXTRACHANNEL" alt="" coords="297,157,536,184"/>
+<area shape="rect" id="node6" href="$classAudioBlockIterator.html#aee775d7a85e66fa08144b582658a9cac" title="AudioBlockIterator\l::Jump" alt="" coords="345,209,488,250"/>
+<area shape="rect" id="node9" href="$classFweelin.html#a600688955c7470a1b7a2fa95ddcc4118" title="Fweelin::getBMG" alt="" coords="351,275,482,301"/>
+<area shape="rect" id="node10" href="$classBlockManager.html#af050835c736257358a3f572f8422ff1d" title="BlockManager::PeakAvgOn" alt="" coords="319,325,515,352"/>
+<area shape="rect" id="node7" href="$classAudioBlock.html#a380880c91c3af2322d232ce2de83b881" title="AudioBlock::GetTotalLen" alt="" coords="617,157,797,184"/>
+<area shape="rect" id="node8" href="$classAudioBlock.html#a4f53140535b4c56db4c5360f3fb9eb7d" title="AudioBlock::SetPtrsFromAbs\lOffset" alt="" coords="604,209,809,250"/>
+<area shape="rect" id="node11" href="$classBlockManager.html#ae59dae7f7f6572b004dcdacc740204ac" title="BlockManager::DelManager" alt="" coords="607,275,807,301"/>
+<area shape="rect" id="node12" href="$classPreallocatedType.html#a232eab10b1d49ee50f435d175c4ceda5" title="PreallocatedType::RTNewWithWait" alt="" coords="584,325,829,352"/>
+<area shape="rect" id="node19" href="$classPeaksAvgsManager.html#a4523d9df43dc9ee00f25cad935271380" title="PeaksAvgsManager::Setup" alt="" coords="610,376,803,403"/>
+<area shape="rect" id="node21" href="$classBlockManager.html#aa5e8b71de591a2e25779a1eacdc09704" title="BlockManager::AddManager" alt="" coords="605,427,808,453"/>
+<area shape="rect" id="node13" href="$classPreallocatedType.html#ae8a5326530dd0f38ecbb094f7818bd42" title="PreallocatedType::RTNew" alt="" coords="877,321,1064,348"/>
+<area shape="rect" id="node14" href="$classRTStore.html#a2be0d247570dc611a379ab0a80dd14da" title="RTStore::FindItemWithState" alt="" coords="1112,271,1312,297"/>
+<area shape="rect" id="node15" href="$classRTStore.html#af3c93f31bd68ce149a812b05d9e7cd86" title="RTStore::ChangeStateAtIdx" alt="" coords="1113,321,1311,348"/>
+<area shape="rect" id="node16" href="$classMemoryManager.html#a3971e97751f5eccd04086eb2e6fb6f43" title="MemoryManager::WakeUp" alt="" coords="1115,372,1309,399"/>
+<area shape="rect" id="node17" href="$classSRMWRingBuffer.html#a47699ccc0600c38559c8e10f0ca9bf3c" title="SRMWRingBuffer::WriteElement" alt="" coords="1372,347,1599,373"/>
+<area shape="rect" id="node18" href="$classMemoryManager.html#ab15be510a88e9eab04db2d6554d7e947" title="MemoryManager::WakeupIfNeeded" alt="" coords="1360,397,1611,424"/>
+<area shape="rect" id="node20" href="$classAudioBlockIterator.html#a1dc8579425203e09e42b1776095cc10b" title="AudioBlockIterator\l::AudioBlockIterator" alt="" coords="895,373,1046,414"/>
+</map>

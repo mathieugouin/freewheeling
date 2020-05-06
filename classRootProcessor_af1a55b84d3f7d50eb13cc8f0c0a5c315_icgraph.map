@@ -1,0 +1,4 @@
+<map id="RootProcessor::AdjustInputVolume" name="RootProcessor::AdjustInputVolume">
+<area shape="rect" id="node2" href="$classLoopManager.html#a3a31dbd91e9ad302fc64ea941f0a0165" title="LoopManager::AdjustInput\lVolume" alt="" coords="249,5,440,47"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="488,13,693,39"/>
+</map>

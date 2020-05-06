@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classiFileDecoder.html" title="iFileDecoder" alt="" coords="5,31,108,57"/>
+<area shape="rect" id="node2" href="$classSndFileDecoder.html" title="SndFileDecoder" alt="" coords="156,5,279,32"/>
+<area shape="rect" id="node3" href="$classVorbisDecoder.html" title="VorbisDecoder" alt="" coords="159,56,275,83"/>
+</map>

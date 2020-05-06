@@ -1,0 +1,7 @@
+<map id="Preallocated::NewInstance" name="Preallocated::NewInstance">
+<area shape="rect" id="node2" href="$classPreallocatedType.html#a47a56c8e647fd52937675b473657fb9c" title="PreallocatedType::PreallocatedType" alt="" coords="248,5,500,32"/>
+<area shape="rect" id="node3" href="$classPreallocatedType.html#a58ec3848b8d6e75e6e65f6be93e79276" title="PreallocatedType::GoPreallocate" alt="" coords="258,56,490,83"/>
+<area shape="rect" id="node4" href="$classMemoryManager.html#aaa906e019f7d28b616b038a4e4ee9006" title="MemoryManager::ProcessQueue" alt="" coords="548,56,779,83"/>
+<area shape="rect" id="node5" href="$classMemoryManager.html#a8db8172ce6d7ac082b38a28af3394b72" title="MemoryManager::run\l_mgr_thread" alt="" coords="827,49,987,90"/>
+<area shape="rect" id="node6" href="$classMemoryManager.html#ae925e8ad4d8fe6f0565e9d5729f59593" title="MemoryManager::MemoryManager" alt="" coords="1035,56,1283,83"/>
+</map>

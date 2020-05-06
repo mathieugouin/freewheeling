@@ -1,0 +1,8 @@
+<map id="LoopManager::StripePulseOff" name="LoopManager::StripePulseOff">
+<area shape="rect" id="node2" href="$classFweelin.html#a600688955c7470a1b7a2fa95ddcc4118" title="Fweelin::getBMG" alt="" coords="305,5,435,32"/>
+<area shape="rect" id="node3" href="$classBlockManager.html#a290ea3b68216dc3fbd0f5dadab956290" title="BlockManager::StripeBlockOff" alt="" coords="263,56,477,83"/>
+<area shape="rect" id="node6" href="$classFweelin.html#a079cfb110e3dd58369b57009b4e74342" title="Fweelin::getAMPEAKS" alt="" coords="289,107,451,133"/>
+<area shape="rect" id="node7" href="$classFweelin.html#a6532e9aca57e2ec68ee5336113152bd5" title="Fweelin::getAUDIOMEM" alt="" coords="283,157,457,184"/>
+<area shape="rect" id="node4" href="$classBlockManager.html#a5566277a4ec6c8a5347470433843b998" title="BlockManager::DelHiManager" alt="" coords="525,56,740,83"/>
+<area shape="rect" id="node5" href="$classHiPriManagedChain.html#a65066950fc82d852fd81af83cf558b4f" title="HiPriManagedChain::\lGetType" alt="" coords="788,49,945,90"/>
+</map>

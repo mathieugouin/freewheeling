@@ -1,0 +1,51 @@
+<map id="Event::GetType" name="Event::GetType">
+<area shape="rect" id="node2" href="$classItemRenamer.html#abec484b81397379c8ec02a8cc2fb881a" title="ItemRenamer::HookEvent" alt="" coords="206,5,395,32"/>
+<area shape="rect" id="node3" href="$classBrowser.html#a18b4b2d6dca19f3bbcf16ab06516499d" title="Browser::ReceiveEvent" alt="" coords="215,107,386,133"/>
+<area shape="rect" id="node4" href="$classLoopTray.html#a21244637a1cbb93a0b5603fa760ac25a" title="LoopTray::ReceiveEvent" alt="" coords="504,56,679,83"/>
+<area shape="rect" id="node5" href="$classPatchBrowser.html#afe16db0d16d5a5d0f8dda53363f14fce" title="PatchBrowser::ReceiveEvent" alt="" coords="488,107,695,133"/>
+<area shape="rect" id="node6" href="$classInputMatrix.html#ab36ad421b65b64d6e64f228b84792b4c" title="InputMatrix::CreateParameterSets" alt="" coords="179,309,422,336"/>
+<area shape="rect" id="node7" href="$classInputMatrix.html#a792ede8dc637e3d8e6c4aa8141596d18" title="InputMatrix::CreateBinding" alt="" coords="493,157,689,184"/>
+<area shape="rect" id="node8" href="$classInputMatrix.html#a767b7c5cd149e18a51105922aa9e8abb" title="InputMatrix::CreateConditions" alt="" coords="193,259,409,285"/>
+<area shape="rect" id="node9" href="$classInputMatrix.html#aa74204a205a10f2b60809ea124db9173" title="InputMatrix::ReceiveEvent" alt="" coords="495,309,687,336"/>
+<area shape="rect" id="node10" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="195,469,406,496"/>
+<area shape="rect" id="node11" href="$classLoopManager.html#a564ecf9fdbe0fa8709ebc046afc148d5" title="LoopManager::GetReadBlock" alt="" coords="197,520,405,547"/>
+<area shape="rect" id="node12" href="$classLoopManager.html#a6048a702c9cec3676a1c56792b16ec44" title="LoopManager::ReadComplete" alt="" coords="1021,993,1233,1020"/>
+<area shape="rect" id="node13" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="1025,1145,1230,1172"/>
+<area shape="rect" id="node14" href="$classRootProcessor.html#a284d74b5bce759f3f71411440998bfab" title="RootProcessor::ReceiveEvent" alt="" coords="195,672,406,699"/>
+<area shape="rect" id="node15" href="$classRootProcessor.html#acb13a2a0320ef6b5a57ede966e468842" title="RootProcessor::UpdateProcessors" alt="" coords="181,571,420,597"/>
+<area shape="rect" id="node17" href="$classFileStreamer.html#ac88e06227e5c2075c8e669e7637af147" title="FileStreamer::ReceiveEvent" alt="" coords="201,804,401,831"/>
+<area shape="rect" id="node18" href="$classEventManager.html#a4a73f2e7ff1724f28427f7c0d5725c8e" title="EventManager::BroadcastEventNow" alt="" coords="173,753,428,780"/>
+<area shape="rect" id="node44" href="$classMidiIO.html#a90cc0dad2841a9386a0c86efc1d9dce6" title="MidiIO::ReceiveEvent" alt="" coords="785,1373,943,1400"/>
+<area shape="rect" id="node45" href="$classMidiIO.html#a9f130a6f6732fcdc5c111a5708afb64f" title="MidiIO::EchoEventToPortChannel" alt="" coords="185,1424,417,1451"/>
+<area shape="rect" id="node46" href="$classMidiIO.html#aae58e8a30b732a5eee97d76785a5909a" title="MidiIO::EchoEvent" alt="" coords="522,1399,661,1425"/>
+<area shape="rect" id="node47" href="$classOSCClient.html#a8b38ea5b76702f9e763daeb694091116" title="OSCClient::ReceiveEvent" alt="" coords="209,1475,392,1501"/>
+<area shape="rect" id="node48" href="$classFloDisplayParamSet.html#a80785cfd3aaeaa5fd4bdf7d64a24f247" title="FloDisplayParamSet\l::ReceiveEvent" alt="" coords="225,1526,377,1567"/>
+<area shape="rect" id="node49" href="$classSDLIO.html#a227fbc6f0b2325e3659d2a9cc4c4b143" title="SDLIO::ReceiveEvent" alt="" coords="222,1592,379,1619"/>
+<area shape="rect" id="node50" href="$classVideoIO.html#a9204143b8f6947c0a2a7c0987a1decad" title="VideoIO::ReceiveEvent" alt="" coords="216,1643,385,1669"/>
+<area shape="rect" id="node16" href="$classRootProcessor.html#a014d1405fbd7d67ee4edeb19713ded04" title="RootProcessor::process" alt="" coords="505,259,677,285"/>
+<area shape="rect" id="node19" href="$classFweelinMac.html#ae3b1a5e95aea6b8827a079d965bb0df6" title="FweelinMac::SetDebugMode" alt="" coords="489,360,693,387"/>
+<area shape="rect" id="node21" href="$classFweelinMac.html#a1454097dbdc67c119aa91662e66cb4b2" title="FweelinMac::Quit" alt="" coords="525,943,658,969"/>
+<area shape="rect" id="node23" href="$classFweelinMac.html#ab485e9439ebef90a89b724c4219f9474" title="FweelinMac::ShowHelp" alt="" coords="506,993,677,1020"/>
+<area shape="rect" id="node25" href="$classBrowser.html#a71b602afb445cf9d41ef51ddc2696485" title="Browser::MoveTo" alt="" coords="525,1095,657,1121"/>
+<area shape="rect" id="node26" href="$classFloConfig.html#a87625b8761486bb3bc5d40ee2b70d7e4" title="FloConfig::StartInterfaces" alt="" coords="498,1145,685,1172"/>
+<area shape="rect" id="node27" href="$classTriggerMap.html#af9da9145253cd2713f7c1c60701666fa" title="TriggerMap::SetMap" alt="" coords="517,1044,666,1071"/>
+<area shape="rect" id="node31" href="$classPulse.html#aec20778ec5fcc2a6cefed47add36272f" title="Pulse::SetMIDIClock" alt="" coords="516,1196,667,1223"/>
+<area shape="rect" id="node34" href="$classPulse.html#adf28cef50c1f7543db7171b67126c38f" title="Pulse::process" alt="" coords="534,1247,649,1273"/>
+<area shape="rect" id="node35" href="$classEventManager.html#ab363d5886ccb130eaab896bf0f7faebb" title="EventManager::run_dispatch\l_thread" alt="" coords="488,411,695,453"/>
+<area shape="rect" id="node36" href="$classMidiIO.html#a5fcccad3304e6bb1ad7b85048c63752f" title="MidiIO::ReceiveNoteOffEvent" alt="" coords="487,477,696,504"/>
+<area shape="rect" id="node37" href="$classMidiIO.html#ad5430028f18c43ed962f2438e2994263" title="MidiIO::ReceiveNoteOnEvent" alt="" coords="487,528,695,555"/>
+<area shape="rect" id="node38" href="$classMidiIO.html#a001f1cae37f9d400fd18f2eb6b8863f9" title="MidiIO::ReceivePitchBend\lEvent" alt="" coords="498,579,685,621"/>
+<area shape="rect" id="node39" href="$classMidiIO.html#a3c920e2fb0aa4e148743ade4e2663121" title="MidiIO::ReceiveChannelPressure\lEvent" alt="" coords="476,645,707,686"/>
+<area shape="rect" id="node40" href="$classMidiIO.html#a1890f712cf869eba7a225a068ab90c21" title="MidiIO::ReceiveProgramChange\lEvent" alt="" coords="478,710,705,751"/>
+<area shape="rect" id="node41" href="$classMidiIO.html#a6fcfe9477a84a6ccc6a449765aff6f63" title="MidiIO::ReceiveControlChange\lEvent" alt="" coords="482,775,701,817"/>
+<area shape="rect" id="node42" href="$classMidiIO.html#a1753eb05e14eb572a5f52b9616480d55" title="MidiIO::SetMIDIForPatch" alt="" coords="503,841,679,868"/>
+<area shape="rect" id="node43" href="$classSDLIO.html#ad1b1bf6d23251b3014749b18497c1b91" title="SDLIO::run_sdl_thread" alt="" coords="509,892,674,919"/>
+<area shape="rect" id="node20" href="$interfaceSDLMain.html#a77e54985a7877b9a5acfa0d2c427b921" title="&#45;[SDLMain toggleDebugMode:]" alt="" coords="755,360,973,387"/>
+<area shape="rect" id="node22" href="$interfaceSDLMain.html#a3a93b24c8af36c43942a8e9e43fd711d" title="&#45;[SDLMain quitFW:]" alt="" coords="791,892,937,919"/>
+<area shape="rect" id="node24" href="$interfaceSDLMain.html#a4f87fa7a68047939f25b47c0c2b8bfdc" title="&#45;[SDLMain showHelp:]" alt="" coords="781,943,947,969"/>
+<area shape="rect" id="node28" href="$classLoopManager.html#af67b2c3a3417115739cccbe6360828fe" title="LoopManager::MoveLoop" alt="" coords="773,1095,955,1121"/>
+<area shape="rect" id="node29" href="$classLoopManager.html#a332a9868980750f28fbf0e05b2336174" title="LoopManager::DeleteLoop" alt="" coords="769,1044,959,1071"/>
+<area shape="rect" id="node30" href="$classLoopManager.html#a861cdd2ace9aeb53b4ecf92728215265" title="LoopManager::Deactivate" alt="" coords="770,1145,958,1172"/>
+<area shape="rect" id="node32" href="$classLoopManager.html#ab79aef15f1e783de1ab6827378bea274" title="LoopManager::SelectPulse" alt="" coords="768,1196,960,1223"/>
+<area shape="rect" id="node33" href="$classLoopManager.html#a705436ae811a121ed3285ab34b144bfe" title="LoopManager::CreatePulse" alt="" coords="767,1247,961,1273"/>
+</map>

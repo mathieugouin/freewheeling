@@ -1,0 +1,11 @@
+<map id="MidiIO::getBP" name="MidiIO::getBP">
+<area shape="rect" id="node2" href="$classMidiIO.html#a1753eb05e14eb572a5f52b9616480d55" title="MidiIO::SetMIDIForPatch" alt="" coords="191,64,367,91"/>
+<area shape="rect" id="node6" href="$classMidiIO.html#a9f130a6f6732fcdc5c111a5708afb64f" title="MidiIO::EchoEventToPortChannel" alt="" coords="163,9,395,36"/>
+<area shape="rect" id="node9" href="$classMidiIO.html#a6551af8e78f2eed77b3193c83fa52d15" title="MidiIO::CheckUnbypass" alt="" coords="191,119,366,145"/>
+<area shape="rect" id="node3" href="$classPatchBrowser.html#a90246446ed1a2650a2a7555f5d76c653" title="PatchBrowser::SetMIDIFor\lPatch" alt="" coords="443,57,631,98"/>
+<area shape="rect" id="node4" href="$classFweelin.html#acacaa80535c0688358984d2070fedb71" title="Fweelin::ItemSelected" alt="" coords="679,64,845,91"/>
+<area shape="rect" id="node5" href="$classMidiIO.html#a222509803679fcf4bcb7b4b4a34cf0cd" title="MidiIO::activate" alt="" coords="700,119,824,145"/>
+<area shape="rect" id="node7" href="$classMidiIO.html#aae58e8a30b732a5eee97d76785a5909a" title="MidiIO::EchoEvent" alt="" coords="467,5,606,32"/>
+<area shape="rect" id="node8" href="$classMidiIO.html#a90cc0dad2841a9386a0c86efc1d9dce6" title="MidiIO::ReceiveEvent" alt="" coords="683,5,841,32"/>
+<area shape="rect" id="node10" href="$classMidiIO.html#aef220bcce8b89bea36032298868a919e" title="MidiIO::run_midi_thread" alt="" coords="448,123,625,149"/>
+</map>

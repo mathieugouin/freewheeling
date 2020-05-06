@@ -1,0 +1,8 @@
+<map id="PlayProcessor::PulseSync" name="PlayProcessor::PulseSync">
+<area shape="rect" id="node2" href="$classProcessor.html#a1ff3aad172b41d0c3c9a1bd06cd6a4ef" title="Processor::dopreprocess" alt="" coords="240,5,420,32"/>
+<area shape="rect" id="node4" href="$classAudioBlockIterator.html#aee775d7a85e66fa08144b582658a9cac" title="AudioBlockIterator\l::Jump" alt="" coords="259,57,401,98"/>
+<area shape="rect" id="node7" href="$classPulse.html#a677b6d7a3863a655360ee7c613aefde7" title="Pulse::GetPos" alt="" coords="275,123,385,149"/>
+<area shape="rect" id="node3" href="$classProcessor.html#a2a6ea9cec150529a6b61898634540254" title="Processor::process" alt="" coords="499,5,642,32"/>
+<area shape="rect" id="node5" href="$classAudioBlock.html#a380880c91c3af2322d232ce2de83b881" title="AudioBlock::GetTotalLen" alt="" coords="481,60,661,87"/>
+<area shape="rect" id="node6" href="$classAudioBlock.html#a4f53140535b4c56db4c5360f3fb9eb7d" title="AudioBlock::SetPtrsFromAbs\lOffset" alt="" coords="468,111,673,153"/>
+</map>

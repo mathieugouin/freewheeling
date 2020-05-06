@@ -1,0 +1,7 @@
+<map id="LoopManager" name="LoopManager">
+<area shape="rect" id="node2" href="$classEventListener.html" title="{EventListener\n||+ ReceiveEvent()\l}" alt="" coords="5,20,140,97"/>
+<area shape="rect" id="node3" href="$classAutoWriteControl.html" title="{AutoWriteControl\n||+ GetWriteBlock()\l}" alt="" coords="164,20,304,97"/>
+<area shape="rect" id="node4" href="$classAutoReadControl.html" title="{AutoReadControl\n||+ GetReadBlock()\l+ ReadComplete()\l}" alt="" coords="328,13,471,105"/>
+<area shape="rect" id="node5" href="$classBrowserCallback.html" title="{BrowserCallback\n||+ ItemBrowsed()\l+ ItemSelected()\l+ ItemRenamed()\l}" alt="" coords="495,5,634,112"/>
+<area shape="rect" id="node6" href="$classRenameCallback.html" title="{RenameCallback\n||+ ItemRenamed()\l}" alt="" coords="658,20,797,97"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="TriggerMap::ScanForHash" name="TriggerMap::ScanForHash">
+<area shape="rect" id="node2" href="$classSaveable.html#adc2366ae4f62d203d464879f189e499d" title="Saveable::GetSaveStatus" alt="" coords="239,5,425,32"/>
+<area shape="rect" id="node3" href="$classSaveable.html#adb4ccb1a19735bcdf0d7c4f43950e5da" title="Saveable::CompareHash" alt="" coords="241,56,423,83"/>
+</map>

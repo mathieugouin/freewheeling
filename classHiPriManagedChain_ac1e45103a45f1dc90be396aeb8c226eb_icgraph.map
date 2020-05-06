@@ -1,0 +1,12 @@
+<map id="HiPriManagedChain::RefDeleted" name="HiPriManagedChain::RefDeleted">
+<area shape="rect" id="node2" href="$classBlockManager.html#ac251e0ace481edc4b8da20dca37472a6" title="BlockManager::HiRefDeleted" alt="" coords="211,107,419,133"/>
+<area shape="rect" id="node3" href="$classBlockManager.html#aed9f3464448ad90022bc613002b912f2" title="BlockManager::RefDeleted" alt="" coords="467,107,661,133"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#aadca58536e41c8b0b8fd148ac40b23c0" title="LoopManager::~LoopManager" alt="" coords="713,5,928,32"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a332a9868980750f28fbf0e05b2336174" title="LoopManager::DeleteLoop" alt="" coords="725,56,916,83"/>
+<area shape="rect" id="node9" href="$classPulse.html#a0081f88108dfc1585a23eae533be0190" title="Pulse::~Pulse" alt="" coords="765,107,876,133"/>
+<area shape="rect" id="node10" href="$classRecordProcessor.html#a63fbf98c72bafa6c2e24a3962bdae70c" title="RecordProcessor::~Record\lProcessor" alt="" coords="725,158,917,199"/>
+<area shape="rect" id="node11" href="$classPlayProcessor.html#a3df8da4a26e768d00b0cfada90b37cc9" title="PlayProcessor::~PlayProcessor" alt="" coords="709,224,932,251"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a6048a702c9cec3676a1c56792b16ec44" title="LoopManager::ReadComplete" alt="" coords="980,5,1192,32"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="989,56,1183,83"/>
+<area shape="rect" id="node8" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="1240,81,1445,108"/>
+</map>

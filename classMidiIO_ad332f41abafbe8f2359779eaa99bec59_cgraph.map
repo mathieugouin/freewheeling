@@ -1,0 +1,4 @@
+<map id="MidiIO::SendBankProgramChangeToPortChannel" name="MidiIO::SendBankProgramChangeToPortChannel">
+<area shape="rect" id="node2" href="$classMidiIO.html#ade75d48e27670a86a2a109f99ea847b7" title="MidiIO::OutputController" alt="" coords="313,5,492,32"/>
+<area shape="rect" id="node3" href="$classMidiIO.html#a181e7eb8c9539f60b3ef934abcd3c5d5" title="MidiIO::OutputProgramChange" alt="" coords="293,56,512,83"/>
+</map>

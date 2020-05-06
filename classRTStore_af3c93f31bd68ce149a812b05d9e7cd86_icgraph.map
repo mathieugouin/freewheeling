@@ -1,0 +1,21 @@
+<map id="RTStore::ChangeStateAtIdx" name="RTStore::ChangeStateAtIdx">
+<area shape="rect" id="node2" href="$classPreallocatedType.html#a47a56c8e647fd52937675b473657fb9c" title="PreallocatedType::PreallocatedType" alt="" coords="251,187,503,213"/>
+<area shape="rect" id="node3" href="$classPreallocatedType.html#ae8a5326530dd0f38ecbb094f7818bd42" title="PreallocatedType::RTNew" alt="" coords="283,237,470,264"/>
+<area shape="rect" id="node17" href="$classPreallocatedType.html#a58ec3848b8d6e75e6e65f6be93e79276" title="PreallocatedType::GoPreallocate" alt="" coords="261,313,493,340"/>
+<area shape="rect" id="node4" href="$classAudioBlockIterator.html#a5cc11c9589308f5da0fea19c701c84b3" title="AudioBlockIterator\l::PutFragment" alt="" coords="602,99,745,141"/>
+<area shape="rect" id="node10" href="$classRecordProcessor.html#aa20c0f68a5ee5e4739759b3783b6e4d1" title="RecordProcessor::RecordProcessor" alt="" coords="1113,233,1357,260"/>
+<area shape="rect" id="node11" href="$classPreallocatedType.html#a232eab10b1d49ee50f435d175c4ceda5" title="PreallocatedType::RTNewWithWait" alt="" coords="551,284,796,311"/>
+<area shape="rect" id="node5" href="$classSndFileDecoder.html#a6f533159127e8f633a12c6fe3f86b4a2" title="SndFileDecoder::ReadSamples" alt="" coords="844,5,1063,32"/>
+<area shape="rect" id="node6" href="$classVorbisDecoder.html#a605d498b0a32990607910576964da546" title="VorbisDecoder::ReadSamples" alt="" coords="847,56,1059,83"/>
+<area shape="rect" id="node7" href="$classRecordProcessor.html#a8fbde2e8b6f9e9dafb89ef0b06e6a11a" title="RecordProcessor::Jump" alt="" coords="868,107,1039,133"/>
+<area shape="rect" id="node9" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="860,157,1047,184"/>
+<area shape="rect" id="node8" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="1133,107,1336,133"/>
+<area shape="rect" id="node12" href="$classBlockReadManager.html#af12804c61f944904eedf8c9edf5cd3bd" title="BlockReadManager::Start" alt="" coords="1142,309,1327,336"/>
+<area shape="rect" id="node14" href="$classBlockManager.html#ac12004ae7d335e81c7cbd463cd614b34" title="BlockManager::GrowChainOn" alt="" coords="848,259,1059,285"/>
+<area shape="rect" id="node15" href="$classBlockManager.html#af050835c736257358a3f572f8422ff1d" title="BlockManager::PeakAvgOn" alt="" coords="855,360,1051,387"/>
+<area shape="rect" id="node13" href="$classBlockReadManager.html#aa990976dec4a3ec5bd6384b54ce5f09b" title="BlockReadManager::Manage" alt="" coords="1407,309,1612,336"/>
+<area shape="rect" id="node16" href="$classRecordProcessor.html#a1aea5f833c59a12398b05b514b26b572" title="RecordProcessor::RecordProcessor" alt="" coords="1113,360,1357,387"/>
+<area shape="rect" id="node18" href="$classMemoryManager.html#aaa906e019f7d28b616b038a4e4ee9006" title="MemoryManager::ProcessQueue" alt="" coords="558,364,789,391"/>
+<area shape="rect" id="node19" href="$classMemoryManager.html#a8db8172ce6d7ac082b38a28af3394b72" title="MemoryManager::run\l_mgr_thread" alt="" coords="873,411,1033,453"/>
+<area shape="rect" id="node20" href="$classMemoryManager.html#ae925e8ad4d8fe6f0565e9d5729f59593" title="MemoryManager::MemoryManager" alt="" coords="1111,419,1359,445"/>
+</map>

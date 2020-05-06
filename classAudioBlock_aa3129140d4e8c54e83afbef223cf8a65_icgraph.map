@@ -1,0 +1,11 @@
+<map id="AudioBlock::AddExtendedData" name="AudioBlock::AddExtendedData">
+<area shape="rect" id="node2" href="$classBlockReadManager.html#af12804c61f944904eedf8c9edf5cd3bd" title="BlockReadManager::Start" alt="" coords="303,27,488,53"/>
+<area shape="rect" id="node4" href="$classAudioBlockIterator.html#a5cc11c9589308f5da0fea19c701c84b3" title="AudioBlockIterator\l::PutFragment" alt="" coords="324,99,467,141"/>
+<area shape="rect" id="node10" href="$classRecordProcessor.html#aa20c0f68a5ee5e4739759b3783b6e4d1" title="RecordProcessor::RecordProcessor" alt="" coords="273,165,517,192"/>
+<area shape="rect" id="node3" href="$classBlockReadManager.html#aa990976dec4a3ec5bd6384b54ce5f09b" title="BlockReadManager::Manage" alt="" coords="572,5,777,32"/>
+<area shape="rect" id="node5" href="$classSndFileDecoder.html#a6f533159127e8f633a12c6fe3f86b4a2" title="SndFileDecoder::ReadSamples" alt="" coords="565,56,784,83"/>
+<area shape="rect" id="node6" href="$classVorbisDecoder.html#a605d498b0a32990607910576964da546" title="VorbisDecoder::ReadSamples" alt="" coords="569,107,781,133"/>
+<area shape="rect" id="node7" href="$classRecordProcessor.html#a8fbde2e8b6f9e9dafb89ef0b06e6a11a" title="RecordProcessor::Jump" alt="" coords="589,157,760,184"/>
+<area shape="rect" id="node9" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="581,208,768,235"/>
+<area shape="rect" id="node8" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="832,157,1035,184"/>
+</map>

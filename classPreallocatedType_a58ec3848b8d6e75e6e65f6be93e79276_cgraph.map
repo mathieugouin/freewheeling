@@ -1,0 +1,6 @@
+<map id="PreallocatedType::GoPreallocate" name="PreallocatedType::GoPreallocate">
+<area shape="rect" id="node2" href="$classPreallocated.html#a6c7fad49a12301624b0dfbd9cef2f358" title="Preallocated::NewInstance" alt="" coords="303,5,497,32"/>
+<area shape="rect" id="node3" href="$classPreallocated.html#ad31c546d3c1641b44135dccb4ef0cafd" title="Preallocated::SetupPreallocated" alt="" coords="285,56,515,83"/>
+<area shape="rect" id="node4" href="$classRTStore.html#af3c93f31bd68ce149a812b05d9e7cd86" title="RTStore::ChangeStateAtIdx" alt="" coords="301,107,499,133"/>
+<area shape="rect" id="node5" href="$classRTStore.html#a491601a177c671d8700a30d775d37bad" title="RTStore::GetItemAtIdx" alt="" coords="317,157,483,184"/>
+</map>

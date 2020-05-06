@@ -1,0 +1,15 @@
+<map id="RootProcessor::process" name="RootProcessor::process">
+<area shape="rect" id="node2" href="$classFweelin.html#a538440216608aed67e6940c2903c3072" title="Fweelin::getBUFSZ" alt="" coords="273,132,417,159"/>
+<area shape="rect" id="node3" href="$classRootProcessor.html#acb13a2a0320ef6b5a57ede966e468842" title="RootProcessor::UpdateProcessors" alt="" coords="225,183,464,209"/>
+<area shape="rect" id="node12" href="$classRootProcessor.html#ae6ad61c89d499509728d7720ee71df68" title="RootProcessor::processchain" alt="" coords="241,259,448,285"/>
+<area shape="rect" id="node14" href="$classProcessor.html#a5df6a0b8a5cf976315492246ab6c671e" title="Processor::fadepreandcurrent" alt="" coords="238,309,451,336"/>
+<area shape="rect" id="node4" href="$classSRMWRingBuffer.html#ae907e34d6dc9fff4f1e3955dd3aa53b7" title="SRMWRingBuffer::ReadElement" alt="" coords="512,5,737,32"/>
+<area shape="rect" id="node5" href="$classEvent.html#ac4c4170579544b41dff38ca1b8110e30" title="Event::GetType" alt="" coords="565,56,685,83"/>
+<area shape="rect" id="node6" href="$classEvent.html#aa67af0ae99b897e4f0ce42068c4e4c00" title="Event::GetEventByType" alt="" coords="537,259,712,285"/>
+<area shape="rect" id="node7" href="$classFweelin.html#a21e51d7b639faaecc415624ab6c16a71" title="Fweelin::getEMG" alt="" coords="559,107,690,133"/>
+<area shape="rect" id="node8" href="$classEventManager.html#ac7c4b4ceee333a360274d73d166b8c69" title="EventManager::BroadcastEvent" alt="" coords="512,157,737,184"/>
+<area shape="rect" id="node11" href="$classPreallocated.html#aaf2139a79ca16de70acd9bc4564171b7" title="Preallocated::RTDelete" alt="" coords="539,208,710,235"/>
+<area shape="rect" id="node9" href="$classSRMWRingBuffer.html#a47699ccc0600c38559c8e10f0ca9bf3c" title="SRMWRingBuffer::WriteElement" alt="" coords="789,259,1016,285"/>
+<area shape="rect" id="node10" href="$classEventManager.html#a529567a1f3b56ecbc97aceec5ee0b46e" title="EventManager::WakeupIfNeeded" alt="" coords="785,157,1020,184"/>
+<area shape="rect" id="node13" href="$classProcessor.html#a2a6ea9cec150529a6b61898634540254" title="Processor::process" alt="" coords="553,360,696,387"/>
+</map>

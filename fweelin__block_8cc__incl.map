@@ -1,0 +1,18 @@
+<map id="src/fweelin_block.cc" name="src/fweelin_block.cc">
+<area shape="rect" id="node12" href="$fweelin__block_8h.html" title="fweelin_block.h" alt="" coords="1941,304,2065,331"/>
+<area shape="rect" id="node26" href="$fweelin__core_8h.html" title="fweelin_core.h" alt="" coords="1100,80,1217,107"/>
+<area shape="rect" id="node17" href="$fweelin__audioio_8h.html" title="fweelin_audioio.h" alt="" coords="2491,379,2629,405"/>
+<area shape="rect" id="node19" href="$fweelin__mem_8h.html" title="fweelin_mem.h" alt="" coords="1775,379,1897,405"/>
+<area shape="rect" id="node23" href="$fweelin__event_8h.html" title="fweelin_event.h" alt="" coords="921,379,1047,405"/>
+<area shape="rect" id="node20" href="$fweelin__datatypes_8h.html" title="fweelin_datatypes.h" alt="" coords="1513,453,1668,480"/>
+<area shape="rect" id="node28" href="$fweelin__amixer_8h.html" title="fweelin_amixer.h" alt="" coords="465,155,599,181"/>
+<area shape="rect" id="node31" href="$fweelin__midiio_8h.html" title="fweelin_midiio.h" alt="" coords="855,155,985,181"/>
+<area shape="rect" id="node32" href="$fweelin__videoio_8h.html" title="fweelin_videoio.h" alt="" coords="425,304,562,331"/>
+<area shape="rect" id="node35" href="$fweelin__sdlio_8h.html" title="fweelin_sdlio.h" alt="" coords="725,304,845,331"/>
+<area shape="rect" id="node36" href="$fweelin__rcu_8h.html" title="fweelin_rcu.h" alt="" coords="1807,304,1916,331"/>
+<area shape="rect" id="node38" href="$fweelin__core__dsp_8h.html" title="fweelin_core_dsp.h" alt="" coords="1535,155,1681,181"/>
+<area shape="rect" id="node41" href="$fweelin__config_8h.html" title="fweelin_config.h" alt="" coords="1320,229,1448,256"/>
+<area shape="rect" id="node45" href="$fweelin__fluidsynth_8h.html" title="fweelin_fluidsynth.h" alt="" coords="1629,304,1782,331"/>
+<area shape="rect" id="node46" href="$fweelin__browser_8h.html" title="fweelin_browser.h" alt="" coords="1197,155,1337,181"/>
+<area shape="rect" id="node47" href="$fweelin__osc_8h.html" title="fweelin_osc.h" alt="" coords="1010,155,1121,181"/>
+</map>

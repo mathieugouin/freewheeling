@@ -1,0 +1,9 @@
+<map id="SRMWRingBuffer::ReadElement" name="SRMWRingBuffer::ReadElement">
+<area shape="rect" id="node2" href="$classRootProcessor.html#acb13a2a0320ef6b5a57ede966e468842" title="RootProcessor::UpdateProcessors" alt="" coords="279,5,517,32"/>
+<area shape="rect" id="node4" href="$classEventManager.html#ab363d5886ccb130eaab896bf0f7faebb" title="EventManager::run_dispatch\l_thread" alt="" coords="295,57,501,98"/>
+<area shape="rect" id="node6" href="$classMemoryManager.html#aaa906e019f7d28b616b038a4e4ee9006" title="MemoryManager::ProcessQueue" alt="" coords="283,123,513,149"/>
+<area shape="rect" id="node3" href="$classRootProcessor.html#a014d1405fbd7d67ee4edeb19713ded04" title="RootProcessor::process" alt="" coords="587,5,759,32"/>
+<area shape="rect" id="node5" href="$classEventManager.html#a89099b22114f158b5c530edfea52371d" title="EventManager::EventManager" alt="" coords="565,64,781,91"/>
+<area shape="rect" id="node7" href="$classMemoryManager.html#a8db8172ce6d7ac082b38a28af3394b72" title="MemoryManager::run\l_mgr_thread" alt="" coords="593,115,753,157"/>
+<area shape="rect" id="node8" href="$classMemoryManager.html#ae925e8ad4d8fe6f0565e9d5729f59593" title="MemoryManager::MemoryManager" alt="" coords="829,123,1077,149"/>
+</map>

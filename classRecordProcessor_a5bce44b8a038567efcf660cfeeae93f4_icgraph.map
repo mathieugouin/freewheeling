@@ -1,0 +1,11 @@
+<map id="RecordProcessor::AbortRecording" name="RecordProcessor::AbortRecording">
+<area shape="rect" id="node2" href="$classLoopManager.html#a332a9868980750f28fbf0e05b2336174" title="LoopManager::DeleteLoop" alt="" coords="290,61,481,88"/>
+<area shape="rect" id="node6" href="$classRecordProcessor.html#a63fbf98c72bafa6c2e24a3962bdae70c" title="RecordProcessor::~Record\lProcessor" alt="" coords="289,117,481,158"/>
+<area shape="rect" id="node7" href="$classRecordProcessor.html#a9984f573bbc265321ad0604f97b23820" title="RecordProcessor::EndNow" alt="" coords="290,191,481,217"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a6048a702c9cec3676a1c56792b16ec44" title="LoopManager::ReadComplete" alt="" coords="529,5,741,32"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="538,56,733,83"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="789,81,995,108"/>
+<area shape="rect" id="node8" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="534,157,737,184"/>
+<area shape="rect" id="node9" href="$classRecordProcessor.html#ab035edfb707f8f1066b3597df7ddda7d" title="RecordProcessor::End" alt="" coords="555,208,716,235"/>
+<area shape="rect" id="node10" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="542,259,729,285"/>
+</map>

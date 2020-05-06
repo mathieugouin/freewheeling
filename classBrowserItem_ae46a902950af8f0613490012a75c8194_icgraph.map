@@ -1,0 +1,12 @@
+<map id="BrowserItem::Compare" name="BrowserItem::Compare">
+<area shape="rect" id="node2" href="$classBrowser.html#ade418b60a9e0e49826acb66811ac8af0" title="Browser::AddItem" alt="" coords="225,85,364,111"/>
+<area shape="rect" id="node9" href="$classBrowser.html#aa33b6a26b512beffbe68bbcd2153c123" title="Browser::AddDivisions" alt="" coords="452,173,620,199"/>
+<area shape="rect" id="node3" href="$classFloConfig.html#a68d751b6f2a72fbec8cab3dbcd92b684" title="FloConfig::ConfigurePatch\lBanks" alt="" coords="443,5,629,47"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a175985d1a7e21f019251ff996217cbb0" title="LoopManager::AddLoopToBrowser" alt="" coords="416,71,656,98"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#a0c2604681ae7de5415cef3f2690e4a0c" title="LoopManager::AddSceneToBrowser" alt="" coords="412,122,660,149"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a306ffe72c9623e33cad280ec3609c359" title="LoopManager::SetupSaveLoop" alt="" coords="723,71,940,98"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="1003,97,1213,123"/>
+<area shape="rect" id="node8" href="$classTriggerMap.html#a92e251eec5a7c5741807805b6869fab8" title="TriggerMap::GoSave" alt="" coords="756,122,907,149"/>
+<area shape="rect" id="node10" href="$classLoopManager.html#a860dd45d2721ff2c9912e53bb1486722" title="LoopManager::SetupLoopBrowser" alt="" coords="712,173,951,199"/>
+<area shape="rect" id="node11" href="$classLoopManager.html#ad1c61813e7c16f4b973a3087413eed84" title="LoopManager::SetupSceneBrowser" alt="" coords="708,223,955,250"/>
+</map>

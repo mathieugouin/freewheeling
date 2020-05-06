@@ -1,0 +1,7 @@
+<map id="BlockWriteManager::Start" name="BlockWriteManager::Start">
+<area shape="rect" id="node2" href="$classBlockManager.html#a42884d55a4c50d9aa57b98e8211e9747" title="BlockManager::GetApp" alt="" coords="231,5,401,32"/>
+<area shape="rect" id="node3" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="253,56,379,83"/>
+<area shape="rect" id="node4" href="$classFloConfig.html#a0b52185644573f2b0bae10f391ec69fd" title="FloConfig::GetLoopOutFormat" alt="" coords="209,107,423,133"/>
+<area shape="rect" id="node5" href="$classAudioBlock.html#a5d7b94e41f0f024f767cb5e2d219b3ea" title="AudioBlock::IsStereo" alt="" coords="238,157,394,184"/>
+<area shape="rect" id="node6" href="$classiFileEncoder.html#ae134e439d1cf7a729ead45d624f6bb23" title="iFileEncoder::SetupFileFor\lWriting" alt="" coords="223,209,409,250"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="BED_MarkerPoints" name="BED_MarkerPoints">
+<area shape="rect" id="node2" href="$classBlockExtendedData.html" title="{BlockExtendedData\n||+ BlockExtendedData()\l+ BlockExtendedData()\l+ ~BlockExtendedData()\l+ GetType()\l}" alt="" coords="321,682,508,803"/>
+<area shape="rect" id="node3" href="$classTimeMarker.html" title="{TimeMarker\n||+ TimeMarker()\l+ Recycle()\l+ NewInstance()\l}" alt="" coords="97,689,228,796"/>
+<area shape="rect" id="node4" href="$classPreallocated.html" title="{Preallocated\n|&#45; FWMEM_DEFINE_DELBLOCK\l|+ Preallocated()\l+ ~Preallocated()\l+ operator new()\l+ operator delete()\l+ RTNew()\l+ RTNewWithWait()\l+ RTDelete()\l+ GetMgr()\l+ SetupPreallocated()\l&#45; NewInstance()\l&#45; Recycle()\l}" alt="" coords="895,344,1105,568"/>
+<area shape="rect" id="node5" href="$classPreallocatedType.html" title="{PreallocatedType\n||+ PreallocatedType()\l+ ~PreallocatedType()\l+ RTNew()\l+ RTNewWithWait()\l+ RTDelete()\l+ GoPreallocate()\l+ GoPostdelete()\l+ Cleanup()\l+ GetBlockSize()\l}" alt="" coords="861,645,1030,840"/>
+<area shape="rect" id="node16" href="$classMemoryManagerUpdate.html" title="{MemoryManagerUpdate\n||+ MemoryManagerUpdate()\l+ MemoryManagerUpdate()\l+ IsValid()\l}" alt="" coords="1095,1039,1297,1145"/>
+<area shape="rect" id="node6" href="$classSListItem.html" title="{SListItem\n||+ SListItem()\l}" alt="" coords="426,417,534,495"/>
+<area shape="rect" id="node10" href="$classSLinkList.html" title="{SLinkList\n||+ SLinkList()\l+ AddToHead()\l+ FindAndRemove()\l+ GetFirstItem()\l+ GetNextItem()\l}" alt="" coords="487,864,638,1000"/>
+<area shape="rect" id="node7" href="$classMemoryManager.html" title="{MemoryManager\n||+ MemoryManager()\l+ ~MemoryManager()\l+ AddType()\l+ DelType()\l+ WakeUp()\l+ WakeupIfNeeded()\l&#45; ProcessQueue()\l&#45; run_mgr_thread()\l}" alt="" coords="765,1436,931,1616"/>
+<area shape="rect" id="node14" href="$classSRMWRingBuffer.html" title="{SRMWRingBuffer\&lt; MemoryManager\lUpdate \&gt;\n||+ SRMWRingBuffer()\l+ ~SRMWRingBuffer()\l+ WriteElement()\l+ ReadElement()\l&#45; UpdateNumRWThreads()\l}" alt="" coords="1066,1223,1321,1373"/>
+<area shape="rect" id="node20" href="$classRTStore.html" title="{RTStore\&lt; PreallocatedInstance \&gt;\n||+ RTStore()\l+ ~RTStore()\l+ FindItemWithState()\l+ ChangeStateAtIdx()\l+ GetItemAtIdx()\l}" alt="" coords="1355,388,1594,524"/>
+<area shape="rect" id="node21" href="$classRTStore_1_1RTStoreItem.html" title="{RTStore\&lt; T \&gt;::RTStoreItem\n||+ RTStoreItem()\l}" alt="" coords="1499,145,1698,223"/>
+<area shape="rect" id="node15" href="$classRTDataStruct__Updater.html" title="{RTDataStruct_Updater\n||# UpdateNumRWThreads()\l}" alt="" coords="1322,1053,1521,1131"/>
+<area shape="rect" id="node22" href="$classT.html" title="{T\n||}" alt="" coords="1749,5,1787,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="AudioBuffers::AudioBuffers" name="AudioBuffers::AudioBuffers">
+<area shape="rect" id="node2" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="291,5,417,32"/>
+<area shape="rect" id="node3" href="$classFloConfig.html#a85df9ee6485a198bd3cbc42159c76ed4" title="FloConfig::GetExtAudioIns" alt="" coords="259,56,449,83"/>
+<area shape="rect" id="node4" href="$classAudioBuffers.html#a3178afd68c48f41060d100606623a704" title="AudioBuffers::GetIntAudioIns" alt="" coords="249,107,459,133"/>
+<area shape="rect" id="node5" href="$classAudioBuffers.html#a180ca942a16535dfe416bdc25d19d659" title="AudioBuffers::GetAudioOuts" alt="" coords="253,157,455,184"/>
+</map>

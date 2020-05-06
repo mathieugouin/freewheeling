@@ -1,0 +1,12 @@
+<map id="HiPriManagedChain::GetType" name="HiPriManagedChain::GetType">
+<area shape="rect" id="node2" href="$classBlockManager.html#a5566277a4ec6c8a5347470433843b998" title="BlockManager::DelHiManager" alt="" coords="211,81,425,108"/>
+<area shape="rect" id="node3" href="$classBlockManager.html#a718110289099d5b729ce3b28d0ac09fb" title="BlockManager::StripeBlockOn" alt="" coords="473,49,688,76"/>
+<area shape="rect" id="node9" href="$classBlockManager.html#a290ea3b68216dc3fbd0f5dadab956290" title="BlockManager::StripeBlockOff" alt="" coords="473,107,688,133"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a5630b6fefdfc931ac0ab511c6b77cecf" title="LoopManager::StripePulseOn" alt="" coords="737,47,945,73"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#ab79aef15f1e783de1ab6827378bea274" title="LoopManager::SelectPulse" alt="" coords="995,43,1187,69"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a67c6f44d33880b35c875a8e6ea8babac" title="LoopManager::TapPulse" alt="" coords="1246,5,1421,32"/>
+<area shape="rect" id="node8" href="$classLoopManager.html#a705436ae811a121ed3285ab34b144bfe" title="LoopManager::CreatePulse" alt="" coords="993,93,1188,120"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="1479,56,1684,83"/>
+<area shape="rect" id="node10" href="$classLoopManager.html#a810b5807daa4272b2275d955190326df" title="LoopManager::StripePulseOff" alt="" coords="736,119,945,145"/>
+<area shape="rect" id="node11" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="1236,132,1431,159"/>
+</map>

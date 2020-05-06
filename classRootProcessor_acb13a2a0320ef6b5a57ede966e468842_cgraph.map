@@ -1,0 +1,10 @@
+<map id="RootProcessor::UpdateProcessors" name="RootProcessor::UpdateProcessors">
+<area shape="rect" id="node2" href="$classSRMWRingBuffer.html#ae907e34d6dc9fff4f1e3955dd3aa53b7" title="SRMWRingBuffer::ReadElement" alt="" coords="292,5,517,32"/>
+<area shape="rect" id="node3" href="$classEvent.html#ac4c4170579544b41dff38ca1b8110e30" title="Event::GetType" alt="" coords="345,56,465,83"/>
+<area shape="rect" id="node4" href="$classEvent.html#aa67af0ae99b897e4f0ce42068c4e4c00" title="Event::GetEventByType" alt="" coords="317,107,492,133"/>
+<area shape="rect" id="node5" href="$classFweelin.html#a21e51d7b639faaecc415624ab6c16a71" title="Fweelin::getEMG" alt="" coords="339,157,470,184"/>
+<area shape="rect" id="node6" href="$classEventManager.html#ac7c4b4ceee333a360274d73d166b8c69" title="EventManager::BroadcastEvent" alt="" coords="292,208,517,235"/>
+<area shape="rect" id="node9" href="$classPreallocated.html#aaf2139a79ca16de70acd9bc4564171b7" title="Preallocated::RTDelete" alt="" coords="319,259,490,285"/>
+<area shape="rect" id="node7" href="$classSRMWRingBuffer.html#a47699ccc0600c38559c8e10f0ca9bf3c" title="SRMWRingBuffer::WriteElement" alt="" coords="569,183,796,209"/>
+<area shape="rect" id="node8" href="$classEventManager.html#a529567a1f3b56ecbc97aceec5ee0b46e" title="EventManager::WakeupIfNeeded" alt="" coords="565,233,800,260"/>
+</map>

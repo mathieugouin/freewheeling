@@ -1,0 +1,6 @@
+<map id="LibraryHelper::GetLoopFilenameFromStub" name="LibraryHelper::GetLoopFilenameFromStub">
+<area shape="rect" id="node2" href="$classLoopManager.html#ac70cdd5344c524d6aedfe5c67e856409" title="LoopManager::SetupLoadLoop" alt="" coords="284,5,500,32"/>
+<area shape="rect" id="node4" href="$classOSCClient.html#acbb974bf11667aa6fb48c111ae14a4fe" title="OSCClient::SendPlayingLoops" alt="" coords="285,56,499,83"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a564ecf9fdbe0fa8709ebc046afc148d5" title="LoopManager::GetReadBlock" alt="" coords="548,5,756,32"/>
+<area shape="rect" id="node5" href="$classOSCClient.html#a8b38ea5b76702f9e763daeb694091116" title="OSCClient::ReceiveEvent" alt="" coords="561,56,743,83"/>
+</map>

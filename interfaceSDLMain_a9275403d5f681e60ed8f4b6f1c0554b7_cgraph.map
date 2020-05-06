@@ -1,0 +1,6 @@
+<map id="&#45;[SDLMain addMIDIInputSource:]" name="&#45;[SDLMain addMIDIInputSource:]">
+<area shape="rect" id="node2" href="$SDLMain_8mm.html#aca21a1a93d5f76245718a17ca65b4973" title="getApplicationName" alt="" coords="321,5,475,32"/>
+<area shape="rect" id="node3" href="$SDLMain_8mm.html#ad55dee30149aabb9188f2b819124d9b1" title="CPSGetCurrentProcess" alt="" coords="314,56,482,83"/>
+<area shape="rect" id="node4" href="$SDLMain_8mm.html#ab859ce97083e8063c6b1c1e7c625f82e" title="CPSEnableForegroundOperation" alt="" coords="284,107,512,133"/>
+<area shape="rect" id="node5" href="$SDLMain_8mm.html#a255c7afda969f0ecb64546773130f417" title="CPSSetFrontProcess" alt="" coords="323,157,473,184"/>
+</map>

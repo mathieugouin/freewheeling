@@ -1,0 +1,18 @@
+<map id="BlockReadManager::End" name="BlockReadManager::End">
+<area shape="rect" id="node2" href="$classiFileDecoder.html#a3a9e784a7831ca8990d66f045bb1f2e7" title="iFileDecoder::Stop" alt="" coords="280,5,419,32"/>
+<area shape="rect" id="node3" href="$classAudioBlockIterator.html#a33e1c3a6381e3c0ba5dd129885509eb3" title="AudioBlockIterator\l::EndChain" alt="" coords="278,57,421,98"/>
+<area shape="rect" id="node6" href="$classPeaksAvgsManager.html#ad10e0ee30593b6e27e9928390d04ce58" title="PeaksAvgsManager::Manage" alt="" coords="246,224,453,251"/>
+<area shape="rect" id="node7" href="$classPeaksAvgsManager.html#a7d5c60dc637af4095167410c4ae924f4" title="PeaksAvgsManager::End" alt="" coords="259,275,439,301"/>
+<area shape="rect" id="node8" href="$classBlockManager.html#a7380825963fc62c90186a0b3c72e8d89" title="BlockManager::PeakAvgOff" alt="" coords="251,325,448,352"/>
+<area shape="rect" id="node10" href="$classAudioBlock.html#adeb97443eade7fd99e54dc15a05dfaef" title="AudioBlock::DeleteChain" alt="" coords="537,72,720,99"/>
+<area shape="rect" id="node12" href="$classAudioBlock.html#a09c778d19d7d45dbb68951fabff2f518" title="AudioBlock::Smooth" alt="" coords="273,173,426,200"/>
+<area shape="rect" id="node17" href="$classAutoReadControl.html#a4a665022d2569bfb0eab015b0d1e1b75" title="AutoReadControl::ReadComplete" alt="" coords="232,376,467,403"/>
+<area shape="rect" id="node4" href="$classAudioBlock.html#a1577ddd5048ce06dbddfae7702b35c81" title="AudioBlock::ChopChain" alt="" coords="542,21,715,48"/>
+<area shape="rect" id="node5" href="$classPreallocated.html#aaf2139a79ca16de70acd9bc4564171b7" title="Preallocated::RTDelete" alt="" coords="808,64,979,91"/>
+<area shape="rect" id="node9" href="$classBlockManager.html#ae59dae7f7f6572b004dcdacc740204ac" title="BlockManager::DelManager" alt="" coords="529,325,729,352"/>
+<area shape="rect" id="node11" href="$classBlockExtendedData.html#ae33e9550384a32abf2a91386334a2be9" title="BlockExtendedData::\lGetType" alt="" coords="814,115,973,157"/>
+<area shape="rect" id="node13" href="$classAudioBlock.html#a380880c91c3af2322d232ce2de83b881" title="AudioBlock::GetTotalLen" alt="" coords="803,189,983,216"/>
+<area shape="rect" id="node14" href="$classAudioBlock.html#a4f53140535b4c56db4c5360f3fb9eb7d" title="AudioBlock::SetPtrsFromAbs\lOffset" alt="" coords="791,258,996,299"/>
+<area shape="rect" id="node15" href="$classAudioBlock.html#ae7aec1591ed6f228799c11b650b2cc1b" title="AudioBlock::GetExtendedData" alt="" coords="519,123,738,149"/>
+<area shape="rect" id="node16" href="$classAudioBlock.html#aa9e0bc3fa297c7c97aedda16f240108f" title="AudioBlock::HackTotalLengthBy" alt="" coords="515,173,743,200"/>
+</map>

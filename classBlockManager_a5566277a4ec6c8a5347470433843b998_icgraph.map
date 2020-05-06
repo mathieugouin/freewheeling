@@ -1,0 +1,11 @@
+<map id="BlockManager::DelHiManager" name="BlockManager::DelHiManager">
+<area shape="rect" id="node2" href="$classBlockManager.html#a718110289099d5b729ce3b28d0ac09fb" title="BlockManager::StripeBlockOn" alt="" coords="268,49,483,76"/>
+<area shape="rect" id="node8" href="$classBlockManager.html#a290ea3b68216dc3fbd0f5dadab956290" title="BlockManager::StripeBlockOff" alt="" coords="268,107,483,133"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a5630b6fefdfc931ac0ab511c6b77cecf" title="LoopManager::StripePulseOn" alt="" coords="531,47,739,73"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#ab79aef15f1e783de1ab6827378bea274" title="LoopManager::SelectPulse" alt="" coords="789,43,981,69"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a67c6f44d33880b35c875a8e6ea8babac" title="LoopManager::TapPulse" alt="" coords="1041,5,1215,32"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#a705436ae811a121ed3285ab34b144bfe" title="LoopManager::CreatePulse" alt="" coords="788,93,983,120"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="1273,56,1479,83"/>
+<area shape="rect" id="node9" href="$classLoopManager.html#a810b5807daa4272b2275d955190326df" title="LoopManager::StripePulseOff" alt="" coords="531,119,740,145"/>
+<area shape="rect" id="node10" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="1031,132,1225,159"/>
+</map>

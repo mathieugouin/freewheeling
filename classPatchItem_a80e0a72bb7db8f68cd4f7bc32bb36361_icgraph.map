@@ -1,0 +1,12 @@
+<map id="PatchItem::GetZone" name="PatchItem::GetZone">
+<area shape="rect" id="node2" href="$classFloConfig.html#a68d751b6f2a72fbec8cab3dbcd92b684" title="FloConfig::ConfigurePatch\lBanks" alt="" coords="231,5,417,47"/>
+<area shape="rect" id="node3" href="$classMidiIO.html#a1753eb05e14eb572a5f52b9616480d55" title="MidiIO::SetMIDIForPatch" alt="" coords="236,71,412,98"/>
+<area shape="rect" id="node7" href="$classMidiIO.html#aae58e8a30b732a5eee97d76785a5909a" title="MidiIO::EchoEvent" alt="" coords="255,122,393,149"/>
+<area shape="rect" id="node9" href="$classMidiIO.html#a6da1afe464151972b9d322964a968d29" title="MidiIO::SendBankProgramChange" alt="" coords="204,173,444,199"/>
+<area shape="rect" id="node10" href="$classMidiIO.html#a6551af8e78f2eed77b3193c83fa52d15" title="MidiIO::CheckUnbypass" alt="" coords="237,223,411,250"/>
+<area shape="rect" id="node4" href="$classPatchBrowser.html#a90246446ed1a2650a2a7555f5d76c653" title="PatchBrowser::SetMIDIFor\lPatch" alt="" coords="492,64,680,105"/>
+<area shape="rect" id="node5" href="$classFweelin.html#acacaa80535c0688358984d2070fedb71" title="Fweelin::ItemSelected" alt="" coords="728,71,895,98"/>
+<area shape="rect" id="node6" href="$classMidiIO.html#a222509803679fcf4bcb7b4b4a34cf0cd" title="MidiIO::activate" alt="" coords="749,151,873,178"/>
+<area shape="rect" id="node8" href="$classMidiIO.html#a90cc0dad2841a9386a0c86efc1d9dce6" title="MidiIO::ReceiveEvent" alt="" coords="507,130,665,157"/>
+<area shape="rect" id="node11" href="$classMidiIO.html#aef220bcce8b89bea36032298868a919e" title="MidiIO::run_midi_thread" alt="" coords="497,202,675,229"/>
+</map>

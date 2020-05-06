@@ -1,0 +1,7 @@
+<map id="Loop::Save" name="Loop::Save">
+<area shape="rect" id="node2" href="$classLoopManager.html#a87ecdd3c80b3c16018a50a397f906b03" title="LoopManager::SaveLoop" alt="" coords="147,81,327,108"/>
+<area shape="rect" id="node3" href="$classTriggerMap.html#aaa7bec4f62540981d1e5703fe8ed575e" title="TriggerMap::Save" alt="" coords="375,56,508,83"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="1080,56,1285,83"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#ac2adaa8b989e1284abf17fc07eb0baf2" title="LoopManager::SaveNewScene" alt="" coords="556,56,773,83"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#abd2cda6ecc976fd447167d5de7cc5912" title="LoopManager::SaveCurScene" alt="" coords="821,5,1032,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="BlockManager::run_manage_thread" name="BlockManager::run_manage_thread">
+<area shape="rect" id="node2" href="$classManagedChain.html#a24205aa4547a5a79484244a941760662" title="ManagedChain::Manage" alt="" coords="257,5,434,32"/>
+<area shape="rect" id="node3" href="$classPreallocated.html#aaf2139a79ca16de70acd9bc4564171b7" title="Preallocated::RTDelete" alt="" coords="260,56,431,83"/>
+<area shape="rect" id="node4" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="282,107,409,133"/>
+<area shape="rect" id="node5" href="$classManagedChain.html#a6a392adc8f5b7725af60baac4ab93180" title="ManagedChain::GetType" alt="" coords="256,157,435,184"/>
+</map>

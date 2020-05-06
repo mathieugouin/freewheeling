@@ -1,0 +1,8 @@
+<map id="PreallocatedType::RTNewWithWait" name="PreallocatedType::RTNewWithWait">
+<area shape="rect" id="node2" href="$classBlockReadManager.html#af12804c61f944904eedf8c9edf5cd3bd" title="BlockReadManager::Start" alt="" coords="587,56,772,83"/>
+<area shape="rect" id="node4" href="$classBlockManager.html#ac12004ae7d335e81c7cbd463cd614b34" title="BlockManager::GrowChainOn" alt="" coords="299,5,509,32"/>
+<area shape="rect" id="node6" href="$classBlockManager.html#af050835c736257358a3f572f8422ff1d" title="BlockManager::PeakAvgOn" alt="" coords="306,107,502,133"/>
+<area shape="rect" id="node3" href="$classBlockReadManager.html#aa990976dec4a3ec5bd6384b54ce5f09b" title="BlockReadManager::Manage" alt="" coords="849,56,1055,83"/>
+<area shape="rect" id="node5" href="$classRecordProcessor.html#aa20c0f68a5ee5e4739759b3783b6e4d1" title="RecordProcessor::RecordProcessor" alt="" coords="557,5,801,32"/>
+<area shape="rect" id="node7" href="$classRecordProcessor.html#a1aea5f833c59a12398b05b514b26b572" title="RecordProcessor::RecordProcessor" alt="" coords="557,107,801,133"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="TriggerMap::GetMapSize" name="TriggerMap::GetMapSize">
+<area shape="rect" id="node2" href="$classSnapshot.html#a1616e84bbc439dfb50eb827a27e4f6fd" title="Snapshot::CreateSnapshot" alt="" coords="243,56,437,83"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a70967ac90529ee371dc5350cbced90a5" title="LoopManager::LoopManager" alt="" coords="238,107,442,133"/>
+<area shape="rect" id="node9" href="$classLoopManager.html#af213761ccf6208b94354a3658de91cfb" title="LoopManager::CheckSaveMap" alt="" coords="232,157,448,184"/>
+<area shape="rect" id="node11" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="237,208,443,235"/>
+<area shape="rect" id="node3" href="$classFweelin.html#a46ac4eb76aa2025f2bec97c23658abef" title="Fweelin::CreateSnapshot" alt="" coords="510,5,693,32"/>
+<area shape="rect" id="node4" href="$classFweelin.html#a057cfd43583e073f0216dd275e4b26a7" title="Fweelin::LoadSnapshot" alt="" coords="516,56,687,83"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a05a6a438d14482e2f22aa802cfb432e8" title="LoopManager::LoadScene" alt="" coords="755,56,941,83"/>
+<area shape="rect" id="node7" href="$classFweelin.html#a1e47b97764f07dfd37458e91c0c54adf" title="Fweelin::setup" alt="" coords="543,107,659,133"/>
+<area shape="rect" id="node8" href="$fweelin_8cc.html#a97b0fa62b7b0972875f5f589322c4c24" title="main" alt="" coords="821,107,875,133"/>
+<area shape="rect" id="node10" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="496,157,707,184"/>
+</map>

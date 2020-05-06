@@ -1,0 +1,26 @@
+<map id="VideoIO::video_event_loop" name="VideoIO::video_event_loop">
+<area shape="rect" id="node2" href="$classFloConfig.html#aff71b918ab4b4a0e08c905a0392327b4" title="FloConfig::GetLayouts" alt="" coords="281,5,445,32"/>
+<area shape="rect" id="node3" href="$classFloConfig.html#aa62370595b1af139846a7900c3b5d9b6" title="FloConfig::GetNumHelpLines" alt="" coords="259,56,467,83"/>
+<area shape="rect" id="node4" href="$classFloConfig.html#a6f9a4416995b8fb9f97f92278b082fa2" title="FloConfig::GetHelpLine" alt="" coords="278,107,449,133"/>
+<area shape="rect" id="node5" href="$fweelin__videoio_8cc.html#a0bb68d7f77df8d1848af0e9fc6716197" title="mygettime" alt="" coords="316,157,411,184"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#af9eaf8cfd1e8ce743fea88e21a0b295a" title="LoopManager::GetPulseByIndex" alt="" coords="249,208,477,235"/>
+<area shape="rect" id="node7" href="$classPulse.html#a0cb99bfae020d317e791a161b43be165" title="Pulse::GetPct" alt="" coords="309,259,417,285"/>
+<area shape="rect" id="node8" href="$classLoopManager.html#a081849cd73540c791b32be3aab90dec4" title="LoopManager::LockLoops" alt="" coords="271,309,456,336"/>
+<area shape="rect" id="node9" href="$classLoopManager.html#ab5444c4b3ee3ccbab1160e23d7363752" title="LoopManager::GetSlot" alt="" coords="281,360,446,387"/>
+<area shape="rect" id="node12" href="$classLoopManager.html#a038d8bb8230e77094aa6cfc2f9b3fc00" title="LoopManager::IsActive" alt="" coords="279,411,448,437"/>
+<area shape="rect" id="node13" href="$classLoopManager.html#ad91cfa5fc2818dd578edbd4470c389e7" title="LoopManager::UnlockLoops" alt="" coords="263,461,463,488"/>
+<area shape="rect" id="node14" href="$classLoopManager.html#ab9c9e72e1a23b34c15a87dc13fb02672" title="LoopManager::GetTriggerVol" alt="" coords="261,512,465,539"/>
+<area shape="rect" id="node15" href="$classFloLayoutElementGeometry.html#aa2fe7c6e08976e7c095aae7fc17dd4fa" title="FloLayoutElementGeometry\l::Draw" alt="" coords="261,563,465,605"/>
+<area shape="rect" id="node16" href="$classLoopManager.html#ade69a979908f9f04f0be3da541d4fbbe" title="LoopManager::GetCurPulse\lIndex" alt="" coords="265,629,462,670"/>
+<area shape="rect" id="node17" href="$classPulse.html#a8fd91586bcc1fc32f417b7fe1769ea73" title="Pulse::GetLongCount_Len" alt="" coords="270,695,457,721"/>
+<area shape="rect" id="node18" href="$classPulse.html#a4c6ecc5176c3dd0cbf85cf276d82f6f5" title="Pulse::GetLongCount_Cur" alt="" coords="270,745,457,772"/>
+<area shape="rect" id="node19" href="$classFloConfig.html#a0ed71f68af879a252be8152f69721a7c" title="FloConfig::GetVSize" alt="" coords="289,796,438,823"/>
+<area shape="rect" id="node20" href="$classFloConfig.html#a518f2634c4851c307d07acfa6e6fcb01" title="FloConfig::GetDisplays" alt="" coords="279,847,448,873"/>
+<area shape="rect" id="node21" href="$classFloDisplay.html#af489585ad5534b5b6c7122eaec75fdef" title="FloDisplay::Draw" alt="" coords="298,897,429,924"/>
+<area shape="rect" id="node22" href="$classLoopManager.html#a43eaf9dbece24065fe0f97483beb61e6" title="LoopManager::GetNumSave" alt="" coords="262,948,465,975"/>
+<area shape="rect" id="node23" href="$classLoopManager.html#a277bfb07ed010109914e805614067dd8" title="LoopManager::GetCurSave" alt="" coords="266,999,461,1025"/>
+<area shape="rect" id="node24" href="$classLoopManager.html#ac7ee7dba76d1e81f2428080d956be4b4" title="LoopManager::GetNumLoad" alt="" coords="262,1049,465,1076"/>
+<area shape="rect" id="node25" href="$classLoopManager.html#a052cd75c7c1d8eca7230b24f676eb0f4" title="LoopManager::GetCurLoad" alt="" coords="267,1100,460,1127"/>
+<area shape="rect" id="node10" href="$classFweelin.html#a10bb364ecf38990653b49a98c5a89c90" title="Fweelin::getTMAP" alt="" coords="532,335,669,361"/>
+<area shape="rect" id="node11" href="$classTriggerMap.html#aca3f85b40f3aa29a280c2d7511b84217" title="TriggerMap::GetMap" alt="" coords="525,385,676,412"/>
+</map>

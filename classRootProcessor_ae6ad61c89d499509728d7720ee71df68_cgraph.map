@@ -1,0 +1,5 @@
+<map id="RootProcessor::processchain" name="RootProcessor::processchain">
+<area shape="rect" id="node2" href="$classProcessor.html#a2a6ea9cec150529a6b61898634540254" title="Processor::process" alt="" coords="302,5,445,32"/>
+<area shape="rect" id="node3" href="$classEvent.html#aa67af0ae99b897e4f0ce42068c4e4c00" title="Event::GetEventByType" alt="" coords="286,56,461,83"/>
+<area shape="rect" id="node4" href="$classSRMWRingBuffer.html#a47699ccc0600c38559c8e10f0ca9bf3c" title="SRMWRingBuffer::WriteElement" alt="" coords="260,107,487,133"/>
+</map>

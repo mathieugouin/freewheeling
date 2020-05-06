@@ -1,0 +1,13 @@
+<map id="AudioBlockIterator::GetTotalLength2Cur" name="AudioBlockIterator::GetTotalLength2Cur">
+<area shape="rect" id="node2" href="$classLoopManager.html#a306ffe72c9623e33cad280ec3609c359" title="LoopManager::SetupSaveLoop" alt="" coords="225,5,443,32"/>
+<area shape="rect" id="node4" href="$classRecordProcessor.html#aa20c0f68a5ee5e4739759b3783b6e4d1" title="RecordProcessor::RecordProcessor" alt="" coords="212,56,456,83"/>
+<area shape="rect" id="node5" href="$classRecordProcessor.html#a9f62f8dba4cd6c099005374949fa0225" title="RecordProcessor::GetRecorded\lLength" alt="" coords="224,107,444,149"/>
+<area shape="rect" id="node6" href="$classRecordProcessor.html#a9984f573bbc265321ad0604f97b23820" title="RecordProcessor::EndNow" alt="" coords="239,224,429,251"/>
+<area shape="rect" id="node10" href="$classRecordProcessor.html#a8fbde2e8b6f9e9dafb89ef0b06e6a11a" title="RecordProcessor::Jump" alt="" coords="249,173,419,200"/>
+<area shape="rect" id="node11" href="$classPlayProcessor.html#aa517007176ce668cd2990043069c4e72" title="PlayProcessor::GetPlayed\lLength" alt="" coords="240,275,428,317"/>
+<area shape="rect" id="node12" href="$classVideoIO.html#adca60a99be6e51d8af7ce2a32f92349a" title="VideoIO::DrawLoop" alt="" coords="261,341,407,368"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="504,5,715,32"/>
+<area shape="rect" id="node7" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="508,173,711,200"/>
+<area shape="rect" id="node8" href="$classRecordProcessor.html#ab035edfb707f8f1066b3597df7ddda7d" title="RecordProcessor::End" alt="" coords="529,224,690,251"/>
+<area shape="rect" id="node9" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="516,275,703,301"/>
+</map>

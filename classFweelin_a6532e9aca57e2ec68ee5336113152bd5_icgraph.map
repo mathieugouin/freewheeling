@@ -1,0 +1,11 @@
+<map id="Fweelin::getAUDIOMEM" name="Fweelin::getAUDIOMEM">
+<area shape="rect" id="node2" href="$classLoopManager.html#a5630b6fefdfc931ac0ab511c6b77cecf" title="LoopManager::StripePulseOn" alt="" coords="229,56,437,83"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#a810b5807daa4272b2275d955190326df" title="LoopManager::StripePulseOff" alt="" coords="228,132,437,159"/>
+<area shape="rect" id="node9" href="$classLoopManager.html#add3b21cda3c0eddecabf19d24c610cdc" title="LoopManager::Activate" alt="" coords="497,183,668,209"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#ab79aef15f1e783de1ab6827378bea274" title="LoopManager::SelectPulse" alt="" coords="487,31,679,57"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a67c6f44d33880b35c875a8e6ea8babac" title="LoopManager::TapPulse" alt="" coords="738,5,913,32"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a705436ae811a121ed3285ab34b144bfe" title="LoopManager::CreatePulse" alt="" coords="485,81,680,108"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="971,107,1176,133"/>
+<area shape="rect" id="node8" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="728,107,923,133"/>
+<area shape="rect" id="node10" href="$classFweelin.html#a4654015e2bc7cc94f3bfc421899a60d3" title="Fweelin::TriggerSnapshot" alt="" coords="733,208,917,235"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AutoLimitProcessor::ResetLimiter" name="AutoLimitProcessor::ResetLimiter">
+<area shape="rect" id="node2" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="258,5,385,32"/>
+<area shape="rect" id="node3" href="$classFloConfig.html#a5d6c14dc286302dc59bbcc570a8f052f" title="FloConfig::GetLimiterReleaseRate" alt="" coords="201,56,441,83"/>
+<area shape="rect" id="node4" href="$classFloConfig.html#a28a35578641ab8f0f8bf9db338abd856" title="FloConfig::GetLimiterThreshhold" alt="" coords="206,107,437,133"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Browser" name="Browser">
+<area shape="rect" id="node6" href="$classLoopTray.html" title="{LoopTray\n|+ loopsize\l+ basepos\l+ iconsize\l+ resize_win\l+ resize_button\l+ resize_xhand\l+ resize_yhand\l+ old_xpand_x1\l+ old_xpand_x2\l+ old_xpand_y1\l+ old_xpand_y2\l+ touchtray\l+ loopmap\l|+ LoopTray()\l+ ~LoopTray()\l+ Setup()\l+ Draw()\l+ Draw_Item()\l+ ReceiveEvent()\l+ MouseButton()\l+ MouseMotion()\l+ Rename()\l+ ItemRenamed()\l+ ItemRenamedFromOutside()\l}" alt="" coords="123,784,343,1184"/>
+<area shape="rect" id="node7" href="$classPatchBrowser.html" title="{PatchBrowser\n|+ DIV_SPACING\l&#45; pb_first\l&#45; pb_cur\l&#45; pb_cur_tag\l&#45; num_pb\l|+ PatchBrowser()\l+ ~PatchBrowser()\l+ ClearAllItems()\l+ Setup()\l+ ReceiveEvent()\l+ PB_Add()\l+ PB_AddBegin()\l+ PB_MoveTo()\l+ PB_MoveToIndex()\l+ GetCurPatchBank()\l+ SetMIDIForPatch()\l}" alt="" coords="368,843,528,1125"/>
+<area shape="rect" id="node2" href="$classFloDisplay.html" title="{FloDisplay\n|+ iid\l+ id\l+ exp\l+ font\l+ title\l+ xpos\l+ ypos\l+ show\l+ forceshow\l+ next\l|+ FloDisplay()\l+ ~FloDisplay()\l+ Draw()\l+ GetFloDisplayType()\l+ SetShow()\l}" alt="" coords="5,5,173,273"/>
+<area shape="rect" id="node3" href="$classEventListener.html" title="{EventListener\n||+ ReceiveEvent()\l}" alt="" coords="198,101,333,178"/>
+<area shape="rect" id="node4" href="$classEventProducer.html" title="{EventProducer\n||}" alt="" coords="357,101,473,178"/>
+<area shape="rect" id="node5" href="$classRenameCallback.html" title="{RenameCallback\n||+ ItemRenamed()\l}" alt="" coords="497,101,636,178"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AudioIO::getbufsz" name="AudioIO::getbufsz">
+<area shape="rect" id="node2" href="$classAudioIO.html#a012ce924f59ced78f2fac75e6e33b55c" title="AudioIO::AudioIO" alt="" coords="231,5,363,32"/>
+<area shape="rect" id="node3" href="$classOSCClient.html#acbb974bf11667aa6fb48c111ae14a4fe" title="OSCClient::SendPlayingLoops" alt="" coords="191,56,404,83"/>
+<area shape="rect" id="node4" href="$classOSCClient.html#a8b38ea5b76702f9e763daeb694091116" title="OSCClient::ReceiveEvent" alt="" coords="452,56,635,83"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="AudioBlock" name="AudioBlock">
+<area shape="rect" id="node2" href="$classPreallocated.html" title="{Preallocated\n|+ prealloc_num_free\l+ prealloc_next\l+ PREALLOC_BASE_INSTANCE\l+ PREALLOC_IN_USE\l+ PREALLOC_FREE\l&#45; FWMEM_DEFINE_DELBLOCK\l&#45; prealloc_status\l&#45; prealloc_mgr\l&#45; predata\l|+ Preallocated()\l+ ~Preallocated()\l+ operator new()\l+ operator delete()\l+ RTNew()\l+ RTNewWithWait()\l+ RTDelete()\l+ GetMgr()\l+ SetupPreallocated()\l&#45; NewInstance()\l&#45; Recycle()\l}" alt="" coords="48,5,265,347"/>
+</map>

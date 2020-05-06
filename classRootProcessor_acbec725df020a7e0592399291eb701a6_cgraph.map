@@ -1,0 +1,5 @@
+<map id="RootProcessor::AdjustOutputVolume" name="RootProcessor::AdjustOutputVolume">
+<area shape="rect" id="node2" href="$classFweelin.html#acb51892233f08f4b0b9f2e7d7a625448" title="Fweelin::getAUDIO" alt="" coords="274,5,418,32"/>
+<area shape="rect" id="node3" href="$classAudioIO.html#a53438a70443717836d12c04b3c7850d0" title="AudioIO::GetTimeScale" alt="" coords="260,56,432,83"/>
+<area shape="rect" id="node4" href="$classAudioIO.html#a42b9c04861d014fce6b1f68097ca63fd" title="AudioIO::RelocateTransport" alt="" coords="480,56,677,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="LoopManager::CreatePulse" name="LoopManager::CreatePulse">
+<area shape="rect" id="node2" href="$classLoopManager.html#ab79aef15f1e783de1ab6827378bea274" title="LoopManager::SelectPulse" alt="" coords="260,56,452,83"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#ac70cdd5344c524d6aedfe5c67e856409" title="LoopManager::SetupLoadLoop" alt="" coords="248,107,464,133"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a67c6f44d33880b35c875a8e6ea8babac" title="LoopManager::TapPulse" alt="" coords="529,5,703,32"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="768,31,973,57"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a564ecf9fdbe0fa8709ebc046afc148d5" title="LoopManager::GetReadBlock" alt="" coords="512,107,720,133"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Saveable::GetSaveStatus" name="Saveable::GetSaveStatus">
+<area shape="rect" id="node2" href="$classLoopManager.html#afe9ad41d77128fff90501c3a15c76b34" title="LoopManager::AddLoopToSave\lQueue" alt="" coords="240,74,459,115"/>
+<area shape="rect" id="node9" href="$classLoopManager.html#af213761ccf6208b94354a3658de91cfb" title="LoopManager::CheckSaveMap" alt="" coords="241,140,457,167"/>
+<area shape="rect" id="node11" href="$classLoopManager.html#a306ffe72c9623e33cad280ec3609c359" title="LoopManager::SetupSaveLoop" alt="" coords="241,191,458,217"/>
+<area shape="rect" id="node12" href="$classTriggerMap.html#af11490b9355860a768602bca28eedd9c" title="TriggerMap::ScanForHash" alt="" coords="257,241,442,268"/>
+<area shape="rect" id="node15" href="$classOSCClient.html#acbb974bf11667aa6fb48c111ae14a4fe" title="OSCClient::SendPlayingLoops" alt="" coords="243,292,456,319"/>
+<area shape="rect" id="node3" href="$classLoop.html#a53ccedecccce6659493d58c3ff6750b9" title="Loop::Save" alt="" coords="568,81,661,108"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a87ecdd3c80b3c16018a50a397f906b03" title="LoopManager::SaveLoop" alt="" coords="785,81,965,108"/>
+<area shape="rect" id="node5" href="$classTriggerMap.html#aaa7bec4f62540981d1e5703fe8ed575e" title="TriggerMap::Save" alt="" coords="1027,56,1160,83"/>
+<area shape="rect" id="node8" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="1732,56,1937,83"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#ac2adaa8b989e1284abf17fc07eb0baf2" title="LoopManager::SaveNewScene" alt="" coords="1208,56,1425,83"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#abd2cda6ecc976fd447167d5de7cc5912" title="LoopManager::SaveCurScene" alt="" coords="1473,5,1684,32"/>
+<area shape="rect" id="node10" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="509,165,720,192"/>
+<area shape="rect" id="node13" href="$classLoopManager.html#ac70cdd5344c524d6aedfe5c67e856409" title="LoopManager::SetupLoadLoop" alt="" coords="507,241,723,268"/>
+<area shape="rect" id="node14" href="$classLoopManager.html#a564ecf9fdbe0fa8709ebc046afc148d5" title="LoopManager::GetReadBlock" alt="" coords="771,241,979,268"/>
+<area shape="rect" id="node16" href="$classOSCClient.html#a8b38ea5b76702f9e763daeb694091116" title="OSCClient::ReceiveEvent" alt="" coords="523,292,706,319"/>
+</map>

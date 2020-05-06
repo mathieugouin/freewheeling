@@ -1,0 +1,9 @@
+<map id="LoopManager::AddLoopToBrowser" name="LoopManager::AddLoopToBrowser">
+<area shape="rect" id="node2" href="$classBrowser.html#a614d2a2fddedf26b70ffba07b73a0678" title="Browser::GetDisplayName" alt="" coords="293,107,488,133"/>
+<area shape="rect" id="node7" href="$classBrowser.html#ade418b60a9e0e49826acb66811ac8af0" title="Browser::AddItem" alt="" coords="321,183,460,209"/>
+<area shape="rect" id="node3" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="566,5,693,32"/>
+<area shape="rect" id="node4" href="$classFloConfig.html#a9acc5e0790ab29fe30856d58c5ffa0e8" title="FloConfig::GetLibraryPath" alt="" coords="536,56,723,83"/>
+<area shape="rect" id="node5" href="$classSaveable.html#a4e8b7b5e6fe537a5c68c35927741a6e3" title="Saveable::SplitFilename" alt="" coords="540,107,719,133"/>
+<area shape="rect" id="node6" href="$classSaveable.html#afd744adf4ac3fbee68114daa3c513326" title="Saveable::GetHashFirst" alt="" coords="543,157,716,184"/>
+<area shape="rect" id="node8" href="$classBrowserItem.html#ae46a902950af8f0613490012a75c8194" title="BrowserItem::Compare" alt="" coords="543,208,715,235"/>
+</map>

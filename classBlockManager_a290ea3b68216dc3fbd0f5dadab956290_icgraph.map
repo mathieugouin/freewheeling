@@ -1,0 +1,5 @@
+<map id="BlockManager::StripeBlockOff" name="BlockManager::StripeBlockOff">
+<area shape="rect" id="node2" href="$classLoopManager.html#a810b5807daa4272b2275d955190326df" title="LoopManager::StripePulseOff" alt="" coords="268,5,477,32"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="525,5,720,32"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="768,5,973,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="LoopManager::IsActive" name="LoopManager::IsActive">
+<area shape="rect" id="node2" href="$classFweelin.html#a4654015e2bc7cc94f3bfc421899a60d3" title="Fweelin::TriggerSnapshot" alt="" coords="229,5,413,32"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="467,27,672,53"/>
+<area shape="rect" id="node4" href="$classVideoIO.html#a50e4ccae99e278ed7d65d9db86f18c92" title="VideoIO::video_event_loop" alt="" coords="223,107,419,133"/>
+<area shape="rect" id="node6" href="$classLoopTray.html#adb34eb649311a401b0cbf8d4b09613c7" title="LoopTray::Draw_Item" alt="" coords="241,157,400,184"/>
+<area shape="rect" id="node5" href="$classVideoIO.html#adb25c81a2bfe792fd4f64e23a4e21176" title="VideoIO::run_video\l_thread" alt="" coords="497,99,642,141"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="Fweelin::getBMG" name="Fweelin::getBMG">
+<area shape="rect" id="node2" href="$classLoopManager.html#a70967ac90529ee371dc5350cbced90a5" title="LoopManager::LoopManager" alt="" coords="204,13,408,40"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#aadca58536e41c8b0b8fd148ac40b23c0" title="LoopManager::~LoopManager" alt="" coords="199,72,413,99"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a5630b6fefdfc931ac0ab511c6b77cecf" title="LoopManager::StripePulseOn" alt="" coords="202,123,410,149"/>
+<area shape="rect" id="node11" href="$classLoopManager.html#a810b5807daa4272b2275d955190326df" title="LoopManager::StripePulseOff" alt="" coords="476,208,685,235"/>
+<area shape="rect" id="node13" href="$classLoopManager.html#a332a9868980750f28fbf0e05b2336174" title="LoopManager::DeleteLoop" alt="" coords="485,259,676,285"/>
+<area shape="rect" id="node15" href="$classPulse.html#a0081f88108dfc1585a23eae533be0190" title="Pulse::~Pulse" alt="" coords="251,427,361,453"/>
+<area shape="rect" id="node16" href="$classPulse.html#adf28cef50c1f7543db7171b67126c38f" title="Pulse::process" alt="" coords="249,477,363,504"/>
+<area shape="rect" id="node17" href="$classRecordProcessor.html#a1aea5f833c59a12398b05b514b26b572" title="RecordProcessor::RecordProcessor" alt="" coords="184,528,428,555"/>
+<area shape="rect" id="node18" href="$classRecordProcessor.html#a63fbf98c72bafa6c2e24a3962bdae70c" title="RecordProcessor::~Record\lProcessor" alt="" coords="485,310,677,351"/>
+<area shape="rect" id="node19" href="$classRecordProcessor.html#a9984f573bbc265321ad0604f97b23820" title="RecordProcessor::EndNow" alt="" coords="485,376,676,403"/>
+<area shape="rect" id="node23" href="$classRecordProcessor.html#a5bce44b8a038567efcf660cfeeae93f4" title="RecordProcessor::AbortRecording" alt="" coords="188,275,424,301"/>
+<area shape="rect" id="node24" href="$classPlayProcessor.html#a3df8da4a26e768d00b0cfada90b37cc9" title="PlayProcessor::~PlayProcessor" alt="" coords="195,579,417,605"/>
+<area shape="rect" id="node3" href="$classFweelin.html#a1e47b97764f07dfd37458e91c0c54adf" title="Fweelin::setup" alt="" coords="523,5,639,32"/>
+<area shape="rect" id="node4" href="$fweelin_8cc.html#a97b0fa62b7b0972875f5f589322c4c24" title="main" alt="" coords="812,5,867,32"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#ab79aef15f1e783de1ab6827378bea274" title="LoopManager::SelectPulse" alt="" coords="485,56,677,83"/>
+<area shape="rect" id="node8" href="$classLoopManager.html#a67c6f44d33880b35c875a8e6ea8babac" title="LoopManager::TapPulse" alt="" coords="752,107,927,133"/>
+<area shape="rect" id="node10" href="$classLoopManager.html#a705436ae811a121ed3285ab34b144bfe" title="LoopManager::CreatePulse" alt="" coords="483,157,678,184"/>
+<area shape="rect" id="node9" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="993,136,1199,163"/>
+<area shape="rect" id="node12" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="742,165,937,192"/>
+<area shape="rect" id="node14" href="$classLoopManager.html#a6048a702c9cec3676a1c56792b16ec44" title="LoopManager::ReadComplete" alt="" coords="733,216,945,243"/>
+<area shape="rect" id="node20" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="738,325,941,352"/>
+<area shape="rect" id="node21" href="$classRecordProcessor.html#ab035edfb707f8f1066b3597df7ddda7d" title="RecordProcessor::End" alt="" coords="759,376,920,403"/>
+<area shape="rect" id="node22" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="746,427,933,453"/>
+</map>

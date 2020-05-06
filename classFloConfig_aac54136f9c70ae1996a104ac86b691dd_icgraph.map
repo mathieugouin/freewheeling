@@ -1,0 +1,7 @@
+<map id="FloConfig::AddEventHook" name="FloConfig::AddEventHook">
+<area shape="rect" id="node2" href="$classItemRenamer.html#a142fa081aa16f3ce9bddfcb44619a90f" title="ItemRenamer::ItemRenamer" alt="" coords="240,56,447,83"/>
+<area shape="rect" id="node3" href="$classBrowser.html#a517f5d012c377402b3bdbfd10e4c8db5" title="Browser::Rename" alt="" coords="505,5,641,32"/>
+<area shape="rect" id="node4" href="$classLoopTray.html#a2b7540addc2966370cc4034d36c552f8" title="LoopTray::Rename" alt="" coords="503,56,643,83"/>
+<area shape="rect" id="node5" href="$classFloDisplaySnapshots.html#afb7aeeaa71af5466e371927d3c11f39f" title="FloDisplaySnapshots\l::Rename" alt="" coords="495,107,652,149"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="700,115,905,141"/>
+</map>

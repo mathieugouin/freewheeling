@@ -1,0 +1,25 @@
+<map id="Pulse::process" name="Pulse::process">
+<area shape="rect" id="node2" href="$classFweelin.html#acb51892233f08f4b0b9f2e7d7a625448" title="Fweelin::getAUDIO" alt="" coords="223,5,367,32"/>
+<area shape="rect" id="node3" href="$classAudioIO.html#a9504a97713d7196e73234ddb38b88e1e" title="AudioIO::IsTransportRolling" alt="" coords="197,56,393,83"/>
+<area shape="rect" id="node4" href="$classAudioIO.html#a9adeba1df5a78a18e0052cefa964b8c5" title="AudioIO::IsTimebaseMaster" alt="" coords="195,107,395,133"/>
+<area shape="rect" id="node5" href="$classFweelin.html#acd22ca1ad294b86d1d180de907418d27" title="Fweelin::GetSyncType" alt="" coords="213,157,377,184"/>
+<area shape="rect" id="node6" href="$classFweelin.html#af5750c2388bfe7d280182c3a8c3cab13" title="Fweelin::GetSyncSpeed" alt="" coords="208,208,383,235"/>
+<area shape="rect" id="node7" href="$classAudioIO.html#a2935e9f84bda188dbc46c6a66309769c" title="AudioIO::GetTransport_BPM" alt="" coords="196,259,395,285"/>
+<area shape="rect" id="node8" href="$classAudioIO.html#aaee52b2ff10fa3bf532898c34c279b4e" title="AudioIO::GetTransport_BPB" alt="" coords="197,309,394,336"/>
+<area shape="rect" id="node9" href="$classAudioIO.html#ab175bb73ae9aadb84940dace46c71fd8" title="AudioIO::get_srate" alt="" coords="224,360,367,387"/>
+<area shape="rect" id="node10" href="$classAudioIO.html#aaea83a348af3c117891f503b29fef2b4" title="AudioIO::GetTransport_Beat" alt="" coords="195,411,396,437"/>
+<area shape="rect" id="node11" href="$classAudioIO.html#a9a7728f785ca7acc2e47105f696f25c4" title="AudioIO::GetTransport_Bar" alt="" coords="199,461,392,488"/>
+<area shape="rect" id="node12" href="$classPulse.html#a7fe0049b23a1e2ac3ef33d326bcefe24" title="Pulse::Wrap" alt="" coords="246,512,345,539"/>
+<area shape="rect" id="node13" href="$classFweelin.html#a538440216608aed67e6940c2903c3072" title="Fweelin::getBUFSZ" alt="" coords="223,563,367,589"/>
+<area shape="rect" id="node14" href="$classFweelin.html#aee46aec225c2ee5c88854dc9943e7d62" title="Fweelin::getMIDI" alt="" coords="230,613,361,640"/>
+<area shape="rect" id="node15" href="$classMidiIO.html#ab468c4eab816c7f75f28f9113c3072e4" title="MidiIO::GetMIDISyncTransmit" alt="" coords="190,664,401,691"/>
+<area shape="rect" id="node16" href="$classEvent.html#aa67af0ae99b897e4f0ce42068c4e4c00" title="Event::GetEventByType" alt="" coords="208,715,383,741"/>
+<area shape="rect" id="node17" href="$classFweelin.html#a21e51d7b639faaecc415624ab6c16a71" title="Fweelin::getEMG" alt="" coords="230,765,361,792"/>
+<area shape="rect" id="node18" href="$classEventManager.html#a4a73f2e7ff1724f28427f7c0d5725c8e" title="EventManager::BroadcastEventNow" alt="" coords="168,816,423,843"/>
+<area shape="rect" id="node22" href="$classFweelin.html#a600688955c7470a1b7a2fa95ddcc4118" title="Fweelin::getBMG" alt="" coords="230,867,361,893"/>
+<area shape="rect" id="node23" href="$classBlockManager.html#a845ba7e7c39fae3959ee2f7076b756c5" title="BlockManager::HiPriTrigger" alt="" coords="197,917,394,944"/>
+<area shape="rect" id="node19" href="$classEvent.html#ac4c4170579544b41dff38ca1b8110e30" title="Event::GetType" alt="" coords="514,765,634,792"/>
+<area shape="rect" id="node20" href="$classEventListener.html#a831820a9229e852bd7e2fad686b725b2" title="EventListener::ReceiveEvent" alt="" coords="471,816,677,843"/>
+<area shape="rect" id="node21" href="$classPreallocated.html#aaf2139a79ca16de70acd9bc4564171b7" title="Preallocated::RTDelete" alt="" coords="489,867,659,893"/>
+<area shape="rect" id="node24" href="$classManagedChain.html#a24205aa4547a5a79484244a941760662" title="ManagedChain::Manage" alt="" coords="485,917,663,944"/>
+</map>

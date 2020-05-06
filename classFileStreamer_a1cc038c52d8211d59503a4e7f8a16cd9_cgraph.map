@@ -1,0 +1,15 @@
+<map id="FileStreamer::FileStreamer" name="FileStreamer::FileStreamer">
+<area shape="rect" id="node2" href="$classFileStreamer.html#a89b7803d85f99c20fb0e3722c12b4323" title="FileStreamer::run_encode\l_thread" alt="" coords="267,283,453,324"/>
+<area shape="rect" id="node14" href="$classRT__RWThreads.html#af83b41e330638728272af35ff18dfa01" title="RT_RWThreads::RegisterReader\lOrWriter" alt="" coords="248,348,472,389"/>
+<area shape="rect" id="node3" href="$classiFileEncoder.html#a6b11df3424d8aa35873ffc34bacc5dc9" title="iFileEncoder::WriteSamples\lToDisk" alt="" coords="532,5,731,47"/>
+<area shape="rect" id="node4" href="$classFileStreamer.html#a9cf743c2fac9d70ef66e5f19e8acace3" title="FileStreamer::InitStreamer" alt="" coords="535,71,728,98"/>
+<area shape="rect" id="node5" href="$classFweelin.html#a21e51d7b639faaecc415624ab6c16a71" title="Fweelin::getEMG" alt="" coords="566,122,697,149"/>
+<area shape="rect" id="node6" href="$classEventManager.html#a900be2c959408f76e6926c96197bd773" title="EventManager::ListenEvent" alt="" coords="532,173,731,199"/>
+<area shape="rect" id="node7" href="$classiFileEncoder.html#ae134e439d1cf7a729ead45d624f6bb23" title="iFileEncoder::SetupFileFor\lWriting" alt="" coords="538,224,725,265"/>
+<area shape="rect" id="node8" href="$classFweelin.html#a4422f3a93561eff272cd5f7ecb0782ee" title="Fweelin::getRP" alt="" coords="572,290,691,317"/>
+<area shape="rect" id="node9" href="$classRootProcessor.html#a2aef0ef0e079427ff5c0b5604fbe7e51" title="RootProcessor::GetSampleCnt" alt="" coords="523,341,739,367"/>
+<area shape="rect" id="node10" href="$classFweelin.html#a1df20111cd1d263b7741e98123006446" title="Fweelin::FlushStreamOutName" alt="" coords="520,391,743,418"/>
+<area shape="rect" id="node11" href="$classiFileEncoder.html#a688c77631f58abe047c36ef552ec83bb" title="iFileEncoder::PrepareFile\lForClosing" alt="" coords="541,443,721,484"/>
+<area shape="rect" id="node12" href="$classFileStreamer.html#a4d5a80c78b430442839671ed38f20763" title="FileStreamer::EndStreamer" alt="" coords="533,509,729,535"/>
+<area shape="rect" id="node13" href="$classEventManager.html#abfc3ddd37f9bd472a41ab43632e44736" title="EventManager::UnlistenEvent" alt="" coords="524,559,739,586"/>
+</map>

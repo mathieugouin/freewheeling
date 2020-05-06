@@ -1,0 +1,9 @@
+<map id="LoopManager::UnlockLoops" name="LoopManager::UnlockLoops">
+<area shape="rect" id="node2" href="$classLoopManager.html#a332a9868980750f28fbf0e05b2336174" title="LoopManager::DeleteLoop" alt="" coords="256,57,447,84"/>
+<area shape="rect" id="node6" href="$classVideoIO.html#adca60a99be6e51d8af7ce2a32f92349a" title="VideoIO::DrawLoop" alt="" coords="278,109,425,136"/>
+<area shape="rect" id="node7" href="$classVideoIO.html#a50e4ccae99e278ed7d65d9db86f18c92" title="VideoIO::video_event_loop" alt="" coords="253,161,449,188"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a6048a702c9cec3676a1c56792b16ec44" title="LoopManager::ReadComplete" alt="" coords="497,5,709,32"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="506,56,701,83"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="757,81,963,108"/>
+<area shape="rect" id="node8" href="$classVideoIO.html#adb25c81a2bfe792fd4f64e23a4e21176" title="VideoIO::run_video\l_thread" alt="" coords="531,158,676,199"/>
+</map>

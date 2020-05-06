@@ -1,0 +1,8 @@
+<map id="AudioBlock::Smooth" name="AudioBlock::Smooth">
+<area shape="rect" id="node2" href="$classAudioBlock.html#a380880c91c3af2322d232ce2de83b881" title="AudioBlock::GetTotalLen" alt="" coords="495,5,675,32"/>
+<area shape="rect" id="node3" href="$classAudioBlock.html#a4f53140535b4c56db4c5360f3fb9eb7d" title="AudioBlock::SetPtrsFromAbs\lOffset" alt="" coords="483,107,688,149"/>
+<area shape="rect" id="node4" href="$classAudioBlock.html#ae7aec1591ed6f228799c11b650b2cc1b" title="AudioBlock::GetExtendedData" alt="" coords="211,171,430,197"/>
+<area shape="rect" id="node6" href="$classAudioBlock.html#aa9e0bc3fa297c7c97aedda16f240108f" title="AudioBlock::HackTotalLengthBy" alt="" coords="207,59,435,85"/>
+<area shape="rect" id="node5" href="$classBlockExtendedData.html#ae33e9550384a32abf2a91386334a2be9" title="BlockExtendedData::\lGetType" alt="" coords="506,173,665,214"/>
+<area shape="rect" id="node7" href="$classPreallocated.html#aaf2139a79ca16de70acd9bc4564171b7" title="Preallocated::RTDelete" alt="" coords="500,56,671,83"/>
+</map>

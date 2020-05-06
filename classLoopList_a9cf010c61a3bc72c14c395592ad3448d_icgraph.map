@@ -1,0 +1,7 @@
+<map id="LoopList::Remove" name="LoopList::Remove">
+<area shape="rect" id="node2" href="$classLoopManager.html#af9b1708b49b00b353059227a458e1887" title="LoopManager::UpdateLoopLists\l_ItemRemoved" alt="" coords="191,70,416,111"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="963,107,1168,133"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a332a9868980750f28fbf0e05b2336174" title="LoopManager::DeleteLoop" alt="" coords="464,67,655,93"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a6048a702c9cec3676a1c56792b16ec44" title="LoopManager::ReadComplete" alt="" coords="703,5,915,32"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="711,56,906,83"/>
+</map>

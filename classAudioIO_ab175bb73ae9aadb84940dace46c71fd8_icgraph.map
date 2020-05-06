@@ -1,0 +1,18 @@
+<map id="AudioIO::get_srate" name="AudioIO::get_srate">
+<area shape="rect" id="node2" href="$classSndFileDecoder.html#a74a2b4f793067771c904e4a64a11811f" title="SndFileDecoder::ReadFromFile" alt="" coords="201,5,417,32"/>
+<area shape="rect" id="node3" href="$classVorbisDecoder.html#af68926dd65a6491b87318ee505a89063" title="VorbisDecoder::ReadFromFile" alt="" coords="204,56,415,83"/>
+<area shape="rect" id="node4" href="$classSndFileEncoder.html#a5d5ba47e9db796dad8cc1d75c27f473c" title="SndFileEncoder::SndFileEncoder" alt="" coords="196,107,423,133"/>
+<area shape="rect" id="node5" href="$classVorbisEncoder.html#a97a04788b45c6ad2417eaa6af44986e6" title="VorbisEncoder::VorbisEncoder" alt="" coords="202,157,417,184"/>
+<area shape="rect" id="node6" href="$classAudioBuffers.html#a0ef951c1d9fa74a04d269cf8cbfe218d" title="AudioBuffers::MixInputs" alt="" coords="221,208,397,235"/>
+<area shape="rect" id="node9" href="$classPulse.html#ad159d5b915010a5fd93eb397aa47aa39" title="Pulse::Pulse" alt="" coords="259,259,359,285"/>
+<area shape="rect" id="node10" href="$classPulse.html#adf28cef50c1f7543db7171b67126c38f" title="Pulse::process" alt="" coords="252,309,367,336"/>
+<area shape="rect" id="node11" href="$classMidiIO.html#aef220bcce8b89bea36032298868a919e" title="MidiIO::run_midi_thread" alt="" coords="476,352,653,379"/>
+<area shape="rect" id="node13" href="$classMidiIO.html#a1753eb05e14eb572a5f52b9616480d55" title="MidiIO::SetMIDIForPatch" alt="" coords="221,411,397,437"/>
+<area shape="rect" id="node16" href="$classOSCClient.html#acbb974bf11667aa6fb48c111ae14a4fe" title="OSCClient::SendPlayingLoops" alt="" coords="203,465,416,492"/>
+<area shape="rect" id="node7" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="471,179,658,205"/>
+<area shape="rect" id="node8" href="$classPassthroughProcessor.html#a10fbf639d2b8899ef15011532da47ad8" title="PassthroughProcessor\l::process" alt="" coords="483,230,647,271"/>
+<area shape="rect" id="node12" href="$classMidiIO.html#a222509803679fcf4bcb7b4b4a34cf0cd" title="MidiIO::activate" alt="" coords="728,356,852,383"/>
+<area shape="rect" id="node14" href="$classPatchBrowser.html#a90246446ed1a2650a2a7555f5d76c653" title="PatchBrowser::SetMIDIFor\lPatch" alt="" coords="471,403,659,445"/>
+<area shape="rect" id="node15" href="$classFweelin.html#acacaa80535c0688358984d2070fedb71" title="Fweelin::ItemSelected" alt="" coords="707,411,873,437"/>
+<area shape="rect" id="node17" href="$classOSCClient.html#a8b38ea5b76702f9e763daeb694091116" title="OSCClient::ReceiveEvent" alt="" coords="473,469,656,496"/>
+</map>

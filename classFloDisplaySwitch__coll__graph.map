@@ -1,0 +1,9 @@
+<map id="FloDisplaySwitch" name="FloDisplaySwitch">
+<area shape="rect" id="node2" href="$classFloDisplay.html" title="{FloDisplay\n||+ FloDisplay()\l+ ~FloDisplay()\l+ Draw()\l+ GetFloDisplayType()\l+ SetShow()\l}" alt="" coords="210,1028,378,1164"/>
+<area shape="rect" id="node4" href="$classFloFont.html" title="{FloFont\n||+ FloFont()\l+ ~FloFont()\l}" alt="" coords="73,241,178,333"/>
+<area shape="rect" id="node10" href="$classUserVariable.html" title="{UserVariable\n||+ UserVariable()\l+ ~UserVariable()\l+ RaisePrecision()\l+ operator\&gt;()\l+ operator==()\l+ operator!=()\l+ operator+=()\l+ GetDelta()\l+ operator&#45;=()\l+ operator*=()\land 18 more...\l}" alt="" coords="458,175,601,399"/>
+<area shape="rect" id="node12" href="$classEventParameter.html" title="{EventParameter\n||+ EventParameter()\l}" alt="" coords="694,248,845,325"/>
+<area shape="rect" id="node14" href="$classCfgMathOperation.html" title="{CfgMathOperation\n||+ CfgMathOperation()\l}" alt="" coords="508,689,674,767"/>
+<area shape="rect" id="node7" href="$classParsedExpression.html" title="{ParsedExpression\n||+ ParsedExpression()\l+ ~ParsedExpression()\l+ Evaluate()\l+ IsStatic()\l+ Print()\l}" alt="" coords="505,829,677,965"/>
+<area shape="rect" id="node8" href="$classCfgToken.html" title="{CfgToken\n||+ CfgToken()\l+ Print()\l+ Evaluate()\l}" alt="" coords="538,476,644,583"/>
+</map>

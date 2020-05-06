@@ -1,0 +1,4 @@
+<map id="AudioLevel::fader_to_dB" name="AudioLevel::fader_to_dB">
+<area shape="rect" id="node2" href="$fweelin__core__dsp_8cc.html#aa8e70840b54e71eb9300384906358f42" title="iec_dB_to_fader" alt="" coords="233,5,360,32"/>
+<area shape="rect" id="node3" href="$fweelin__core__dsp_8cc.html#aef093fccb62a8f826bff45f18e39cf5d" title="iec_fader_to_dB" alt="" coords="233,56,360,83"/>
+</map>

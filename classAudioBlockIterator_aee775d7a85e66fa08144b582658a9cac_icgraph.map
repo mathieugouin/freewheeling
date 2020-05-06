@@ -1,0 +1,8 @@
+<map id="AudioBlockIterator::Jump" name="AudioBlockIterator::Jump">
+<area shape="rect" id="node2" href="$classRecordProcessor.html#a1aea5f833c59a12398b05b514b26b572" title="RecordProcessor::RecordProcessor" alt="" coords="196,5,440,32"/>
+<area shape="rect" id="node3" href="$classRecordProcessor.html#a8fbde2e8b6f9e9dafb89ef0b06e6a11a" title="RecordProcessor::Jump" alt="" coords="233,56,403,83"/>
+<area shape="rect" id="node5" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="225,107,411,133"/>
+<area shape="rect" id="node6" href="$classPlayProcessor.html#a4f2f7e937cc77b2516d03aa76d29519d" title="PlayProcessor::PlayProcessor" alt="" coords="212,157,424,184"/>
+<area shape="rect" id="node7" href="$classPlayProcessor.html#a13ce406fdf45f876f305b01c031f04a2" title="PlayProcessor::PulseSync" alt="" coords="225,208,411,235"/>
+<area shape="rect" id="node4" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="488,56,691,83"/>
+</map>

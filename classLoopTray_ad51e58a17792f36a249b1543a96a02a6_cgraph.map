@@ -1,0 +1,7 @@
+<map id="LoopTray::MouseButton" name="LoopTray::MouseButton">
+<area shape="rect" id="node2" href="$classEvent.html#aa67af0ae99b897e4f0ce42068c4e4c00" title="Event::GetEventByType" alt="" coords="251,5,425,32"/>
+<area shape="rect" id="node3" href="$classFweelin.html#a21e51d7b639faaecc415624ab6c16a71" title="Fweelin::getEMG" alt="" coords="273,56,403,83"/>
+<area shape="rect" id="node4" href="$classEventManager.html#ac7c4b4ceee333a360274d73d166b8c69" title="EventManager::BroadcastEvent" alt="" coords="225,107,451,133"/>
+<area shape="rect" id="node5" href="$classSRMWRingBuffer.html#a47699ccc0600c38559c8e10f0ca9bf3c" title="SRMWRingBuffer::WriteElement" alt="" coords="503,81,729,108"/>
+<area shape="rect" id="node6" href="$classEventManager.html#a529567a1f3b56ecbc97aceec5ee0b46e" title="EventManager::WakeupIfNeeded" alt="" coords="499,132,733,159"/>
+</map>

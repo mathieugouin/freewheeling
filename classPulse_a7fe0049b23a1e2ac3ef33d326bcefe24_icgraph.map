@@ -1,0 +1,5 @@
+<map id="Pulse::Wrap" name="Pulse::Wrap">
+<area shape="rect" id="node2" href="$classLoopManager.html#a67c6f44d33880b35c875a8e6ea8babac" title="LoopManager::TapPulse" alt="" coords="152,5,327,32"/>
+<area shape="rect" id="node4" href="$classPulse.html#adf28cef50c1f7543db7171b67126c38f" title="Pulse::process" alt="" coords="182,56,297,83"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="375,5,580,32"/>
+</map>

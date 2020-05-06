@@ -1,0 +1,7 @@
+<map id="Loop::Save" name="Loop::Save">
+<area shape="rect" id="node2" href="$classFweelin.html#a7b1253ea49ee57244a0d8cca152d72e5" title="Fweelin::getLOOPMGR" alt="" coords="173,5,339,32"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#afe9ad41d77128fff90501c3a15c76b34" title="LoopManager::AddLoopToSave\lQueue" alt="" coords="147,57,365,98"/>
+<area shape="rect" id="node4" href="$classSaveable.html#adc2366ae4f62d203d464879f189e499d" title="Saveable::GetSaveStatus" alt="" coords="421,13,608,40"/>
+<area shape="rect" id="node5" href="$classEvent.html#aa67af0ae99b897e4f0ce42068c4e4c00" title="Event::GetEventByType" alt="" coords="427,64,602,91"/>
+<area shape="rect" id="node6" href="$classEventManager.html#a215075d1cc20ee7e2d55e9bb54ca516f" title="EventManager::QueueEvent" alt="" coords="413,115,616,141"/>
+</map>

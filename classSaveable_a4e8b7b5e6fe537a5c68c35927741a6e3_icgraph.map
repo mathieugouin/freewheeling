@@ -1,0 +1,13 @@
+<map id="Saveable::SplitFilename" name="Saveable::SplitFilename">
+<area shape="rect" id="node2" href="$classBrowser.html#a614d2a2fddedf26b70ffba07b73a0678" title="Browser::GetDisplayName" alt="" coords="243,56,437,83"/>
+<area shape="rect" id="node8" href="$classSaveable.html#adae4cd33642810eed468c68042afe01e" title="Saveable::RenameSaveable" alt="" coords="239,119,441,145"/>
+<area shape="rect" id="node9" href="$classLoopManager.html#a7954eacf6a4f8d0300c4100133a4b725" title="LoopManager::ItemRenamed" alt="" coords="797,165,1005,192"/>
+<area shape="rect" id="node10" href="$classSaveable.html#ae80419c61613dd2ec659d23b3fe0e788" title="Saveable::SetSaveableHash\lFromText" alt="" coords="518,158,722,199"/>
+<area shape="rect" id="node11" href="$classLoopManager.html#ac70cdd5344c524d6aedfe5c67e856409" title="LoopManager::SetupLoadLoop" alt="" coords="232,275,448,301"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a175985d1a7e21f019251ff996217cbb0" title="LoopManager::AddLoopToBrowser" alt="" coords="500,5,740,32"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a0c2604681ae7de5415cef3f2690e4a0c" title="LoopManager::AddSceneToBrowser" alt="" coords="496,56,744,83"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a306ffe72c9623e33cad280ec3609c359" title="LoopManager::SetupSaveLoop" alt="" coords="792,5,1009,32"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="1057,31,1268,57"/>
+<area shape="rect" id="node7" href="$classTriggerMap.html#a92e251eec5a7c5741807805b6869fab8" title="TriggerMap::GoSave" alt="" coords="825,56,976,83"/>
+<area shape="rect" id="node12" href="$classLoopManager.html#a564ecf9fdbe0fa8709ebc046afc148d5" title="LoopManager::GetReadBlock" alt="" coords="516,275,724,301"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ManagedChain::GetType" name="ManagedChain::GetType">
+<area shape="rect" id="node2" href="$classBlockManager.html#a28028dbf822172d59d148cab4614e97c" title="BlockManager::GetBlockManager" alt="" coords="232,5,469,32"/>
+<area shape="rect" id="node3" href="$classBlockManager.html#af1d0fec9c4363daed34026a3461a2e58" title="BlockManager::DelManager" alt="" coords="251,56,451,83"/>
+<area shape="rect" id="node4" href="$classBlockManager.html#a07b5a821c70151176fbf3db215dbba82" title="BlockManager::run_manage\l_thread" alt="" coords="249,107,452,149"/>
+<area shape="rect" id="node5" href="$classBlockManager.html#ae3d80b63628951b60e95fab855a09855" title="BlockManager::BlockManager" alt="" coords="517,115,732,141"/>
+</map>

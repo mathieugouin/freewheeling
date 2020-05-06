@@ -1,0 +1,3 @@
+<map id="SListItem" name="SListItem">
+<area shape="rect" id="node2" href="$classPreallocatedType.html" title="{PreallocatedType\n|+ PREALLOC_DEFAULT_NUM\l_INSTANCES\l&#45; prealloc_base\l&#45; ready_list\l&#45; instance_size\l&#45; prealloc_num_instances\l&#45; block_mode\l&#45; blocks_list\l&#45; block_last_idx\l&#45; mmgr\l|+ PreallocatedType()\l+ ~PreallocatedType()\l+ RTNew()\l+ RTNewWithWait()\l+ RTDelete()\l+ GoPreallocate()\l+ GoPostdelete()\l+ Cleanup()\l+ GetBlockSize()\l}" alt="" coords="5,131,211,457"/>
+</map>

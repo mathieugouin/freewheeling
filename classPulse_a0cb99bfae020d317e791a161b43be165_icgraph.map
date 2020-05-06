@@ -1,0 +1,10 @@
+<map id="Pulse::GetPct" name="Pulse::GetPct">
+<area shape="rect" id="node2" href="$classLoopManager.html#a67c6f44d33880b35c875a8e6ea8babac" title="LoopManager::TapPulse" alt="" coords="458,5,633,32"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a861cdd2ace9aeb53b4ecf92728215265" title="LoopManager::Deactivate" alt="" coords="189,56,377,83"/>
+<area shape="rect" id="node6" href="$classRecordProcessor.html#aa20c0f68a5ee5e4739759b3783b6e4d1" title="RecordProcessor::RecordProcessor" alt="" coords="161,107,405,133"/>
+<area shape="rect" id="node7" href="$classRecordProcessor.html#ab035edfb707f8f1066b3597df7ddda7d" title="RecordProcessor::End" alt="" coords="203,157,364,184"/>
+<area shape="rect" id="node8" href="$classVideoIO.html#a50e4ccae99e278ed7d65d9db86f18c92" title="VideoIO::video_event_loop" alt="" coords="185,208,381,235"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="685,56,891,83"/>
+<area shape="rect" id="node5" href="$classFweelin.html#a4654015e2bc7cc94f3bfc421899a60d3" title="Fweelin::TriggerSnapshot" alt="" coords="453,107,637,133"/>
+<area shape="rect" id="node9" href="$classVideoIO.html#adb25c81a2bfe792fd4f64e23a4e21176" title="VideoIO::run_video\l_thread" alt="" coords="473,201,618,242"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="LoopManager::SetupSceneBrowser" name="LoopManager::SetupSceneBrowser">
+<area shape="rect" id="node2" href="$classBrowser.html#add244d7739c8910a29a63599d765efc9" title="Browser::ClearAllItems" alt="" coords="313,5,484,32"/>
+<area shape="rect" id="node3" href="$classBrowser.html#aa33b6a26b512beffbe68bbcd2153c123" title="Browser::AddDivisions" alt="" coords="315,56,483,83"/>
+<area shape="rect" id="node6" href="$classBrowser.html#a59891b80034d9b3594b42bf416cbb23b" title="Browser::MoveToBeginning" alt="" coords="300,107,497,133"/>
+<area shape="rect" id="node4" href="$classBrowserItem.html#ae46a902950af8f0613490012a75c8194" title="BrowserItem::Compare" alt="" coords="545,31,717,57"/>
+<area shape="rect" id="node5" href="$classBrowserItem.html#a4ebfa0b72dd5eec1c43ed1b65287ae47" title="BrowserItem::GetType" alt="" coords="548,81,715,108"/>
+</map>

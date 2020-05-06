@@ -1,0 +1,17 @@
+<map id="Processor::dopreprocess" name="Processor::dopreprocess">
+<area shape="rect" id="node2" href="$classLoopManager.html#ad385aa5de4038bffcb67aadd4052c90c" title="LoopManager::SetLoopVolume" alt="" coords="468,164,687,191"/>
+<area shape="rect" id="node5" href="$classRootProcessor.html#adc75260f6db8566d3e3eaaea2d5a6323" title="RootProcessor::AddChild" alt="" coords="237,95,417,121"/>
+<area shape="rect" id="node9" href="$classRootProcessor.html#a479ddcf191d529562b634e65e7ea05b3" title="RootProcessor::DelChild" alt="" coords="238,265,415,292"/>
+<area shape="rect" id="node14" href="$classRecordProcessor.html#a8fbde2e8b6f9e9dafb89ef0b06e6a11a" title="RecordProcessor::Jump" alt="" coords="241,316,412,343"/>
+<area shape="rect" id="node16" href="$classPlayProcessor.html#a13ce406fdf45f876f305b01c031f04a2" title="PlayProcessor::PulseSync" alt="" coords="233,367,420,393"/>
+<area shape="rect" id="node3" href="$classFweelin.html#a4654015e2bc7cc94f3bfc421899a60d3" title="Fweelin::TriggerSnapshot" alt="" coords="749,164,933,191"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="995,189,1200,216"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a705436ae811a121ed3285ab34b144bfe" title="LoopManager::CreatePulse" alt="" coords="480,5,675,32"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#a67c6f44d33880b35c875a8e6ea8babac" title="LoopManager::TapPulse" alt="" coords="753,12,928,39"/>
+<area shape="rect" id="node8" href="$classLoopManager.html#add3b21cda3c0eddecabf19d24c610cdc" title="LoopManager::Activate" alt="" coords="492,107,663,133"/>
+<area shape="rect" id="node10" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="743,316,938,343"/>
+<area shape="rect" id="node11" href="$classLoopManager.html#a332a9868980750f28fbf0e05b2336174" title="LoopManager::DeleteLoop" alt="" coords="482,367,673,393"/>
+<area shape="rect" id="node13" href="$classLoopManager.html#a861cdd2ace9aeb53b4ecf92728215265" title="LoopManager::Deactivate" alt="" coords="483,215,671,241"/>
+<area shape="rect" id="node12" href="$classLoopManager.html#a6048a702c9cec3676a1c56792b16ec44" title="LoopManager::ReadComplete" alt="" coords="735,367,947,393"/>
+<area shape="rect" id="node15" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="476,417,679,444"/>
+</map>

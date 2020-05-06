@@ -1,0 +1,11 @@
+<map id="BlockManager::AddManager" name="BlockManager::AddManager">
+<area shape="rect" id="node2" href="$classBlockManager.html#ac12004ae7d335e81c7cbd463cd614b34" title="BlockManager::GrowChainOn" alt="" coords="256,12,467,39"/>
+<area shape="rect" id="node4" href="$classBlockManager.html#af050835c736257358a3f572f8422ff1d" title="BlockManager::PeakAvgOn" alt="" coords="263,69,459,96"/>
+<area shape="rect" id="node8" href="$classLoopManager.html#a70967ac90529ee371dc5350cbced90a5" title="LoopManager::LoopManager" alt="" coords="259,132,463,159"/>
+<area shape="rect" id="node3" href="$classRecordProcessor.html#aa20c0f68a5ee5e4739759b3783b6e4d1" title="RecordProcessor::RecordProcessor" alt="" coords="515,5,759,32"/>
+<area shape="rect" id="node5" href="$classBlockReadManager.html#af12804c61f944904eedf8c9edf5cd3bd" title="BlockReadManager::Start" alt="" coords="544,56,729,83"/>
+<area shape="rect" id="node7" href="$classRecordProcessor.html#a1aea5f833c59a12398b05b514b26b572" title="RecordProcessor::RecordProcessor" alt="" coords="515,107,759,133"/>
+<area shape="rect" id="node6" href="$classBlockReadManager.html#aa990976dec4a3ec5bd6384b54ce5f09b" title="BlockReadManager::Manage" alt="" coords="807,56,1012,83"/>
+<area shape="rect" id="node9" href="$classFweelin.html#a1e47b97764f07dfd37458e91c0c54adf" title="Fweelin::setup" alt="" coords="579,157,695,184"/>
+<area shape="rect" id="node10" href="$fweelin_8cc.html#a97b0fa62b7b0972875f5f589322c4c24" title="main" alt="" coords="882,157,937,184"/>
+</map>

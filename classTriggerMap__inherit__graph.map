@@ -1,0 +1,4 @@
+<map id="TriggerMap" name="TriggerMap">
+<area shape="rect" id="node2" href="$classSaveable.html" title="{Saveable\n|# savestatus\l# savehash\l|+ Saveable()\l+ Save()\l+ GetSaveHash()\l+ CompareHash()\l+ GetSaveStatus()\l+ SetSaveStatus()\l+ ClearSaveHash()\l+ SetSaveableHashFromText()\l+ RenameSaveable()\l+ SplitFilename()\l+ RenameSaveable()\l+ GetHashFirst()\l}" alt="" coords="5,5,225,259"/>
+<area shape="rect" id="node3" href="$classEventProducer.html" title="{EventProducer\n||}" alt="" coords="249,93,365,171"/>
+</map>

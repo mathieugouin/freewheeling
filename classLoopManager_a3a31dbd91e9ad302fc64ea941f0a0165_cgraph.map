@@ -1,0 +1,7 @@
+<map id="LoopManager::AdjustInputVolume" name="LoopManager::AdjustInputVolume">
+<area shape="rect" id="node2" href="$classFweelin.html#a4422f3a93561eff272cd5f7ecb0782ee" title="Fweelin::getRP" alt="" coords="283,5,401,32"/>
+<area shape="rect" id="node3" href="$classRootProcessor.html#af1a55b84d3f7d50eb13cc8f0c0a5c315" title="RootProcessor::AdjustInput\lVolume" alt="" coords="244,57,440,98"/>
+<area shape="rect" id="node4" href="$classFweelin.html#acb51892233f08f4b0b9f2e7d7a625448" title="Fweelin::getAUDIO" alt="" coords="502,39,646,65"/>
+<area shape="rect" id="node5" href="$classAudioIO.html#a53438a70443717836d12c04b3c7850d0" title="AudioIO::GetTimeScale" alt="" coords="488,89,660,116"/>
+<area shape="rect" id="node6" href="$classAudioIO.html#a42b9c04861d014fce6b1f68097ca63fd" title="AudioIO::RelocateTransport" alt="" coords="708,89,905,116"/>
+</map>

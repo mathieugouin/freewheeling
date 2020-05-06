@@ -1,0 +1,13 @@
+<map id="EventManager::WakeupIfNeeded" name="EventManager::WakeupIfNeeded">
+<area shape="rect" id="node2" href="$classAudioIO.html#aa131b2f89b09eeb058f56676833bf2df" title="AudioIO::process" alt="" coords="335,56,466,83"/>
+<area shape="rect" id="node5" href="$classEventManager.html#ac7c4b4ceee333a360274d73d166b8c69" title="EventManager::BroadcastEvent" alt="" coords="288,132,513,159"/>
+<area shape="rect" id="node3" href="$classAudioIO.html#a1e4157d1900df901a60d5a2260d7509c" title="AudioIO::open" alt="" coords="624,5,737,32"/>
+<area shape="rect" id="node4" href="$classAudioIO.html#a012ce924f59ced78f2fac75e6e33b55c" title="AudioIO::AudioIO" alt="" coords="883,31,1015,57"/>
+<area shape="rect" id="node6" href="$classLoopTray.html#ad51e58a17792f36a249b1543a96a02a6" title="LoopTray::MouseButton" alt="" coords="595,107,767,133"/>
+<area shape="rect" id="node7" href="$classRootProcessor.html#acb13a2a0320ef6b5a57ede966e468842" title="RootProcessor::UpdateProcessors" alt="" coords="561,157,800,184"/>
+<area shape="rect" id="node9" href="$classRecordProcessor.html#a9984f573bbc265321ad0604f97b23820" title="RecordProcessor::EndNow" alt="" coords="585,220,776,247"/>
+<area shape="rect" id="node8" href="$classRootProcessor.html#a014d1405fbd7d67ee4edeb19713ded04" title="RootProcessor::process" alt="" coords="863,144,1035,171"/>
+<area shape="rect" id="node10" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="848,195,1051,221"/>
+<area shape="rect" id="node11" href="$classRecordProcessor.html#ab035edfb707f8f1066b3597df7ddda7d" title="RecordProcessor::End" alt="" coords="869,245,1030,272"/>
+<area shape="rect" id="node12" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="856,296,1043,323"/>
+</map>

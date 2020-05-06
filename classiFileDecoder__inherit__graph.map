@@ -1,0 +1,4 @@
+<map id="iFileDecoder" name="iFileDecoder">
+<area shape="rect" id="node2" href="$classSndFileDecoder.html" title="{SndFileDecoder\n|&#45; filetype\l&#45; samplesize\l&#45; sfinfo\l&#45; sfinfd\l&#45; obuf\l&#45; rbuf\l|+ SndFileDecoder()\l+ ~SndFileDecoder()\l+ ReadFromFile()\l+ ReadSamples()\l+ Stop()\l}" alt="" coords="5,233,164,443"/>
+<area shape="rect" id="node3" href="$classVorbisDecoder.html" title="{VorbisDecoder\n|&#45; vf\l&#45; current_section\l&#45; pcmout\l|+ VorbisDecoder()\l+ ~VorbisDecoder()\l+ ReadSamples()\l+ Stop()\l+ ReadFromFile()\l}" alt="" coords="189,255,341,421"/>
+</map>

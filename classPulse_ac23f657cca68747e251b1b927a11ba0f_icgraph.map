@@ -1,0 +1,9 @@
+<map id="Pulse::QuantizeLength" name="Pulse::QuantizeLength">
+<area shape="rect" id="node2" href="$classLoopManager.html#ada4d7a3e7f2d1a07b295aae79c1c5489" title="LoopManager::GetRoundedLength" alt="" coords="220,5,460,32"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#aa0d9e2fff052bf7776c1146f3f2a452e" title="LoopManager::GetPos" alt="" coords="259,56,421,83"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#a306ffe72c9623e33cad280ec3609c359" title="LoopManager::SetupSaveLoop" alt="" coords="231,107,449,133"/>
+<area shape="rect" id="node3" href="$classOSCClient.html#acbb974bf11667aa6fb48c111ae14a4fe" title="OSCClient::SendPlayingLoops" alt="" coords="508,5,721,32"/>
+<area shape="rect" id="node5" href="$classVideoIO.html#adca60a99be6e51d8af7ce2a32f92349a" title="VideoIO::DrawLoop" alt="" coords="541,56,688,83"/>
+<area shape="rect" id="node4" href="$classOSCClient.html#a8b38ea5b76702f9e763daeb694091116" title="OSCClient::ReceiveEvent" alt="" coords="769,5,952,32"/>
+<area shape="rect" id="node8" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="509,107,720,133"/>
+</map>

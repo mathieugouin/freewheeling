@@ -1,0 +1,7 @@
+<map id="PatchBrowser" name="PatchBrowser">
+<area shape="rect" id="node2" href="$classBrowser.html" title="{Browser\n|+ renamer\l# app\l# btype\l# callback\l# first\l# cur\l# xpand_x1\l# xpand_y1\l# xpand_x2\l# xpand_y2\l# xpand_centery\land 7 more...\l|+ Browser()\l+ ~Browser()\l+ Setup()\l+ MoveToBeginning()\l+ MoveTo()\l+ Select()\l+ Rename()\l+ MouseButton()\l+ MouseMotion()\l+ GetDisplayName()\land 15 more...\l+ GetTypeName()\l# ItemBrowsed()\l}" alt="" coords="259,321,421,736"/>
+<area shape="rect" id="node3" href="$classFloDisplay.html" title="{FloDisplay\n|+ iid\l+ id\l+ exp\l+ font\l+ title\l+ xpos\l+ ypos\l+ show\l+ forceshow\l+ next\l|+ FloDisplay()\l+ ~FloDisplay()\l+ Draw()\l+ GetFloDisplayType()\l+ SetShow()\l}" alt="" coords="5,5,173,273"/>
+<area shape="rect" id="node4" href="$classEventListener.html" title="{EventListener\n||+ ReceiveEvent()\l}" alt="" coords="198,101,333,178"/>
+<area shape="rect" id="node5" href="$classEventProducer.html" title="{EventProducer\n||}" alt="" coords="357,101,473,178"/>
+<area shape="rect" id="node6" href="$classRenameCallback.html" title="{RenameCallback\n||+ ItemRenamed()\l}" alt="" coords="497,101,636,178"/>
+</map>

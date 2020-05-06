@@ -1,0 +1,6 @@
+<map id="Fweelin::getABUFS" name="Fweelin::getABUFS">
+<area shape="rect" id="node2" href="$classAudioIO.html#aa131b2f89b09eeb058f56676833bf2df" title="AudioIO::process" alt="" coords="218,56,349,83"/>
+<area shape="rect" id="node3" href="$classAudioIO.html#a1e4157d1900df901a60d5a2260d7509c" title="AudioIO::open" alt="" coords="417,5,531,32"/>
+<area shape="rect" id="node5" href="$classPassthroughProcessor.html#a0fc1ce3afffa11bf7d0e8a36fdc55fcb" title="PassthroughProcessor\l::PassthroughProcessor" alt="" coords="197,107,369,149"/>
+<area shape="rect" id="node4" href="$classAudioIO.html#a012ce924f59ced78f2fac75e6e33b55c" title="AudioIO::AudioIO" alt="" coords="579,31,711,57"/>
+</map>

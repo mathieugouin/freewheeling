@@ -1,0 +1,11 @@
+<map id="AudioBlock::DeleteChain" name="AudioBlock::DeleteChain">
+<area shape="rect" id="node2" href="$classBlockReadManager.html#a0956beb932559fdea3ecca152db2bd0a" title="BlockReadManager::End" alt="" coords="242,122,421,149"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#a332a9868980750f28fbf0e05b2336174" title="LoopManager::DeleteLoop" alt="" coords="236,249,427,275"/>
+<area shape="rect" id="node3" href="$classBlockReadManager.html#a935aa663d9fa5b6d346f77c7b3882e2b" title="BlockReadManager::\l~BlockReadManager" alt="" coords="503,5,661,47"/>
+<area shape="rect" id="node4" href="$classBlockReadManager.html#af12804c61f944904eedf8c9edf5cd3bd" title="BlockReadManager::Start" alt="" coords="489,71,675,98"/>
+<area shape="rect" id="node5" href="$classBlockReadManager.html#aa990976dec4a3ec5bd6384b54ce5f09b" title="BlockReadManager::Manage" alt="" coords="737,97,943,123"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#aadca58536e41c8b0b8fd148ac40b23c0" title="LoopManager::~LoopManager" alt="" coords="475,173,689,199"/>
+<area shape="rect" id="node8" href="$classLoopManager.html#a6048a702c9cec3676a1c56792b16ec44" title="LoopManager::ReadComplete" alt="" coords="476,223,688,250"/>
+<area shape="rect" id="node9" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="485,274,679,301"/>
+<area shape="rect" id="node10" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="737,299,943,326"/>
+</map>

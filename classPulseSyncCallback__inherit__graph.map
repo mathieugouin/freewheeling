@@ -1,0 +1,4 @@
+<map id="PulseSyncCallback" name="PulseSyncCallback">
+<area shape="rect" id="node2" href="$classPlayProcessor.html" title="{PlayProcessor\n|+ sync_state\l+ sync\l+ sync_idx\l+ sync_add_pos\l+ sync_add\l+ stereo\l+ stopped\l+ i\l+ playloop\l+ playvol\l+ curbeat\l|+ PlayProcessor()\l+ ~PlayProcessor()\l+ SyncUp()\l+ process()\l+ PulseSync()\l+ GetPlayedLength()\l+ SetPlayVol()\l+ GetPlayVol()\l+ Halt()\l}" alt="" coords="5,160,164,501"/>
+<area shape="rect" id="node3" href="$classRecordProcessor.html" title="{RecordProcessor\n|+ sync_state\l+ stereo\l+ iset\l+ inputvol\l+ mbuf\l+ sync\l+ i\l+ tmpi\l+ recblk\l+ nbeats\land 21 more...\l+ REC_TAIL_LEN\l+ OVERDUB_DEFAULT_FEEDBACK\l|+ RecordProcessor()\l+ RecordProcessor()\l+ RecordProcessor()\l+ ~RecordProcessor()\l+ process()\l+ Halt()\l+ PulseSync()\l+ SyncUp()\l+ GetRecordedLength()\l+ GetFirstRecordedBlock()\land 13 more...\l}" alt="" coords="188,131,429,531"/>
+</map>

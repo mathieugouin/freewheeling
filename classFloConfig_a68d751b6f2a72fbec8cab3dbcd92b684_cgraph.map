@@ -1,0 +1,8 @@
+<map id="FloConfig::ConfigurePatchBanks" name="FloConfig::ConfigurePatchBanks">
+<area shape="rect" id="node2" href="$classPatchBrowser.html#a8ec0b54b234e94295f1b097bd8ec7c6b" title="PatchBrowser::PB_Add" alt="" coords="244,5,411,32"/>
+<area shape="rect" id="node3" href="$classPatchItem.html#a94720619947ee5f9dd7fe74eabf64226" title="PatchItem::SetupZones" alt="" coords="241,56,413,83"/>
+<area shape="rect" id="node4" href="$classBrowser.html#ade418b60a9e0e49826acb66811ac8af0" title="Browser::AddItem" alt="" coords="258,107,397,133"/>
+<area shape="rect" id="node6" href="$classPatchItem.html#a80e0a72bb7db8f68cd4f7bc32bb36361" title="PatchItem::GetZone" alt="" coords="252,157,403,184"/>
+<area shape="rect" id="node7" href="$classCombiZone.html#a453971e85a9919b56d55cf8997ee1bde" title="CombiZone::SetupZone" alt="" coords="240,208,415,235"/>
+<area shape="rect" id="node5" href="$classBrowserItem.html#ae46a902950af8f0613490012a75c8194" title="BrowserItem::Compare" alt="" coords="463,107,635,133"/>
+</map>

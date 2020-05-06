@@ -1,0 +1,8 @@
+<map id="TriggerMap::SetMap" name="TriggerMap::SetMap">
+<area shape="rect" id="node2" href="$classEvent.html#aa67af0ae99b897e4f0ce42068c4e4c00" title="Event::GetEventByType" alt="" coords="243,5,417,32"/>
+<area shape="rect" id="node3" href="$classFweelin.html#a21e51d7b639faaecc415624ab6c16a71" title="Fweelin::getEMG" alt="" coords="265,56,395,83"/>
+<area shape="rect" id="node4" href="$classEventManager.html#a4a73f2e7ff1724f28427f7c0d5725c8e" title="EventManager::BroadcastEventNow" alt="" coords="203,107,457,133"/>
+<area shape="rect" id="node5" href="$classEvent.html#ac4c4170579544b41dff38ca1b8110e30" title="Event::GetType" alt="" coords="549,56,669,83"/>
+<area shape="rect" id="node6" href="$classEventListener.html#a831820a9229e852bd7e2fad686b725b2" title="EventListener::ReceiveEvent" alt="" coords="505,107,712,133"/>
+<area shape="rect" id="node7" href="$classPreallocated.html#aaf2139a79ca16de70acd9bc4564171b7" title="Preallocated::RTDelete" alt="" coords="523,157,694,184"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RootProcessor::SetOutputVolume" name="RootProcessor::SetOutputVolume">
+<area shape="rect" id="node2" href="$classLoopManager.html#a82f420b74ebb790061772cb2ea23d83d" title="LoopManager::SetOutputVolume" alt="" coords="240,13,471,39"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="519,13,724,39"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Fweelin::setCURSCENE" name="Fweelin::setCURSCENE">
+<area shape="rect" id="node2" href="$classTriggerMap.html#a92e251eec5a7c5741807805b6869fab8" title="TriggerMap::GoSave" alt="" coords="251,5,402,32"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a05a6a438d14482e2f22aa802cfb432e8" title="LoopManager::LoadScene" alt="" coords="233,56,420,83"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="224,107,429,133"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="477,5,688,32"/>
+</map>

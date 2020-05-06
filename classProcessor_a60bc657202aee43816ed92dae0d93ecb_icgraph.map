@@ -1,0 +1,9 @@
+<map id="Processor::Halt" name="Processor::Halt">
+<area shape="rect" id="node2" href="$classRootProcessor.html#a479ddcf191d529562b634e65e7ea05b3" title="RootProcessor::DelChild" alt="" coords="173,108,351,134"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="646,133,841,160"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="897,82,1103,109"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a332a9868980750f28fbf0e05b2336174" title="LoopManager::DeleteLoop" alt="" coords="399,184,589,210"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#a861cdd2ace9aeb53b4ecf92728215265" title="LoopManager::Deactivate" alt="" coords="400,82,588,109"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a6048a702c9cec3676a1c56792b16ec44" title="LoopManager::ReadComplete" alt="" coords="637,184,849,210"/>
+<area shape="rect" id="node8" href="$classFweelin.html#a4654015e2bc7cc94f3bfc421899a60d3" title="Fweelin::TriggerSnapshot" alt="" coords="651,32,835,58"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="LoopManager::SetSubdivide" name="LoopManager::SetSubdivide">
+<area shape="rect" id="node2" href="$classSDLIO.html#a491e66a604fb750866d5de45dfa6aae0" title="SDLIO::handle_key" alt="" coords="256,56,400,83"/>
+<area shape="rect" id="node3" href="$classSDLIO.html#ad1b1bf6d23251b3014749b18497c1b91" title="SDLIO::run_sdl_thread" alt="" coords="448,56,613,83"/>
+<area shape="rect" id="node4" href="$classFweelin.html#a268997890fa59492e27b4787c6bdc41f" title="Fweelin::go" alt="" coords="675,31,771,57"/>
+<area shape="rect" id="node7" href="$classSDLIO.html#a219c64dd0f01ca0fe0319ba7a0a3379e" title="SDLIO::activate" alt="" coords="661,81,784,108"/>
+<area shape="rect" id="node5" href="$fweelin_8cc.html#a97b0fa62b7b0972875f5f589322c4c24" title="main" alt="" coords="865,5,920,32"/>
+<area shape="rect" id="node6" href="$classLoopTray.html#a307e6abe64c403e39fc463ec282bde27" title="LoopTray::Draw" alt="" coords="832,56,953,83"/>
+</map>

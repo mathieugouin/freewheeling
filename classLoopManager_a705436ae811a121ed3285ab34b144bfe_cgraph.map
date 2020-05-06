@@ -1,0 +1,30 @@
+<map id="LoopManager::CreatePulse" name="LoopManager::CreatePulse">
+<area shape="rect" id="node2" href="$classPulse.html#ae4c83e1199ea7a74791c9d0fe80a54f5" title="Pulse::GetLength" alt="" coords="286,19,418,45"/>
+<area shape="rect" id="node3" href="$classFweelin.html#a4422f3a93561eff272cd5f7ecb0782ee" title="Fweelin::getRP" alt="" coords="293,69,411,96"/>
+<area shape="rect" id="node4" href="$classRootProcessor.html#adc75260f6db8566d3e3eaaea2d5a6323" title="RootProcessor::AddChild" alt="" coords="262,120,442,147"/>
+<area shape="rect" id="node9" href="$classLoopManager.html#a5630b6fefdfc931ac0ab511c6b77cecf" title="LoopManager::StripePulseOn" alt="" coords="248,436,456,463"/>
+<area shape="rect" id="node21" href="$classLoopManager.html#a28c81cf1fb5fdf13a633e33d06975a0d" title="LoopManager::GetCurPulse" alt="" coords="253,487,451,513"/>
+<area shape="rect" id="node22" href="$classPulse.html#aec20778ec5fcc2a6cefed47add36272f" title="Pulse::SetMIDIClock" alt="" coords="277,196,427,223"/>
+<area shape="rect" id="node5" href="$classProcessor.html#a1ff3aad172b41d0c3c9a1bd06cd6a4ef" title="Processor::dopreprocess" alt="" coords="541,5,721,32"/>
+<area shape="rect" id="node7" href="$classEvent.html#aa67af0ae99b897e4f0ce42068c4e4c00" title="Event::GetEventByType" alt="" coords="544,107,719,133"/>
+<area shape="rect" id="node8" href="$classSRMWRingBuffer.html#a47699ccc0600c38559c8e10f0ca9bf3c" title="SRMWRingBuffer::WriteElement" alt="" coords="518,56,745,83"/>
+<area shape="rect" id="node6" href="$classProcessor.html#a2a6ea9cec150529a6b61898634540254" title="Processor::process" alt="" coords="845,5,987,32"/>
+<area shape="rect" id="node10" href="$classFweelin.html#a600688955c7470a1b7a2fa95ddcc4118" title="Fweelin::getBMG" alt="" coords="566,360,697,387"/>
+<area shape="rect" id="node11" href="$classBlockManager.html#a718110289099d5b729ce3b28d0ac09fb" title="BlockManager::StripeBlockOn" alt="" coords="524,411,739,437"/>
+<area shape="rect" id="node17" href="$classFweelin.html#a079cfb110e3dd58369b57009b4e74342" title="Fweelin::getAMPEAKS" alt="" coords="550,461,713,488"/>
+<area shape="rect" id="node18" href="$classFweelin.html#a2759e5c9c967464b0861c9f80821945f" title="Fweelin::getAMPEAKSI" alt="" coords="548,512,715,539"/>
+<area shape="rect" id="node19" href="$classFweelin.html#a6532e9aca57e2ec68ee5336113152bd5" title="Fweelin::getAUDIOMEM" alt="" coords="544,563,719,589"/>
+<area shape="rect" id="node20" href="$classFweelin.html#ad34a1444de8b2ddef487facd33e626f6" title="Fweelin::getAUDIOMEMI" alt="" coords="542,613,721,640"/>
+<area shape="rect" id="node12" href="$classBlockManager.html#a5566277a4ec6c8a5347470433843b998" title="BlockManager::DelHiManager" alt="" coords="809,360,1023,387"/>
+<area shape="rect" id="node14" href="$classFweelin.html#a6cb99744f75b371673c3e90031797972" title="Fweelin::getPRE_TIMEMARKER" alt="" coords="807,411,1025,437"/>
+<area shape="rect" id="node15" href="$classStripeBlockManager.html#a0bd66e4d0743493ad80c17203301a2db" title="StripeBlockManager\l::Setup" alt="" coords="840,462,992,503"/>
+<area shape="rect" id="node16" href="$classBlockManager.html#ac62e5c20f032e777abfe76aad9cecee1" title="BlockManager::AddHiManager" alt="" coords="807,528,1025,555"/>
+<area shape="rect" id="node13" href="$classHiPriManagedChain.html#a65066950fc82d852fd81af83cf558b4f" title="HiPriManagedChain::\lGetType" alt="" coords="1073,353,1231,394"/>
+<area shape="rect" id="node23" href="$classFweelin.html#aee46aec225c2ee5c88854dc9943e7d62" title="Fweelin::getMIDI" alt="" coords="566,157,697,184"/>
+<area shape="rect" id="node24" href="$classMidiIO.html#ab468c4eab816c7f75f28f9113c3072e4" title="MidiIO::GetMIDISyncTransmit" alt="" coords="526,208,737,235"/>
+<area shape="rect" id="node25" href="$classFweelin.html#a21e51d7b639faaecc415624ab6c16a71" title="Fweelin::getEMG" alt="" coords="566,259,697,285"/>
+<area shape="rect" id="node26" href="$classEventManager.html#a4a73f2e7ff1724f28427f7c0d5725c8e" title="EventManager::BroadcastEventNow" alt="" coords="504,309,759,336"/>
+<area shape="rect" id="node27" href="$classEvent.html#ac4c4170579544b41dff38ca1b8110e30" title="Event::GetType" alt="" coords="856,208,976,235"/>
+<area shape="rect" id="node28" href="$classEventListener.html#a831820a9229e852bd7e2fad686b725b2" title="EventListener::ReceiveEvent" alt="" coords="813,259,1019,285"/>
+<area shape="rect" id="node29" href="$classPreallocated.html#aaf2139a79ca16de70acd9bc4564171b7" title="Preallocated::RTDelete" alt="" coords="831,309,1001,336"/>
+</map>

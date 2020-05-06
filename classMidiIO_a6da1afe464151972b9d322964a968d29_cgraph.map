@@ -1,0 +1,7 @@
+<map id="MidiIO::SendBankProgramChange" name="MidiIO::SendBankProgramChange">
+<area shape="rect" id="node2" href="$classPatchItem.html#a193dba9833309437fed1241957cd20dd" title="PatchItem::IsCombi" alt="" coords="339,5,487,32"/>
+<area shape="rect" id="node3" href="$classPatchItem.html#a80e0a72bb7db8f68cd4f7bc32bb36361" title="PatchItem::GetZone" alt="" coords="338,56,489,83"/>
+<area shape="rect" id="node4" href="$classMidiIO.html#ad332f41abafbe8f2359779eaa99bec59" title="MidiIO::SendBankProgramChange\lToPortChannel" alt="" coords="293,107,533,149"/>
+<area shape="rect" id="node5" href="$classMidiIO.html#ade75d48e27670a86a2a109f99ea847b7" title="MidiIO::OutputController" alt="" coords="601,89,780,116"/>
+<area shape="rect" id="node6" href="$classMidiIO.html#a181e7eb8c9539f60b3ef934abcd3c5d5" title="MidiIO::OutputProgramChange" alt="" coords="581,140,800,167"/>
+</map>

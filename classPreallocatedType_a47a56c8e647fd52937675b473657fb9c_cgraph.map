@@ -1,0 +1,8 @@
+<map id="PreallocatedType::PreallocatedType" name="PreallocatedType::PreallocatedType">
+<area shape="rect" id="node2" href="$classPreallocated.html#ad31c546d3c1641b44135dccb4ef0cafd" title="Preallocated::SetupPreallocated" alt="" coords="305,5,535,32"/>
+<area shape="rect" id="node3" href="$classRTStore.html#a2be0d247570dc611a379ab0a80dd14da" title="RTStore::FindItemWithState" alt="" coords="320,56,520,83"/>
+<area shape="rect" id="node4" href="$classRTStore.html#af3c93f31bd68ce149a812b05d9e7cd86" title="RTStore::ChangeStateAtIdx" alt="" coords="321,107,519,133"/>
+<area shape="rect" id="node5" href="$classPreallocated.html#a6c7fad49a12301624b0dfbd9cef2f358" title="Preallocated::NewInstance" alt="" coords="323,157,517,184"/>
+<area shape="rect" id="node6" href="$classMemoryManager.html#a82e879292ba9d168464a09d47f7c0ff0" title="MemoryManager::AddType" alt="" coords="323,208,517,235"/>
+<area shape="rect" id="node7" href="$classSLinkList.html#a431df31658149fad3425c7c62b887a42" title="SLinkList::AddToHead" alt="" coords="583,208,744,235"/>
+</map>

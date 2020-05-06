@@ -1,0 +1,6 @@
+<map id="Browser::GetDisplayName" name="Browser::GetDisplayName">
+<area shape="rect" id="node2" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="278,5,405,32"/>
+<area shape="rect" id="node3" href="$classFloConfig.html#a9acc5e0790ab29fe30856d58c5ffa0e8" title="FloConfig::GetLibraryPath" alt="" coords="248,56,435,83"/>
+<area shape="rect" id="node4" href="$classSaveable.html#a4e8b7b5e6fe537a5c68c35927741a6e3" title="Saveable::SplitFilename" alt="" coords="252,107,431,133"/>
+<area shape="rect" id="node5" href="$classSaveable.html#afd744adf4ac3fbee68114daa3c513326" title="Saveable::GetHashFirst" alt="" coords="255,157,428,184"/>
+</map>

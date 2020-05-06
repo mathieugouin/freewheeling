@@ -1,0 +1,14 @@
+<map id="Saveable::SetSaveStatus" name="Saveable::SetSaveStatus">
+<area shape="rect" id="node2" href="$classLoopManager.html#a306ffe72c9623e33cad280ec3609c359" title="LoopManager::SetupSaveLoop" alt="" coords="251,5,468,32"/>
+<area shape="rect" id="node4" href="$classSaveable.html#ae80419c61613dd2ec659d23b3fe0e788" title="Saveable::SetSaveableHash\lFromText" alt="" coords="257,57,461,98"/>
+<area shape="rect" id="node6" href="$classLoop.html#ad4b7c1ec11bb3c98332d543f77d22523" title="Loop::Recycle" alt="" coords="304,123,415,149"/>
+<area shape="rect" id="node7" href="$classTriggerMap.html#ac8dd153318fc2546c999bd5184c827cf" title="TriggerMap::TouchMap" alt="" coords="277,173,442,200"/>
+<area shape="rect" id="node13" href="$classRecordProcessor.html#a1aea5f833c59a12398b05b514b26b572" title="RecordProcessor::RecordProcessor" alt="" coords="237,224,481,251"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="529,5,740,32"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a7954eacf6a4f8d0300c4100133a4b725" title="LoopManager::ItemRenamed" alt="" coords="531,64,739,91"/>
+<area shape="rect" id="node8" href="$classFweelin.html#a46ac4eb76aa2025f2bec97c23658abef" title="Fweelin::CreateSnapshot" alt="" coords="543,123,726,149"/>
+<area shape="rect" id="node9" href="$classFweelin.html#aae8cb8c1b763a13c1d906e45b5d0690b" title="Fweelin::SwapSnapshots" alt="" coords="543,173,726,200"/>
+<area shape="rect" id="node11" href="$classFweelin.html#a057cfd43583e073f0216dd275e4b26a7" title="Fweelin::LoadSnapshot" alt="" coords="549,224,720,251"/>
+<area shape="rect" id="node10" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="788,173,993,200"/>
+<area shape="rect" id="node12" href="$classLoopManager.html#a05a6a438d14482e2f22aa802cfb432e8" title="LoopManager::LoadScene" alt="" coords="797,224,984,251"/>
+</map>

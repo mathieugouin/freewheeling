@@ -1,0 +1,4 @@
+<map id="iFileEncoder" name="iFileEncoder">
+<area shape="rect" id="node2" href="$classSndFileEncoder.html" title="{SndFileEncoder\n|&#45; filetype\l&#45; samplesize\l&#45; sfinfo\l&#45; sndoutfd\l&#45; tbuf\l|+ SndFileEncoder()\l+ ~SndFileEncoder()\l+ SetupFileForWriting()\l+ WriteSamplesToDisk()\l+ PrepareFileForClosing()\l+ Preprocess()\l}" alt="" coords="5,285,192,494"/>
+<area shape="rect" id="node3" href="$classVorbisEncoder.html" title="{VorbisEncoder\n|&#45; os\l&#45; og\l&#45; op\l&#45; vi\l&#45; vc\l&#45; vd\l&#45; vb\l|+ VorbisEncoder()\l+ ~VorbisEncoder()\l+ SetupFileForWriting()\l+ WriteSamplesToDisk()\l+ PrepareFileForClosing()\l+ Preprocess()\l&#45; GetAnalysisBuffer()\l&#45; WroteToBuffer()\l&#45; Encode()\l}" alt="" coords="216,248,403,531"/>
+</map>

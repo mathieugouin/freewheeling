@@ -1,0 +1,13 @@
+<map id="PlayProcessor::process" name="PlayProcessor::process">
+<area shape="rect" id="node2" href="$classFweelin.html#a538440216608aed67e6940c2903c3072" title="Fweelin::getBUFSZ" alt="" coords="259,5,403,32"/>
+<area shape="rect" id="node3" href="$classPulse.html#a5eee2c71b153156f961ea9f71a55086e" title="Pulse::AddPulseSync" alt="" coords="253,56,409,83"/>
+<area shape="rect" id="node4" href="$classPulse.html#a3251783157dd6440cb94ca966d2de06e" title="Pulse::DelPulseSync" alt="" coords="254,107,407,133"/>
+<area shape="rect" id="node5" href="$classLoop.html#a74cea590fcf8c174888dd916e252389b" title="Loop::UpdateVolume" alt="" coords="252,157,409,184"/>
+<area shape="rect" id="node6" href="$classAudioBlockIterator.html#a86cfc4c09c380d6304ed3aa6ff2ea17b" title="AudioBlockIterator\l::GetFragment" alt="" coords="485,306,628,347"/>
+<area shape="rect" id="node9" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="267,259,394,285"/>
+<area shape="rect" id="node10" href="$classFloConfig.html#a4025d10075b94c5668acab38aedb0f1e" title="FloConfig::GetMaxPlayVol" alt="" coords="237,309,425,336"/>
+<area shape="rect" id="node11" href="$classProcessor.html#a5df6a0b8a5cf976315492246ab6c671e" title="Processor::fadepreandcurrent" alt="" coords="224,360,437,387"/>
+<area shape="rect" id="node12" href="$classAudioBlockIterator.html#ae0521dee0479a9203bed6515bfc89568" title="AudioBlockIterator\l::NextFragment" alt="" coords="259,411,402,453"/>
+<area shape="rect" id="node7" href="$classAudioBlock.html#ae7aec1591ed6f228799c11b650b2cc1b" title="AudioBlock::GetExtendedData" alt="" coords="676,313,895,340"/>
+<area shape="rect" id="node8" href="$classBlockExtendedData.html#ae33e9550384a32abf2a91386334a2be9" title="BlockExtendedData::\lGetType" alt="" coords="943,306,1101,347"/>
+</map>

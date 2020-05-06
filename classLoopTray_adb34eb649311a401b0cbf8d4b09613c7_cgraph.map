@@ -1,0 +1,8 @@
+<map id="LoopTray::Draw_Item" name="LoopTray::Draw_Item">
+<area shape="rect" id="node2" href="$classLoopManager.html#ab5444c4b3ee3ccbab1160e23d7363752" title="LoopManager::GetSlot" alt="" coords="231,31,397,57"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a038d8bb8230e77094aa6cfc2f9b3fc00" title="LoopManager::IsActive" alt="" coords="229,81,399,108"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#ab9c9e72e1a23b34c15a87dc13fb02672" title="LoopManager::GetTriggerVol" alt="" coords="212,132,416,159"/>
+<area shape="rect" id="node7" href="$classVideoIO.html#a8a7592b69863218540f5185683f8b3fc" title="VideoIO::draw_text" alt="" coords="241,183,387,209"/>
+<area shape="rect" id="node3" href="$classFweelin.html#a10bb364ecf38990653b49a98c5a89c90" title="Fweelin::getTMAP" alt="" coords="471,5,608,32"/>
+<area shape="rect" id="node4" href="$classTriggerMap.html#aca3f85b40f3aa29a280c2d7511b84217" title="TriggerMap::GetMap" alt="" coords="464,56,615,83"/>
+</map>

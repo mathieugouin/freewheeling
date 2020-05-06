@@ -1,0 +1,11 @@
+<map id="iec_dB_to_fader" name="iec_dB_to_fader">
+<area shape="rect" id="node2" href="$classAudioLevel.html#a6237f0fe89cafad73b27ffdd837c20d3" title="AudioLevel::fader_to_dB" alt="" coords="180,107,360,133"/>
+<area shape="rect" id="node8" href="$classAudioLevel.html#a1caa1395a52d7e61691c54f0286914dd" title="AudioLevel::dB_to_fader" alt="" coords="180,208,360,235"/>
+<area shape="rect" id="node3" href="$classInputMatrix.html#aa74204a205a10f2b60809ea124db9173" title="InputMatrix::ReceiveEvent" alt="" coords="427,5,619,32"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a82f420b74ebb790061772cb2ea23d83d" title="LoopManager::SetOutputVolume" alt="" coords="408,56,639,83"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#ad636c6280f2a5a6bfe45f94946dc3a9f" title="LoopManager::SetInputVolume" alt="" coords="413,107,633,133"/>
+<area shape="rect" id="node7" href="$classInputSettings.html#a6f6f097348037e0c518e8564847f6aff" title="InputSettings::SetInputVol" alt="" coords="428,157,619,184"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="687,107,892,133"/>
+<area shape="rect" id="node9" href="$classFloDisplayBar.html#aa49253add55fdb47e70ee4344dfc38e2" title="FloDisplayBar::Draw" alt="" coords="446,208,601,235"/>
+<area shape="rect" id="node10" href="$classFloDisplayBarSwitch.html#a272468a8334d56f0c493b5273774c88d" title="FloDisplayBarSwitch\l::Draw" alt="" coords="446,259,601,301"/>
+</map>

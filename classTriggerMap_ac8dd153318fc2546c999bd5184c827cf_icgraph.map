@@ -1,0 +1,7 @@
+<map id="TriggerMap::TouchMap" name="TriggerMap::TouchMap">
+<area shape="rect" id="node2" href="$classFweelin.html#a46ac4eb76aa2025f2bec97c23658abef" title="Fweelin::CreateSnapshot" alt="" coords="219,5,401,32"/>
+<area shape="rect" id="node3" href="$classFweelin.html#aae8cb8c1b763a13c1d906e45b5d0690b" title="Fweelin::SwapSnapshots" alt="" coords="219,56,401,83"/>
+<area shape="rect" id="node5" href="$classFweelin.html#a057cfd43583e073f0216dd275e4b26a7" title="Fweelin::LoadSnapshot" alt="" coords="225,107,395,133"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="449,56,655,83"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a05a6a438d14482e2f22aa802cfb432e8" title="LoopManager::LoadScene" alt="" coords="459,107,645,133"/>
+</map>

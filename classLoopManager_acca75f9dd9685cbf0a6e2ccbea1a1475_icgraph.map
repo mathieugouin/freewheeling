@@ -1,0 +1,7 @@
+<map id="LoopManager::GetLoopVolume" name="LoopManager::GetLoopVolume">
+<area shape="rect" id="node2" href="$classLoopManager.html#a7acf07456e2837b96814226e81fdac30" title="LoopManager::UpdateLoopLists\l_ItemAdded" alt="" coords="273,41,499,82"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="1015,56,1220,83"/>
+<area shape="rect" id="node6" href="$classVideoIO.html#adca60a99be6e51d8af7ce2a32f92349a" title="VideoIO::DrawLoop" alt="" coords="313,157,459,184"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a861cdd2ace9aeb53b4ecf92728215265" title="LoopManager::Deactivate" alt="" coords="547,48,735,75"/>
+<area shape="rect" id="node4" href="$classFweelin.html#a4654015e2bc7cc94f3bfc421899a60d3" title="Fweelin::TriggerSnapshot" alt="" coords="783,5,967,32"/>
+</map>

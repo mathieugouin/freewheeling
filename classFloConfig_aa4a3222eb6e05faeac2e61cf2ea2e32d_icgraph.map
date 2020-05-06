@@ -1,0 +1,4 @@
+<map id="FloConfig::GetMIDISyncOuts" name="FloConfig::GetMIDISyncOuts">
+<area shape="rect" id="node2" href="$classMidiIO.html#aae58e8a30b732a5eee97d76785a5909a" title="MidiIO::EchoEvent" alt="" coords="256,5,395,32"/>
+<area shape="rect" id="node3" href="$classMidiIO.html#a90cc0dad2841a9386a0c86efc1d9dce6" title="MidiIO::ReceiveEvent" alt="" coords="443,5,601,32"/>
+</map>

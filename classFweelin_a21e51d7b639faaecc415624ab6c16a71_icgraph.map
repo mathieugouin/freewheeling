@@ -1,0 +1,51 @@
+<map id="Fweelin::getEMG" name="Fweelin::getEMG">
+<area shape="rect" id="node2" href="$classFweelinMac.html#ae3b1a5e95aea6b8827a079d965bb0df6" title="FweelinMac::SetDebugMode" alt="" coords="201,5,405,32"/>
+<area shape="rect" id="node4" href="$classFweelinMac.html#a1454097dbdc67c119aa91662e66cb4b2" title="FweelinMac::Quit" alt="" coords="237,56,370,83"/>
+<area shape="rect" id="node6" href="$classFweelinMac.html#ab485e9439ebef90a89b724c4219f9474" title="FweelinMac::ShowHelp" alt="" coords="218,107,389,133"/>
+<area shape="rect" id="node8" href="$classAudioIO.html#aa131b2f89b09eeb058f56676833bf2df" title="AudioIO::process" alt="" coords="238,157,369,184"/>
+<area shape="rect" id="node11" href="$classBrowser.html#a53b7061ec24c8189cfd72a6bed8ef6b7" title="Browser::~Browser" alt="" coords="230,208,377,235"/>
+<area shape="rect" id="node12" href="$classBrowser.html#a8e239fa3c820e6217144facca1c5f7f6" title="Browser::Setup" alt="" coords="243,309,363,336"/>
+<area shape="rect" id="node13" href="$classLoopTray.html#aa6e5078f941f8d743b5a113856bff562" title="LoopTray::Setup" alt="" coords="518,284,642,311"/>
+<area shape="rect" id="node14" href="$classPatchBrowser.html#a320e40941d8bb13c599f793b1deea805" title="PatchBrowser::Setup" alt="" coords="503,348,657,375"/>
+<area shape="rect" id="node16" href="$classBrowser.html#a71b602afb445cf9d41ef51ddc2696485" title="Browser::MoveTo" alt="" coords="237,461,369,488"/>
+<area shape="rect" id="node17" href="$classLoopTray.html#a972a3fcb0906760d4dea5b852ee34eb2" title="LoopTray::~LoopTray" alt="" coords="225,512,381,539"/>
+<area shape="rect" id="node18" href="$classLoopTray.html#ad51e58a17792f36a249b1543a96a02a6" title="LoopTray::MouseButton" alt="" coords="217,563,389,589"/>
+<area shape="rect" id="node19" href="$classPatchBrowser.html#acaa6ebdc72e5d29e692422347ccf28aa" title="PatchBrowser::~PatchBrowser" alt="" coords="195,613,412,640"/>
+<area shape="rect" id="node20" href="$classInputMatrix.html#a92fb22b30d84329f548bc51931c3c99e" title="InputMatrix::Start" alt="" coords="236,664,371,691"/>
+<area shape="rect" id="node21" href="$classInputMatrix.html#a941629c2da3685c5379825be93413ed9" title="InputMatrix::~InputMatrix" alt="" coords="209,715,398,741"/>
+<area shape="rect" id="node22" href="$classInputMatrix.html#aa74204a205a10f2b60809ea124db9173" title="InputMatrix::ReceiveEvent" alt="" coords="207,765,399,792"/>
+<area shape="rect" id="node23" href="$classFloConfig.html#a87625b8761486bb3bc5d40ee2b70d7e4" title="FloConfig::StartInterfaces" alt="" coords="210,816,397,843"/>
+<area shape="rect" id="node24" href="$classLoopManager.html#a70967ac90529ee371dc5350cbced90a5" title="LoopManager::LoopManager" alt="" coords="201,411,405,437"/>
+<area shape="rect" id="node25" href="$classLoopManager.html#aadca58536e41c8b0b8fd148ac40b23c0" title="LoopManager::~LoopManager" alt="" coords="196,867,411,893"/>
+<area shape="rect" id="node26" href="$classTriggerMap.html#af9da9145253cd2713f7c1c60701666fa" title="TriggerMap::SetMap" alt="" coords="229,917,378,944"/>
+<area shape="rect" id="node31" href="$classPulse.html#aec20778ec5fcc2a6cefed47add36272f" title="Pulse::SetMIDIClock" alt="" coords="228,968,379,995"/>
+<area shape="rect" id="node33" href="$classPulse.html#adf28cef50c1f7543db7171b67126c38f" title="Pulse::process" alt="" coords="246,1019,361,1045"/>
+<area shape="rect" id="node34" href="$classRootProcessor.html#aec5fac86449797c873b0c6a1c364309c" title="RootProcessor::RootProcessor" alt="" coords="196,1069,411,1096"/>
+<area shape="rect" id="node35" href="$classRootProcessor.html#afbc20497636d11e4ac4e1c34e91fa000" title="RootProcessor::~RootProcessor" alt="" coords="191,1120,416,1147"/>
+<area shape="rect" id="node36" href="$classRootProcessor.html#acb13a2a0320ef6b5a57ede966e468842" title="RootProcessor::UpdateProcessors" alt="" coords="184,1171,423,1197"/>
+<area shape="rect" id="node37" href="$classRecordProcessor.html#a9984f573bbc265321ad0604f97b23820" title="RecordProcessor::EndNow" alt="" coords="208,1221,399,1248"/>
+<area shape="rect" id="node38" href="$classFileStreamer.html#a89b7803d85f99c20fb0e3722c12b4323" title="FileStreamer::run_encode\l_thread" alt="" coords="210,1273,397,1314"/>
+<area shape="rect" id="node39" href="$classMidiIO.html#a510f4d3b7afdc23558eaf7d99945624a" title="MidiIO::listen_events" alt="" coords="224,1339,383,1365"/>
+<area shape="rect" id="node40" href="$classMidiIO.html#a2fc0035cc0c0e522da0768eca0bdfc61" title="MidiIO::unlisten_events" alt="" coords="216,1389,391,1416"/>
+<area shape="rect" id="node41" href="$classMidiIO.html#a5fcccad3304e6bb1ad7b85048c63752f" title="MidiIO::ReceiveNoteOffEvent" alt="" coords="199,1440,408,1467"/>
+<area shape="rect" id="node42" href="$classMidiIO.html#ad5430028f18c43ed962f2438e2994263" title="MidiIO::ReceiveNoteOnEvent" alt="" coords="199,1491,407,1517"/>
+<area shape="rect" id="node43" href="$classMidiIO.html#a001f1cae37f9d400fd18f2eb6b8863f9" title="MidiIO::ReceivePitchBend\lEvent" alt="" coords="210,1542,397,1583"/>
+<area shape="rect" id="node44" href="$classMidiIO.html#a3c920e2fb0aa4e148743ade4e2663121" title="MidiIO::ReceiveChannelPressure\lEvent" alt="" coords="188,1607,419,1649"/>
+<area shape="rect" id="node45" href="$classMidiIO.html#a1890f712cf869eba7a225a068ab90c21" title="MidiIO::ReceiveProgramChange\lEvent" alt="" coords="190,1673,417,1714"/>
+<area shape="rect" id="node46" href="$classMidiIO.html#a6fcfe9477a84a6ccc6a449765aff6f63" title="MidiIO::ReceiveControlChange\lEvent" alt="" coords="194,1738,413,1779"/>
+<area shape="rect" id="node47" href="$classMidiIO.html#a1753eb05e14eb572a5f52b9616480d55" title="MidiIO::SetMIDIForPatch" alt="" coords="215,1804,391,1831"/>
+<area shape="rect" id="node48" href="$classOSCClient.html#a806e1356ff13e16073d59b0b93fb941d" title="OSCClient::OSCClient" alt="" coords="223,1855,383,1881"/>
+<area shape="rect" id="node49" href="$classOSCClient.html#a362085391b8f3b76e014a314b1aaa02e" title="OSCClient::~OSCClient" alt="" coords="218,1905,389,1932"/>
+<area shape="rect" id="node50" href="$classSDLIO.html#ad1b1bf6d23251b3014749b18497c1b91" title="SDLIO::run_sdl_thread" alt="" coords="221,1956,386,1983"/>
+<area shape="rect" id="node3" href="$interfaceSDLMain.html#a77e54985a7877b9a5acfa0d2c427b921" title="&#45;[SDLMain toggleDebugMode:]" alt="" coords="471,5,689,32"/>
+<area shape="rect" id="node5" href="$interfaceSDLMain.html#a3a93b24c8af36c43942a8e9e43fd711d" title="&#45;[SDLMain quitFW:]" alt="" coords="507,56,653,83"/>
+<area shape="rect" id="node7" href="$interfaceSDLMain.html#a4f87fa7a68047939f25b47c0c2b8bfdc" title="&#45;[SDLMain showHelp:]" alt="" coords="497,107,663,133"/>
+<area shape="rect" id="node9" href="$classAudioIO.html#a1e4157d1900df901a60d5a2260d7509c" title="AudioIO::open" alt="" coords="523,208,637,235"/>
+<area shape="rect" id="node10" href="$classAudioIO.html#a012ce924f59ced78f2fac75e6e33b55c" title="AudioIO::AudioIO" alt="" coords="777,183,909,209"/>
+<area shape="rect" id="node15" href="$classFweelin.html#a1e47b97764f07dfd37458e91c0c54adf" title="Fweelin::setup" alt="" coords="522,405,638,432"/>
+<area shape="rect" id="node27" href="$classLoopManager.html#a6048a702c9cec3676a1c56792b16ec44" title="LoopManager::ReadComplete" alt="" coords="737,892,949,919"/>
+<area shape="rect" id="node28" href="$classLoopManager.html#af67b2c3a3417115739cccbe6360828fe" title="LoopManager::MoveLoop" alt="" coords="489,867,671,893"/>
+<area shape="rect" id="node29" href="$classLoopManager.html#a332a9868980750f28fbf0e05b2336174" title="LoopManager::DeleteLoop" alt="" coords="485,968,675,995"/>
+<area shape="rect" id="node30" href="$classLoopManager.html#a861cdd2ace9aeb53b4ecf92728215265" title="LoopManager::Deactivate" alt="" coords="486,917,674,944"/>
+<area shape="rect" id="node32" href="$classLoopManager.html#ab79aef15f1e783de1ab6827378bea274" title="LoopManager::SelectPulse" alt="" coords="484,1019,676,1045"/>
+</map>

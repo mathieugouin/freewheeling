@@ -1,0 +1,9 @@
+<map id="FloDisplaySnapshots::Rename" name="FloDisplaySnapshots::Rename">
+<area shape="rect" id="node2" href="$classFweelin.html#ab8bb05f929945b7e66914fb9150b4e58" title="Fweelin::getSNAP" alt="" coords="246,56,382,83"/>
+<area shape="rect" id="node3" href="$classItemRenamer.html#a142fa081aa16f3ce9bddfcb44619a90f" title="ItemRenamer::ItemRenamer" alt="" coords="211,107,417,133"/>
+<area shape="rect" id="node4" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="495,5,622,32"/>
+<area shape="rect" id="node5" href="$classFloConfig.html#aac54136f9c70ae1996a104ac86b691dd" title="FloConfig::AddEventHook" alt="" coords="465,56,652,83"/>
+<area shape="rect" id="node6" href="$classFweelin.html#aa35dbda0867fa05ac034bbe6109fe7b3" title="Fweelin::getSDLIO" alt="" coords="489,107,629,133"/>
+<area shape="rect" id="node7" href="$classSDLIO.html#abf96a6353a25f3ea3ae662f6d84f4353" title="SDLIO::EnableUNICODE" alt="" coords="471,157,646,184"/>
+<area shape="rect" id="node8" href="$classSDLIO.html#ab44a16efa49008f84b68bf849aaea01d" title="SDLIO::EnableKeyRepeat" alt="" coords="467,208,650,235"/>
+</map>

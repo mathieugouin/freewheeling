@@ -1,0 +1,6 @@
+<map id="LoopManager::SetAutoLoopSaving" name="LoopManager::SetAutoLoopSaving">
+<area shape="rect" id="node2" href="$classTriggerMap.html#aaa7bec4f62540981d1e5703fe8ed575e" title="TriggerMap::Save" alt="" coords="252,56,385,83"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="957,56,1163,83"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#ac2adaa8b989e1284abf17fc07eb0baf2" title="LoopManager::SaveNewScene" alt="" coords="433,56,651,83"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#abd2cda6ecc976fd447167d5de7cc5912" title="LoopManager::SaveCurScene" alt="" coords="699,5,909,32"/>
+</map>

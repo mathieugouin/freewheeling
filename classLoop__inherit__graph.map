@@ -1,0 +1,4 @@
+<map id="Loop" name="Loop">
+<area shape="rect" id="node2" href="$classPreallocated.html" title="{Preallocated\n|+ prealloc_num_free\l+ prealloc_next\l+ PREALLOC_BASE_INSTANCE\l+ PREALLOC_IN_USE\l+ PREALLOC_FREE\l&#45; FWMEM_DEFINE_DELBLOCK\l&#45; prealloc_status\l&#45; prealloc_mgr\l&#45; predata\l|+ Preallocated()\l+ ~Preallocated()\l+ operator new()\l+ operator delete()\l+ RTNew()\l+ RTNewWithWait()\l+ RTDelete()\l+ GetMgr()\l+ SetupPreallocated()\l&#45; NewInstance()\l&#45; Recycle()\l}" alt="" coords="5,5,223,347"/>
+<area shape="rect" id="node3" href="$classSaveable.html" title="{Saveable\n|# savestatus\l# savehash\l|+ Saveable()\l+ Save()\l+ GetSaveHash()\l+ CompareHash()\l+ GetSaveStatus()\l+ SetSaveStatus()\l+ ClearSaveHash()\l+ SetSaveableHashFromText()\l+ RenameSaveable()\l+ SplitFilename()\l+ RenameSaveable()\l+ GetHashFirst()\l}" alt="" coords="247,49,467,303"/>
+</map>

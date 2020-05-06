@@ -1,0 +1,10 @@
+<map id="EventManager::EventManager" name="EventManager::EventManager">
+<area shape="rect" id="node2" href="$classEventManager.html#ab363d5886ccb130eaab896bf0f7faebb" title="EventManager::run_dispatch\l_thread" alt="" coords="278,74,485,115"/>
+<area shape="rect" id="node9" href="$classRT__RWThreads.html#af83b41e330638728272af35ff18dfa01" title="RT_RWThreads::RegisterReader\lOrWriter" alt="" coords="269,139,493,181"/>
+<area shape="rect" id="node3" href="$classSRMWRingBuffer.html#ae907e34d6dc9fff4f1e3955dd3aa53b7" title="SRMWRingBuffer::ReadElement" alt="" coords="556,5,781,32"/>
+<area shape="rect" id="node4" href="$classPreallocated.html#ac10843af6524399980eef0a2b5c2e91f" title="Preallocated::GetMgr" alt="" coords="589,56,748,83"/>
+<area shape="rect" id="node5" href="$classEventManager.html#a4a73f2e7ff1724f28427f7c0d5725c8e" title="EventManager::BroadcastEventNow" alt="" coords="541,107,796,133"/>
+<area shape="rect" id="node8" href="$classPreallocated.html#aaf2139a79ca16de70acd9bc4564171b7" title="Preallocated::RTDelete" alt="" coords="862,157,1033,184"/>
+<area shape="rect" id="node6" href="$classEvent.html#ac4c4170579544b41dff38ca1b8110e30" title="Event::GetType" alt="" coords="887,56,1007,83"/>
+<area shape="rect" id="node7" href="$classEventListener.html#a831820a9229e852bd7e2fad686b725b2" title="EventListener::ReceiveEvent" alt="" coords="844,107,1051,133"/>
+</map>

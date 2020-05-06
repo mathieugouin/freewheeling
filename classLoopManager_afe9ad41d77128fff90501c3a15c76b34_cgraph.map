@@ -1,0 +1,5 @@
+<map id="LoopManager::AddLoopToSaveQueue" name="LoopManager::AddLoopToSaveQueue">
+<area shape="rect" id="node2" href="$classSaveable.html#adc2366ae4f62d203d464879f189e499d" title="Saveable::GetSaveStatus" alt="" coords="280,5,467,32"/>
+<area shape="rect" id="node3" href="$classEvent.html#aa67af0ae99b897e4f0ce42068c4e4c00" title="Event::GetEventByType" alt="" coords="286,56,461,83"/>
+<area shape="rect" id="node4" href="$classEventManager.html#a215075d1cc20ee7e2d55e9bb54ca516f" title="EventManager::QueueEvent" alt="" coords="272,107,475,133"/>
+</map>

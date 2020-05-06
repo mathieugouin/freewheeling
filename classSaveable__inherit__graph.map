@@ -1,0 +1,4 @@
+<map id="Saveable" name="Saveable">
+<area shape="rect" id="node2" href="$classLoop.html" title="{Loop\n|+ FWMEM_DEFINE_DELBLOCK\l+ name\l+ format\l+ blocks\l+ pulse\l+ quant\l+ vol\l+ dvol\l+ nbeats\l+ selcnt\l+ MIN_VOL\l+ loop_pretype\l|+ Loop()\l+ InitLoop()\l+ Save()\l+ UpdateVolume()\l+ ChangeSelectedCount()\l+ NewInstance()\l+ Recycle()\l+ SetupLoopPreallocation()\l+ TakedownLoopPreallocation()\l+ GetNewLoop()\l}" alt="" coords="5,307,233,677"/>
+<area shape="rect" id="node3" href="$classTriggerMap.html" title="{TriggerMap\n|&#45; app\l&#45; mapsize\l&#45; map\l&#45; lastupdate\l|+ TriggerMap()\l+ ~TriggerMap()\l+ Save()\l+ GoSave()\l+ SetMap()\l+ GetMap()\l+ SearchMap()\l+ GetFirstFree()\l+ ScanForHash()\l+ GetMapSize()\l+ GetLastUpdate()\l+ TouchMap()\l+ CountLoops()\l}" alt="" coords="258,343,402,641"/>
+</map>

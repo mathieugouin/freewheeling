@@ -1,0 +1,5 @@
+<map id="BlockExtendedData" name="BlockExtendedData">
+<area shape="rect" id="node2" href="$classBED__ExtraChannel.html" title="{BED_ExtraChannel\n|+ buf\l+ origbuf\l|+ BED_ExtraChannel()\l+ ~BED_ExtraChannel()\l+ NewInstance()\l+ GetType()\l}" alt="" coords="5,175,184,311"/>
+<area shape="rect" id="node3" href="$classBED__MarkerPoints.html" title="{BED_MarkerPoints\n|+ markers\l|+ BED_MarkerPoints()\l+ ~BED_MarkerPoints()\l+ GetType()\l+ CountMarkers()\l+ GetMarkerNBeforeCur()\l}" alt="" coords="209,175,399,311"/>
+<area shape="rect" id="node4" href="$classBED__PeaksAvgs.html" title="{BED_PeaksAvgs\n|+ peaks\l+ avgs\l+ chunksize\l|+ BED_PeaksAvgs()\l+ ~BED_PeaksAvgs()\l+ GetType()\l}" alt="" coords="424,175,587,311"/>
+</map>

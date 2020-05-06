@@ -1,0 +1,6 @@
+<map id="RootProcessor::AddChild" name="RootProcessor::AddChild">
+<area shape="rect" id="node2" href="$classProcessor.html#a1ff3aad172b41d0c3c9a1bd06cd6a4ef" title="Processor::dopreprocess" alt="" coords="257,5,437,32"/>
+<area shape="rect" id="node4" href="$classEvent.html#aa67af0ae99b897e4f0ce42068c4e4c00" title="Event::GetEventByType" alt="" coords="259,56,434,83"/>
+<area shape="rect" id="node5" href="$classSRMWRingBuffer.html#a47699ccc0600c38559c8e10f0ca9bf3c" title="SRMWRingBuffer::WriteElement" alt="" coords="233,107,460,133"/>
+<area shape="rect" id="node3" href="$classProcessor.html#a2a6ea9cec150529a6b61898634540254" title="Processor::process" alt="" coords="508,5,651,32"/>
+</map>

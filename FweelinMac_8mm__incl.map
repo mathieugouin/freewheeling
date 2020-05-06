@@ -1,0 +1,20 @@
+<map id="MacOSX/FweelinMac.mm" name="MacOSX/FweelinMac.mm">
+<area shape="rect" id="node3" href="$FweelinMac_8h.html" title="FweelinMac.h" alt="" coords="217,80,328,107"/>
+<area shape="rect" id="node4" href="$SDLMain_8h.html" title="SDLMain.h" alt="" coords="102,80,193,107"/>
+<area shape="rect" id="node5" href="$fweelin__core_8h.html" title="fweelin_core.h" alt="" coords="1539,80,1657,107"/>
+<area shape="rect" id="node7" href="$fweelin__amixer_8h.html" title="fweelin_amixer.h" alt="" coords="2107,155,2241,181"/>
+<area shape="rect" id="node13" href="$fweelin__midiio_8h.html" title="fweelin_midiio.h" alt="" coords="1822,155,1953,181"/>
+<area shape="rect" id="node14" href="$fweelin__event_8h.html" title="fweelin_event.h" alt="" coords="1525,379,1652,405"/>
+<area shape="rect" id="node21" href="$fweelin__block_8h.html" title="fweelin_block.h" alt="" coords="1251,453,1375,480"/>
+<area shape="rect" id="node26" href="$fweelin__audioio_8h.html" title="fweelin_audioio.h" alt="" coords="485,528,623,555"/>
+<area shape="rect" id="node29" href="$fweelin__videoio_8h.html" title="fweelin_videoio.h" alt="" coords="379,304,516,331"/>
+<area shape="rect" id="node32" href="$fweelin__sdlio_8h.html" title="fweelin_sdlio.h" alt="" coords="1873,304,1993,331"/>
+<area shape="rect" id="node33" href="$fweelin__rcu_8h.html" title="fweelin_rcu.h" alt="" coords="1949,453,2058,480"/>
+<area shape="rect" id="node35" href="$fweelin__core__dsp_8h.html" title="fweelin_core_dsp.h" alt="" coords="1414,155,1561,181"/>
+<area shape="rect" id="node38" href="$fweelin__config_8h.html" title="fweelin_config.h" alt="" coords="923,229,1051,256"/>
+<area shape="rect" id="node42" href="$fweelin__fluidsynth_8h.html" title="fweelin_fluidsynth.h" alt="" coords="1401,304,1555,331"/>
+<area shape="rect" id="node43" href="$fweelin__browser_8h.html" title="fweelin_browser.h" alt="" coords="1249,155,1389,181"/>
+<area shape="rect" id="node44" href="$fweelin__osc_8h.html" title="fweelin_osc.h" alt="" coords="1636,155,1747,181"/>
+<area shape="rect" id="node19" href="$fweelin__datatypes_8h.html" title="fweelin_datatypes.h" alt="" coords="1690,603,1845,629"/>
+<area shape="rect" id="node28" href="$fweelin__mem_8h.html" title="fweelin_mem.h" alt="" coords="1805,528,1927,555"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="AudioLevel::dB_to_fader" name="AudioLevel::dB_to_fader">
+<area shape="rect" id="node2" href="$classFloDisplayBar.html#aa49253add55fdb47e70ee4344dfc38e2" title="FloDisplayBar::Draw" alt="" coords="233,5,388,32"/>
+<area shape="rect" id="node3" href="$classFloDisplayBarSwitch.html#a272468a8334d56f0c493b5273774c88d" title="FloDisplayBarSwitch\l::Draw" alt="" coords="233,57,388,98"/>
+</map>

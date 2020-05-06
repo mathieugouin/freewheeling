@@ -1,0 +1,5 @@
+<map id="AudioBuffers::IsStereoMaster" name="AudioBuffers::IsStereoMaster">
+<area shape="rect" id="node2" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="294,5,421,32"/>
+<area shape="rect" id="node3" href="$classFloConfig.html#ac0e1101c8fc196548c0e1dc26251ea2b" title="FloConfig::IsStereoMaster" alt="" coords="264,56,451,83"/>
+<area shape="rect" id="node4" href="$classAudioBuffers.html#a3178afd68c48f41060d100606623a704" title="AudioBuffers::GetIntAudioIns" alt="" coords="499,56,708,83"/>
+</map>

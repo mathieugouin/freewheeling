@@ -1,0 +1,10 @@
+<map id="BlockManager::RefDeleted" name="BlockManager::RefDeleted">
+<area shape="rect" id="node2" href="$classLoopManager.html#aadca58536e41c8b0b8fd148ac40b23c0" title="LoopManager::~LoopManager" alt="" coords="252,5,467,32"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a332a9868980750f28fbf0e05b2336174" title="LoopManager::DeleteLoop" alt="" coords="264,56,455,83"/>
+<area shape="rect" id="node7" href="$classPulse.html#a0081f88108dfc1585a23eae533be0190" title="Pulse::~Pulse" alt="" coords="304,107,415,133"/>
+<area shape="rect" id="node8" href="$classRecordProcessor.html#a63fbf98c72bafa6c2e24a3962bdae70c" title="RecordProcessor::~Record\lProcessor" alt="" coords="263,158,455,199"/>
+<area shape="rect" id="node9" href="$classPlayProcessor.html#a3df8da4a26e768d00b0cfada90b37cc9" title="PlayProcessor::~PlayProcessor" alt="" coords="248,224,471,251"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a6048a702c9cec3676a1c56792b16ec44" title="LoopManager::ReadComplete" alt="" coords="519,5,731,32"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="527,56,722,83"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="779,81,984,108"/>
+</map>

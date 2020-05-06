@@ -1,0 +1,28 @@
+<map id="RecordProcessor::End" name="RecordProcessor::End">
+<area shape="rect" id="node2" href="$classPulse.html#a0cb99bfae020d317e791a161b43be165" title="Pulse::GetPct" alt="" coords="256,123,364,149"/>
+<area shape="rect" id="node3" href="$classPulse.html#a677b6d7a3863a655360ee7c613aefde7" title="Pulse::GetPos" alt="" coords="255,173,365,200"/>
+<area shape="rect" id="node4" href="$classPulse.html#a5eee2c71b153156f961ea9f71a55086e" title="Pulse::AddPulseSync" alt="" coords="232,224,388,251"/>
+<area shape="rect" id="node5" href="$classRecordProcessor.html#a9984f573bbc265321ad0604f97b23820" title="RecordProcessor::EndNow" alt="" coords="215,275,405,301"/>
+<area shape="rect" id="node6" href="$classEvent.html#aa67af0ae99b897e4f0ce42068c4e4c00" title="Event::GetEventByType" alt="" coords="484,5,659,32"/>
+<area shape="rect" id="node7" href="$classAudioBlockIterator.html#afdaa1beeae81dbfb277fae51bee42ca0" title="AudioBlockIterator\l::GetTotalLength2Cur" alt="" coords="492,57,651,98"/>
+<area shape="rect" id="node8" href="$classRecordProcessor.html#a5bce44b8a038567efcf660cfeeae93f4" title="RecordProcessor::AbortRecording" alt="" coords="453,224,689,251"/>
+<area shape="rect" id="node10" href="$classPeaksAvgsManager.html#a7d5c60dc637af4095167410c4ae924f4" title="PeaksAvgsManager::End" alt="" coords="765,107,945,133"/>
+<area shape="rect" id="node11" href="$classFweelin.html#a600688955c7470a1b7a2fa95ddcc4118" title="Fweelin::getBMG" alt="" coords="789,157,920,184"/>
+<area shape="rect" id="node12" href="$classBlockManager.html#a7380825963fc62c90186a0b3c72e8d89" title="BlockManager::PeakAvgOff" alt="" coords="756,275,953,301"/>
+<area shape="rect" id="node14" href="$classBlockManager.html#add099506b29910e9dabdab9f6a1af92f" title="BlockManager::GrowChainOff" alt="" coords="749,325,961,352"/>
+<area shape="rect" id="node15" href="$classAudioBlockIterator.html#a33e1c3a6381e3c0ba5dd129885509eb3" title="AudioBlockIterator\l::EndChain" alt="" coords="500,377,643,418"/>
+<area shape="rect" id="node18" href="$classAudioBlock.html#a09c778d19d7d45dbb68951fabff2f518" title="AudioBlock::Smooth" alt="" coords="495,460,648,487"/>
+<area shape="rect" id="node24" href="$classFweelin.html#a21e51d7b639faaecc415624ab6c16a71" title="Fweelin::getEMG" alt="" coords="506,511,637,537"/>
+<area shape="rect" id="node25" href="$classEventManager.html#ac7c4b4ceee333a360274d73d166b8c69" title="EventManager::BroadcastEvent" alt="" coords="459,629,684,656"/>
+<area shape="rect" id="node9" href="$classAudioBlockIterator.html#a48be225cf6283fb66268a832abd89b30" title="AudioBlockIterator\l::Stop" alt="" coords="783,209,926,250"/>
+<area shape="rect" id="node13" href="$classBlockManager.html#ae59dae7f7f6572b004dcdacc740204ac" title="BlockManager::DelManager" alt="" coords="1023,324,1223,351"/>
+<area shape="rect" id="node16" href="$classAudioBlock.html#a1577ddd5048ce06dbddfae7702b35c81" title="AudioBlock::ChopChain" alt="" coords="768,376,941,403"/>
+<area shape="rect" id="node17" href="$classPreallocated.html#aaf2139a79ca16de70acd9bc4564171b7" title="Preallocated::RTDelete" alt="" coords="1037,379,1208,405"/>
+<area shape="rect" id="node19" href="$classAudioBlock.html#a380880c91c3af2322d232ce2de83b881" title="AudioBlock::GetTotalLen" alt="" coords="1033,436,1213,463"/>
+<area shape="rect" id="node20" href="$classAudioBlock.html#a4f53140535b4c56db4c5360f3fb9eb7d" title="AudioBlock::SetPtrsFromAbs\lOffset" alt="" coords="1020,501,1225,542"/>
+<area shape="rect" id="node21" href="$classAudioBlock.html#ae7aec1591ed6f228799c11b650b2cc1b" title="AudioBlock::GetExtendedData" alt="" coords="745,579,964,605"/>
+<area shape="rect" id="node23" href="$classAudioBlock.html#aa9e0bc3fa297c7c97aedda16f240108f" title="AudioBlock::HackTotalLengthBy" alt="" coords="741,427,969,453"/>
+<area shape="rect" id="node22" href="$classBlockExtendedData.html#ae33e9550384a32abf2a91386334a2be9" title="BlockExtendedData::\lGetType" alt="" coords="1043,571,1202,613"/>
+<area shape="rect" id="node26" href="$classSRMWRingBuffer.html#a47699ccc0600c38559c8e10f0ca9bf3c" title="SRMWRingBuffer::WriteElement" alt="" coords="741,629,968,656"/>
+<area shape="rect" id="node27" href="$classEventManager.html#a529567a1f3b56ecbc97aceec5ee0b46e" title="EventManager::WakeupIfNeeded" alt="" coords="737,680,972,707"/>
+</map>

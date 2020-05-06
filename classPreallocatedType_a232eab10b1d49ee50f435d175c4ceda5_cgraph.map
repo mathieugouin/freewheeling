@@ -1,0 +1,8 @@
+<map id="PreallocatedType::RTNewWithWait" name="PreallocatedType::RTNewWithWait">
+<area shape="rect" id="node2" href="$classPreallocatedType.html#ae8a5326530dd0f38ecbb094f7818bd42" title="PreallocatedType::RTNew" alt="" coords="299,56,485,83"/>
+<area shape="rect" id="node3" href="$classRTStore.html#a2be0d247570dc611a379ab0a80dd14da" title="RTStore::FindItemWithState" alt="" coords="533,5,733,32"/>
+<area shape="rect" id="node4" href="$classRTStore.html#af3c93f31bd68ce149a812b05d9e7cd86" title="RTStore::ChangeStateAtIdx" alt="" coords="535,56,732,83"/>
+<area shape="rect" id="node5" href="$classMemoryManager.html#a3971e97751f5eccd04086eb2e6fb6f43" title="MemoryManager::WakeUp" alt="" coords="537,107,730,133"/>
+<area shape="rect" id="node6" href="$classSRMWRingBuffer.html#a47699ccc0600c38559c8e10f0ca9bf3c" title="SRMWRingBuffer::WriteElement" alt="" coords="793,81,1020,108"/>
+<area shape="rect" id="node7" href="$classMemoryManager.html#ab15be510a88e9eab04db2d6554d7e947" title="MemoryManager::WakeupIfNeeded" alt="" coords="781,132,1032,159"/>
+</map>

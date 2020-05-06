@@ -1,0 +1,8 @@
+<map id="Saveable::GetSaveHash" name="Saveable::GetSaveHash">
+<area shape="rect" id="node2" href="$classLoopManager.html#a7954eacf6a4f8d0300c4100133a4b725" title="LoopManager::ItemRenamed" alt="" coords="237,5,445,32"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a306ffe72c9623e33cad280ec3609c359" title="LoopManager::SetupSaveLoop" alt="" coords="232,56,449,83"/>
+<area shape="rect" id="node5" href="$classLibraryHelper.html#ad03d914ba92415c02d7582d112e0fa6a" title="LibraryHelper::GetStubname\lFromLoop" alt="" coords="237,107,444,149"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="499,56,709,83"/>
+<area shape="rect" id="node6" href="$classOSCClient.html#acbb974bf11667aa6fb48c111ae14a4fe" title="OSCClient::SendPlayingLoops" alt="" coords="497,115,711,141"/>
+<area shape="rect" id="node7" href="$classOSCClient.html#a8b38ea5b76702f9e763daeb694091116" title="OSCClient::ReceiveEvent" alt="" coords="759,115,941,141"/>
+</map>

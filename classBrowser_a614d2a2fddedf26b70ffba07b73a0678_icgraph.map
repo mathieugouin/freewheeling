@@ -1,0 +1,7 @@
+<map id="Browser::GetDisplayName" name="Browser::GetDisplayName">
+<area shape="rect" id="node2" href="$classLoopManager.html#a175985d1a7e21f019251ff996217cbb0" title="LoopManager::AddLoopToBrowser" alt="" coords="252,5,492,32"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a0c2604681ae7de5415cef3f2690e4a0c" title="LoopManager::AddSceneToBrowser" alt="" coords="248,56,496,83"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a306ffe72c9623e33cad280ec3609c359" title="LoopManager::SetupSaveLoop" alt="" coords="544,5,761,32"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="809,31,1020,57"/>
+<area shape="rect" id="node6" href="$classTriggerMap.html#a92e251eec5a7c5741807805b6869fab8" title="TriggerMap::GoSave" alt="" coords="577,56,728,83"/>
+</map>

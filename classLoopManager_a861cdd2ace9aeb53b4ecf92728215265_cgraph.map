@@ -1,0 +1,31 @@
+<map id="LoopManager::Deactivate" name="LoopManager::Deactivate">
+<area shape="rect" id="node2" href="$classFweelin.html#a10bb364ecf38990653b49a98c5a89c90" title="Fweelin::getTMAP" alt="" coords="860,451,997,477"/>
+<area shape="rect" id="node3" href="$classTriggerMap.html#aca3f85b40f3aa29a280c2d7511b84217" title="TriggerMap::GetMap" alt="" coords="853,577,1004,604"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a8f64a19e15059db80af9cd9f1fa0c05b" title="LoopManager::GetOutputVolume" alt="" coords="241,139,475,165"/>
+<area shape="rect" id="node5" href="$classFweelin.html#a4422f3a93561eff272cd5f7ecb0782ee" title="Fweelin::getRP" alt="" coords="591,80,709,107"/>
+<area shape="rect" id="node7" href="$classPulse.html#a0cb99bfae020d317e791a161b43be165" title="Pulse::GetPct" alt="" coords="304,248,412,275"/>
+<area shape="rect" id="node8" href="$classPulse.html#a4769535b925a7444569205947eaa2da1" title="Pulse::ExtendLongCount" alt="" coords="269,32,447,59"/>
+<area shape="rect" id="node11" href="$classLoop.html#ad3af707868a58422c69fa6fe4d53ce5a" title="Loop::GetNewLoop" alt="" coords="286,349,430,376"/>
+<area shape="rect" id="node12" href="$classLoop.html#a5cdc1a1f946d8e1c694f4b78c372753e" title="Loop::InitLoop" alt="" coords="301,197,415,224"/>
+<area shape="rect" id="node14" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="587,451,713,477"/>
+<area shape="rect" id="node15" href="$classFloConfig.html#a0b52185644573f2b0bae10f391ec69fd" title="FloConfig::GetLoopOutFormat" alt="" coords="251,501,465,528"/>
+<area shape="rect" id="node16" href="$classTriggerMap.html#af9da9145253cd2713f7c1c60701666fa" title="TriggerMap::SetMap" alt="" coords="283,299,433,325"/>
+<area shape="rect" id="node23" href="$classLoopManager.html#a7acf07456e2837b96814226e81fdac30" title="LoopManager::UpdateLoopLists\l_ItemAdded" alt="" coords="245,553,471,594"/>
+<area shape="rect" id="node27" href="$classRootProcessor.html#a479ddcf191d529562b634e65e7ea05b3" title="RootProcessor::DelChild" alt="" coords="269,704,447,731"/>
+<area shape="rect" id="node6" href="$classRootProcessor.html#ae452ce4d629221b87ed92d858c38726b" title="RootProcessor::GetOutput\lVolume" alt="" coords="555,131,745,173"/>
+<area shape="rect" id="node9" href="$fweelin__core__dsp_8cc.html#abc995860348321dce04aba6aea4adbb4" title="math_lcm" alt="" coords="607,29,693,56"/>
+<area shape="rect" id="node10" href="$fweelin__core__dsp_8cc.html#a69d68c70844804445ba3e106f23c76a4" title="math_gcd" alt="" coords="885,29,972,56"/>
+<area shape="rect" id="node13" href="$classSaveable.html#a79c346d809ac7c754f370c46b940d8e8" title="Saveable::Save" alt="" coords="589,197,711,224"/>
+<area shape="rect" id="node17" href="$classEvent.html#aa67af0ae99b897e4f0ce42068c4e4c00" title="Event::GetEventByType" alt="" coords="563,299,737,325"/>
+<area shape="rect" id="node18" href="$classFweelin.html#a21e51d7b639faaecc415624ab6c16a71" title="Fweelin::getEMG" alt="" coords="585,349,715,376"/>
+<area shape="rect" id="node19" href="$classEventManager.html#a4a73f2e7ff1724f28427f7c0d5725c8e" title="EventManager::BroadcastEventNow" alt="" coords="523,248,777,275"/>
+<area shape="rect" id="node20" href="$classEvent.html#ac4c4170579544b41dff38ca1b8110e30" title="Event::GetType" alt="" coords="869,248,989,275"/>
+<area shape="rect" id="node21" href="$classEventListener.html#a831820a9229e852bd7e2fad686b725b2" title="EventListener::ReceiveEvent" alt="" coords="825,299,1032,325"/>
+<area shape="rect" id="node22" href="$classPreallocated.html#aaf2139a79ca16de70acd9bc4564171b7" title="Preallocated::RTDelete" alt="" coords="843,197,1014,224"/>
+<area shape="rect" id="node24" href="$classFweelin.html#a91b18ce962a309b483f19e75c5f5a040" title="Fweelin::getSNAPS" alt="" coords="578,552,722,579"/>
+<area shape="rect" id="node25" href="$classFloConfig.html#a15b1ee51e84fb75465286ea8b7f3fe24" title="FloConfig::GetMaxSnapshots" alt="" coords="547,603,753,629"/>
+<area shape="rect" id="node26" href="$classLoopManager.html#acca75f9dd9685cbf0a6e2ccbea1a1475" title="LoopManager::GetLoopVolume" alt="" coords="540,501,760,528"/>
+<area shape="rect" id="node28" href="$classProcessor.html#a1ff3aad172b41d0c3c9a1bd06cd6a4ef" title="Processor::dopreprocess" alt="" coords="560,755,740,781"/>
+<area shape="rect" id="node30" href="$classProcessor.html#a60bc657202aee43816ed92dae0d93ecb" title="Processor::Halt" alt="" coords="590,704,710,731"/>
+<area shape="rect" id="node29" href="$classProcessor.html#a2a6ea9cec150529a6b61898634540254" title="Processor::process" alt="" coords="857,755,1000,781"/>
+</map>

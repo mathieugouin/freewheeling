@@ -1,0 +1,7 @@
+<map id="FloConfig::GetFaderMaxDB" name="FloConfig::GetFaderMaxDB">
+<area shape="rect" id="node2" href="$classInputMatrix.html#aa74204a205a10f2b60809ea124db9173" title="InputMatrix::ReceiveEvent" alt="" coords="267,5,459,32"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a82f420b74ebb790061772cb2ea23d83d" title="LoopManager::SetOutputVolume" alt="" coords="248,56,479,83"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#ad636c6280f2a5a6bfe45f94946dc3a9f" title="LoopManager::SetInputVolume" alt="" coords="253,107,473,133"/>
+<area shape="rect" id="node6" href="$classInputSettings.html#a6f6f097348037e0c518e8564847f6aff" title="InputSettings::SetInputVol" alt="" coords="268,157,459,184"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="527,107,732,133"/>
+</map>

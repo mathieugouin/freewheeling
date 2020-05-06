@@ -1,0 +1,6 @@
+<map id="BlockManager::GetApp" name="BlockManager::GetApp">
+<area shape="rect" id="node2" href="$classBlockReadManager.html#af12804c61f944904eedf8c9edf5cd3bd" title="BlockReadManager::Start" alt="" coords="224,5,409,32"/>
+<area shape="rect" id="node4" href="$classBlockWriteManager.html#ad694fe4875f415467800cab9f05a504a" title="BlockWriteManager::\lStart" alt="" coords="239,57,395,98"/>
+<area shape="rect" id="node3" href="$classBlockReadManager.html#aa990976dec4a3ec5bd6384b54ce5f09b" title="BlockReadManager::Manage" alt="" coords="457,5,663,32"/>
+<area shape="rect" id="node5" href="$classBlockWriteManager.html#a0b50330873c237f482c48aa06a4b1a9a" title="BlockWriteManager::\lManage" alt="" coords="482,57,638,98"/>
+</map>

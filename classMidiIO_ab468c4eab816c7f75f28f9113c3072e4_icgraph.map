@@ -1,0 +1,8 @@
+<map id="MidiIO::GetMIDISyncTransmit" name="MidiIO::GetMIDISyncTransmit">
+<area shape="rect" id="node2" href="$classPulse.html#aec20778ec5fcc2a6cefed47add36272f" title="Pulse::SetMIDIClock" alt="" coords="264,56,415,83"/>
+<area shape="rect" id="node7" href="$classPulse.html#adf28cef50c1f7543db7171b67126c38f" title="Pulse::process" alt="" coords="282,107,397,133"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#ab79aef15f1e783de1ab6827378bea274" title="LoopManager::SelectPulse" alt="" coords="464,31,656,57"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a705436ae811a121ed3285ab34b144bfe" title="LoopManager::CreatePulse" alt="" coords="463,81,657,108"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a67c6f44d33880b35c875a8e6ea8babac" title="LoopManager::TapPulse" alt="" coords="705,5,880,32"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="928,31,1133,57"/>
+</map>

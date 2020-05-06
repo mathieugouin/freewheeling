@@ -1,0 +1,7 @@
+<map id="Fweelin::getAMPEAKSI" name="Fweelin::getAMPEAKSI">
+<area shape="rect" id="node2" href="$classLoopManager.html#a5630b6fefdfc931ac0ab511c6b77cecf" title="LoopManager::StripePulseOn" alt="" coords="220,56,428,83"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#ab79aef15f1e783de1ab6827378bea274" title="LoopManager::SelectPulse" alt="" coords="477,56,669,83"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a67c6f44d33880b35c875a8e6ea8babac" title="LoopManager::TapPulse" alt="" coords="719,5,893,32"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a705436ae811a121ed3285ab34b144bfe" title="LoopManager::CreatePulse" alt="" coords="476,107,671,133"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="941,31,1147,57"/>
+</map>

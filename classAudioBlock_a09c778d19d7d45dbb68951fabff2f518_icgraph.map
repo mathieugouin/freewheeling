@@ -1,0 +1,11 @@
+<map id="AudioBlock::Smooth" name="AudioBlock::Smooth">
+<area shape="rect" id="node2" href="$classBlockReadManager.html#a0956beb932559fdea3ecca152db2bd0a" title="BlockReadManager::End" alt="" coords="213,122,391,149"/>
+<area shape="rect" id="node7" href="$classRecordProcessor.html#a9984f573bbc265321ad0604f97b23820" title="RecordProcessor::EndNow" alt="" coords="207,249,397,275"/>
+<area shape="rect" id="node3" href="$classBlockReadManager.html#a935aa663d9fa5b6d346f77c7b3882e2b" title="BlockReadManager::\l~BlockReadManager" alt="" coords="474,5,631,47"/>
+<area shape="rect" id="node4" href="$classBlockReadManager.html#af12804c61f944904eedf8c9edf5cd3bd" title="BlockReadManager::Start" alt="" coords="460,71,645,98"/>
+<area shape="rect" id="node5" href="$classBlockReadManager.html#aa990976dec4a3ec5bd6384b54ce5f09b" title="BlockReadManager::Manage" alt="" coords="708,97,913,123"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#aadca58536e41c8b0b8fd148ac40b23c0" title="LoopManager::~LoopManager" alt="" coords="445,173,660,199"/>
+<area shape="rect" id="node8" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="451,223,654,250"/>
+<area shape="rect" id="node9" href="$classRecordProcessor.html#ab035edfb707f8f1066b3597df7ddda7d" title="RecordProcessor::End" alt="" coords="472,274,633,301"/>
+<area shape="rect" id="node10" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="459,325,646,351"/>
+</map>

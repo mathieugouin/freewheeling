@@ -1,0 +1,4 @@
+<map id="MemoryManager::WakeUp" name="MemoryManager::WakeUp">
+<area shape="rect" id="node2" href="$classSRMWRingBuffer.html#a47699ccc0600c38559c8e10f0ca9bf3c" title="SRMWRingBuffer::WriteElement" alt="" coords="259,5,485,32"/>
+<area shape="rect" id="node3" href="$classMemoryManager.html#ab15be510a88e9eab04db2d6554d7e947" title="MemoryManager::WakeupIfNeeded" alt="" coords="247,56,497,83"/>
+</map>

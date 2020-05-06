@@ -1,0 +1,5 @@
+<map id="PreallocatedType::RTDelete" name="PreallocatedType::RTDelete">
+<area shape="rect" id="node2" href="$classMemoryManager.html#a3971e97751f5eccd04086eb2e6fb6f43" title="MemoryManager::WakeUp" alt="" coords="253,31,447,57"/>
+<area shape="rect" id="node3" href="$classSRMWRingBuffer.html#a47699ccc0600c38559c8e10f0ca9bf3c" title="SRMWRingBuffer::WriteElement" alt="" coords="507,5,733,32"/>
+<area shape="rect" id="node4" href="$classMemoryManager.html#ab15be510a88e9eab04db2d6554d7e947" title="MemoryManager::WakeupIfNeeded" alt="" coords="495,56,745,83"/>
+</map>

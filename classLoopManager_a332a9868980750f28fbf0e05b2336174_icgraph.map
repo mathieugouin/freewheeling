@@ -1,0 +1,5 @@
+<map id="LoopManager::DeleteLoop" name="LoopManager::DeleteLoop">
+<area shape="rect" id="node2" href="$classLoopManager.html#a6048a702c9cec3676a1c56792b16ec44" title="LoopManager::ReadComplete" alt="" coords="244,5,456,32"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="253,56,447,83"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="504,81,709,108"/>
+</map>

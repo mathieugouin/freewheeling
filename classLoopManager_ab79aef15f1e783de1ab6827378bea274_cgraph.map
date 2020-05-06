@@ -1,0 +1,34 @@
+<map id="LoopManager::SelectPulse" name="LoopManager::SelectPulse">
+<area shape="rect" id="node2" href="$classLoopManager.html#a28c81cf1fb5fdf13a633e33d06975a0d" title="LoopManager::GetCurPulse" alt="" coords="493,157,691,184"/>
+<area shape="rect" id="node3" href="$classPulse.html#aec20778ec5fcc2a6cefed47add36272f" title="Pulse::SetMIDIClock" alt="" coords="517,208,667,235"/>
+<area shape="rect" id="node12" href="$classLoopManager.html#ab9cb8744d6082938582fd30e75a7f482" title="LoopManager::CreatePulse" alt="" coords="245,309,440,336"/>
+<area shape="rect" id="node22" href="$classLoopManager.html#a5630b6fefdfc931ac0ab511c6b77cecf" title="LoopManager::StripePulseOn" alt="" coords="488,588,696,615"/>
+<area shape="rect" id="node4" href="$classFweelin.html#aee46aec225c2ee5c88854dc9943e7d62" title="Fweelin::getMIDI" alt="" coords="806,5,937,32"/>
+<area shape="rect" id="node5" href="$classMidiIO.html#ab468c4eab816c7f75f28f9113c3072e4" title="MidiIO::GetMIDISyncTransmit" alt="" coords="766,56,977,83"/>
+<area shape="rect" id="node6" href="$classEvent.html#aa67af0ae99b897e4f0ce42068c4e4c00" title="Event::GetEventByType" alt="" coords="784,208,959,235"/>
+<area shape="rect" id="node7" href="$classFweelin.html#a21e51d7b639faaecc415624ab6c16a71" title="Fweelin::getEMG" alt="" coords="806,107,937,133"/>
+<area shape="rect" id="node8" href="$classEventManager.html#a4a73f2e7ff1724f28427f7c0d5725c8e" title="EventManager::BroadcastEventNow" alt="" coords="744,157,999,184"/>
+<area shape="rect" id="node9" href="$classEvent.html#ac4c4170579544b41dff38ca1b8110e30" title="Event::GetType" alt="" coords="1096,208,1216,235"/>
+<area shape="rect" id="node10" href="$classEventListener.html#a831820a9229e852bd7e2fad686b725b2" title="EventListener::ReceiveEvent" alt="" coords="1053,107,1259,133"/>
+<area shape="rect" id="node11" href="$classPreallocated.html#aaf2139a79ca16de70acd9bc4564171b7" title="Preallocated::RTDelete" alt="" coords="1071,157,1241,184"/>
+<area shape="rect" id="node13" href="$classFweelin.html#a10bb364ecf38990653b49a98c5a89c90" title="Fweelin::getTMAP" alt="" coords="803,461,940,488"/>
+<area shape="rect" id="node14" href="$classTriggerMap.html#aca3f85b40f3aa29a280c2d7511b84217" title="TriggerMap::GetMap" alt="" coords="796,360,947,387"/>
+<area shape="rect" id="node15" href="$classLoopManager.html#ade17096b555db9f73679815e53a19429" title="LoopManager::GetLength" alt="" coords="500,411,684,437"/>
+<area shape="rect" id="node17" href="$classFweelin.html#a4422f3a93561eff272cd5f7ecb0782ee" title="Fweelin::getRP" alt="" coords="533,309,651,336"/>
+<area shape="rect" id="node18" href="$classRootProcessor.html#adc75260f6db8566d3e3eaaea2d5a6323" title="RootProcessor::AddChild" alt="" coords="502,259,682,285"/>
+<area shape="rect" id="node16" href="$classAudioBlock.html#a380880c91c3af2322d232ce2de83b881" title="AudioBlock::GetTotalLen" alt="" coords="781,411,961,437"/>
+<area shape="rect" id="node19" href="$classProcessor.html#a1ff3aad172b41d0c3c9a1bd06cd6a4ef" title="Processor::dopreprocess" alt="" coords="781,259,961,285"/>
+<area shape="rect" id="node21" href="$classSRMWRingBuffer.html#a47699ccc0600c38559c8e10f0ca9bf3c" title="SRMWRingBuffer::WriteElement" alt="" coords="758,309,985,336"/>
+<area shape="rect" id="node20" href="$classProcessor.html#a2a6ea9cec150529a6b61898634540254" title="Processor::process" alt="" coords="1085,259,1227,285"/>
+<area shape="rect" id="node23" href="$classFweelin.html#a600688955c7470a1b7a2fa95ddcc4118" title="Fweelin::getBMG" alt="" coords="806,715,937,741"/>
+<area shape="rect" id="node24" href="$classBlockManager.html#a718110289099d5b729ce3b28d0ac09fb" title="BlockManager::StripeBlockOn" alt="" coords="764,765,979,792"/>
+<area shape="rect" id="node30" href="$classFweelin.html#a079cfb110e3dd58369b57009b4e74342" title="Fweelin::getAMPEAKS" alt="" coords="790,512,953,539"/>
+<area shape="rect" id="node31" href="$classFweelin.html#a2759e5c9c967464b0861c9f80821945f" title="Fweelin::getAMPEAKSI" alt="" coords="788,563,955,589"/>
+<area shape="rect" id="node32" href="$classFweelin.html#a6532e9aca57e2ec68ee5336113152bd5" title="Fweelin::getAUDIOMEM" alt="" coords="784,613,959,640"/>
+<area shape="rect" id="node33" href="$classFweelin.html#ad34a1444de8b2ddef487facd33e626f6" title="Fweelin::getAUDIOMEMI" alt="" coords="782,664,961,691"/>
+<area shape="rect" id="node25" href="$classBlockManager.html#a5566277a4ec6c8a5347470433843b998" title="BlockManager::DelHiManager" alt="" coords="1049,685,1263,712"/>
+<area shape="rect" id="node27" href="$classFweelin.html#a6cb99744f75b371673c3e90031797972" title="Fweelin::getPRE_TIMEMARKER" alt="" coords="1047,736,1265,763"/>
+<area shape="rect" id="node28" href="$classStripeBlockManager.html#a0bd66e4d0743493ad80c17203301a2db" title="StripeBlockManager\l::Setup" alt="" coords="1080,787,1232,829"/>
+<area shape="rect" id="node29" href="$classBlockManager.html#ac62e5c20f032e777abfe76aad9cecee1" title="BlockManager::AddHiManager" alt="" coords="1047,853,1265,880"/>
+<area shape="rect" id="node26" href="$classHiPriManagedChain.html#a65066950fc82d852fd81af83cf558b4f" title="HiPriManagedChain::\lGetType" alt="" coords="1313,678,1471,719"/>
+</map>

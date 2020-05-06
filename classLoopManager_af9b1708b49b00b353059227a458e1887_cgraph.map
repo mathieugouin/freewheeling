@@ -1,0 +1,7 @@
+<map id="LoopManager::UpdateLoopLists_ItemRemoved" name="LoopManager::UpdateLoopLists_ItemRemoved">
+<area shape="rect" id="node2" href="$classFweelin.html#a2923ee8b565905c8429845f2dc51d261" title="Fweelin::getLOOPSEL" alt="" coords="303,5,461,32"/>
+<area shape="rect" id="node3" href="$classLoopList.html#a9cf010c61a3bc72c14c395592ad3448d" title="LoopList::Remove" alt="" coords="313,56,451,83"/>
+<area shape="rect" id="node4" href="$classFweelin.html#a91b18ce962a309b483f19e75c5f5a040" title="Fweelin::getSNAPS" alt="" coords="310,107,454,133"/>
+<area shape="rect" id="node5" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="319,157,445,184"/>
+<area shape="rect" id="node6" href="$classFloConfig.html#a15b1ee51e84fb75465286ea8b7f3fe24" title="FloConfig::GetMaxSnapshots" alt="" coords="279,208,485,235"/>
+</map>

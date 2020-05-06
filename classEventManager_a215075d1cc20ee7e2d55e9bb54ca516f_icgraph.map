@@ -1,0 +1,15 @@
+<map id="EventManager::QueueEvent" name="EventManager::QueueEvent">
+<area shape="rect" id="node2" href="$classLoopManager.html#acaae95d3c0fe9468fba36553dc83547a" title="LoopManager::AddToSaveQueue" alt="" coords="781,51,1012,77"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#afe9ad41d77128fff90501c3a15c76b34" title="LoopManager::AddLoopToSave\lQueue" alt="" coords="256,102,475,143"/>
+<area shape="rect" id="node10" href="$classLoopManager.html#a5db9d5ddb2f42a75645a2541c7b3cc79" title="LoopManager::AddLoopToLoad\lQueue" alt="" coords="256,167,475,209"/>
+<area shape="rect" id="node13" href="$classLoopManager.html#af213761ccf6208b94354a3658de91cfb" title="LoopManager::CheckSaveMap" alt="" coords="257,233,473,260"/>
+<area shape="rect" id="node3" href="$classTriggerMap.html#aaa7bec4f62540981d1e5703fe8ed575e" title="TriggerMap::Save" alt="" coords="1060,52,1193,79"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#ac2adaa8b989e1284abf17fc07eb0baf2" title="LoopManager::SaveNewScene" alt="" coords="1241,56,1459,83"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#abd2cda6ecc976fd447167d5de7cc5912" title="LoopManager::SaveCurScene" alt="" coords="1507,5,1717,32"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="1765,56,1971,83"/>
+<area shape="rect" id="node8" href="$classLoop.html#a53ccedecccce6659493d58c3ff6750b9" title="Loop::Save" alt="" coords="581,108,675,135"/>
+<area shape="rect" id="node9" href="$classLoopManager.html#a87ecdd3c80b3c16018a50a397f906b03" title="LoopManager::SaveLoop" alt="" coords="807,107,987,133"/>
+<area shape="rect" id="node11" href="$classLoopManager.html#a87e2d8190169a6cdc93207c661b5e47d" title="LoopManager::LoadLoop" alt="" coords="539,175,717,201"/>
+<area shape="rect" id="node12" href="$classLoopManager.html#a05a6a438d14482e2f22aa802cfb432e8" title="LoopManager::LoadScene" alt="" coords="803,175,990,201"/>
+<area shape="rect" id="node14" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="523,233,733,260"/>
+</map>

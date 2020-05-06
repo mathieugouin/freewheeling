@@ -1,0 +1,10 @@
+<map id="LoopManager::GetLongCountForAllPlayingLoops" name="LoopManager::GetLongCountForAllPlayingLoops">
+<area shape="rect" id="node2" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="297,5,423,32"/>
+<area shape="rect" id="node3" href="$classFloConfig.html#aced480ca5828c2c7b6841441a9b3d86d" title="FloConfig::GetNumTriggers" alt="" coords="263,56,457,83"/>
+<area shape="rect" id="node4" href="$classFweelin.html#a7b1253ea49ee57244a0d8cca152d72e5" title="Fweelin::getLOOPMGR" alt="" coords="277,107,443,133"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a66574bbc447d4f891ef382469c521b05" title="LoopManager::GetStatus" alt="" coords="269,157,451,184"/>
+<area shape="rect" id="node6" href="$classFweelin.html#a10bb364ecf38990653b49a98c5a89c90" title="Fweelin::getTMAP" alt="" coords="291,208,429,235"/>
+<area shape="rect" id="node7" href="$classTriggerMap.html#aca3f85b40f3aa29a280c2d7511b84217" title="TriggerMap::GetMap" alt="" coords="285,259,435,285"/>
+<area shape="rect" id="node8" href="$fweelin__core__dsp_8cc.html#abc995860348321dce04aba6aea4adbb4" title="math_lcm" alt="" coords="317,309,403,336"/>
+<area shape="rect" id="node9" href="$fweelin__core__dsp_8cc.html#a69d68c70844804445ba3e106f23c76a4" title="math_gcd" alt="" coords="505,309,592,336"/>
+</map>

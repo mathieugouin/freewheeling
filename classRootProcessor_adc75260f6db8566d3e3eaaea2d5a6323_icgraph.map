@@ -1,0 +1,7 @@
+<map id="RootProcessor::AddChild" name="RootProcessor::AddChild">
+<area shape="rect" id="node2" href="$classLoopManager.html#a705436ae811a121ed3285ab34b144bfe" title="LoopManager::CreatePulse" alt="" coords="233,5,428,32"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a67c6f44d33880b35c875a8e6ea8babac" title="LoopManager::TapPulse" alt="" coords="481,56,655,83"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#add3b21cda3c0eddecabf19d24c610cdc" title="LoopManager::Activate" alt="" coords="245,107,416,133"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="708,107,913,133"/>
+<area shape="rect" id="node6" href="$classFweelin.html#a4654015e2bc7cc94f3bfc421899a60d3" title="Fweelin::TriggerSnapshot" alt="" coords="476,157,660,184"/>
+</map>

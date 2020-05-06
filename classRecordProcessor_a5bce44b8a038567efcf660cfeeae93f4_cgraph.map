@@ -1,0 +1,8 @@
+<map id="RecordProcessor::AbortRecording" name="RecordProcessor::AbortRecording">
+<area shape="rect" id="node2" href="$classAudioBlockIterator.html#a48be225cf6283fb66268a832abd89b30" title="AudioBlockIterator\l::Stop" alt="" coords="324,5,467,47"/>
+<area shape="rect" id="node3" href="$classPeaksAvgsManager.html#a7d5c60dc637af4095167410c4ae924f4" title="PeaksAvgsManager::End" alt="" coords="305,71,485,98"/>
+<area shape="rect" id="node4" href="$classFweelin.html#a600688955c7470a1b7a2fa95ddcc4118" title="Fweelin::getBMG" alt="" coords="330,122,461,149"/>
+<area shape="rect" id="node5" href="$classBlockManager.html#a7380825963fc62c90186a0b3c72e8d89" title="BlockManager::PeakAvgOff" alt="" coords="297,173,494,199"/>
+<area shape="rect" id="node7" href="$classBlockManager.html#add099506b29910e9dabdab9f6a1af92f" title="BlockManager::GrowChainOff" alt="" coords="289,223,501,250"/>
+<area shape="rect" id="node6" href="$classBlockManager.html#ae59dae7f7f6572b004dcdacc740204ac" title="BlockManager::DelManager" alt="" coords="549,198,749,225"/>
+</map>

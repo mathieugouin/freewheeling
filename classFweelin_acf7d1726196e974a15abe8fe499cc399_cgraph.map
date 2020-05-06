@@ -1,0 +1,5 @@
+<map id="Fweelin::ToggleDiskOutput" name="Fweelin::ToggleDiskOutput">
+<area shape="rect" id="node2" href="$classLibraryHelper.html#a7fcac5fdf997c87d1d968e16b473f753" title="LibraryHelper::GetNextAvailable\lStreamOutFilename" alt="" coords="248,23,480,65"/>
+<area shape="rect" id="node3" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="558,5,685,32"/>
+<area shape="rect" id="node4" href="$classFloConfig.html#a9acc5e0790ab29fe30856d58c5ffa0e8" title="FloConfig::GetLibraryPath" alt="" coords="528,56,715,83"/>
+</map>

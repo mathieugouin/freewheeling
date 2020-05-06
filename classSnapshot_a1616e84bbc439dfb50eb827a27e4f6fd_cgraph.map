@@ -1,0 +1,7 @@
+<map id="Snapshot::CreateSnapshot" name="Snapshot::CreateSnapshot">
+<area shape="rect" id="node2" href="$classTriggerMap.html#a17fce9bb5d04e10463484c2bd6dff6f4" title="TriggerMap::CountLoops" alt="" coords="260,5,437,32"/>
+<area shape="rect" id="node3" href="$classTriggerMap.html#aa7d410849b2b17c3623c6d105241418e" title="TriggerMap::GetMapSize" alt="" coords="259,56,438,83"/>
+<area shape="rect" id="node4" href="$classTriggerMap.html#aca3f85b40f3aa29a280c2d7511b84217" title="TriggerMap::GetMap" alt="" coords="273,107,424,133"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a66574bbc447d4f891ef382469c521b05" title="LoopManager::GetStatus" alt="" coords="258,157,439,184"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#ab9c9e72e1a23b34c15a87dc13fb02672" title="LoopManager::GetTriggerVol" alt="" coords="247,208,451,235"/>
+</map>

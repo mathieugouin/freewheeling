@@ -1,0 +1,14 @@
+<map id="AudioBlock" name="AudioBlock">
+<area shape="rect" id="node2" href="$classPreallocated.html" title="{Preallocated\n|&#45; FWMEM_DEFINE_DELBLOCK\l|+ Preallocated()\l+ ~Preallocated()\l+ operator new()\l+ operator delete()\l+ RTNew()\l+ RTNewWithWait()\l+ RTDelete()\l+ GetMgr()\l+ SetupPreallocated()\l&#45; NewInstance()\l&#45; Recycle()\l}" alt="" coords="882,344,1093,568"/>
+<area shape="rect" id="node3" href="$classPreallocatedType.html" title="{PreallocatedType\n||+ PreallocatedType()\l+ ~PreallocatedType()\l+ RTNew()\l+ RTNewWithWait()\l+ RTDelete()\l+ GoPreallocate()\l+ GoPostdelete()\l+ Cleanup()\l+ GetBlockSize()\l}" alt="" coords="663,704,832,899"/>
+<area shape="rect" id="node14" href="$classMemoryManagerUpdate.html" title="{MemoryManagerUpdate\n||+ MemoryManagerUpdate()\l+ MemoryManagerUpdate()\l+ IsValid()\l}" alt="" coords="1213,1097,1415,1204"/>
+<area shape="rect" id="node4" href="$classSListItem.html" title="{SListItem\n||+ SListItem()\l}" alt="" coords="153,417,261,495"/>
+<area shape="rect" id="node8" href="$classSLinkList.html" title="{SLinkList\n||+ SLinkList()\l+ AddToHead()\l+ FindAndRemove()\l+ GetFirstItem()\l+ GetNextItem()\l}" alt="" coords="291,937,441,1073"/>
+<area shape="rect" id="node5" href="$classMemoryManager.html" title="{MemoryManager\n||+ MemoryManager()\l+ ~MemoryManager()\l+ AddType()\l+ DelType()\l+ WakeUp()\l+ WakeupIfNeeded()\l&#45; ProcessQueue()\l&#45; run_mgr_thread()\l}" alt="" coords="493,1480,660,1660"/>
+<area shape="rect" id="node12" href="$classSRMWRingBuffer.html" title="{SRMWRingBuffer\&lt; MemoryManager\lUpdate \&gt;\n||+ SRMWRingBuffer()\l+ ~SRMWRingBuffer()\l+ WriteElement()\l+ ReadElement()\l&#45; UpdateNumRWThreads()\l}" alt="" coords="1093,1267,1348,1417"/>
+<area shape="rect" id="node18" href="$classRTStore.html" title="{RTStore\&lt; PreallocatedInstance \&gt;\n||+ RTStore()\l+ ~RTStore()\l+ FindItemWithState()\l+ ChangeStateAtIdx()\l+ GetItemAtIdx()\l}" alt="" coords="521,388,760,524"/>
+<area shape="rect" id="node19" href="$classRTStore_1_1RTStoreItem.html" title="{RTStore\&lt; T \&gt;::RTStoreItem\n||+ RTStoreItem()\l}" alt="" coords="279,145,477,223"/>
+<area shape="rect" id="node13" href="$classRTDataStruct__Updater.html" title="{RTDataStruct_Updater\n||# UpdateNumRWThreads()\l}" alt="" coords="1440,1112,1639,1189"/>
+<area shape="rect" id="node20" href="$classT.html" title="{T\n||}" alt="" coords="5,5,44,83"/>
+<area shape="rect" id="node23" href="$classBlockExtendedData.html" title="{BlockExtendedData\n||+ BlockExtendedData()\l+ BlockExtendedData()\l+ ~BlockExtendedData()\l+ GetType()\l}" alt="" coords="1602,395,1789,517"/>
+</map>

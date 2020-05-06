@@ -1,0 +1,10 @@
+<map id="Pulse::SwitchMetronome" name="Pulse::SwitchMetronome">
+<area shape="rect" id="node2" href="$classLoopManager.html#af5d0dda7bbd8b05498ff3aea948001b2" title="LoopManager::SwitchMetronome" alt="" coords="236,5,471,32"/>
+<area shape="rect" id="node4" href="$classSDLIO.html#a491e66a604fb750866d5de45dfa6aae0" title="SDLIO::handle_key" alt="" coords="281,56,425,83"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="519,5,724,32"/>
+<area shape="rect" id="node5" href="$classSDLIO.html#ad1b1bf6d23251b3014749b18497c1b91" title="SDLIO::run_sdl_thread" alt="" coords="539,56,704,83"/>
+<area shape="rect" id="node6" href="$classFweelin.html#a268997890fa59492e27b4787c6bdc41f" title="Fweelin::go" alt="" coords="785,31,881,57"/>
+<area shape="rect" id="node9" href="$classSDLIO.html#a219c64dd0f01ca0fe0319ba7a0a3379e" title="SDLIO::activate" alt="" coords="772,81,895,108"/>
+<area shape="rect" id="node7" href="$fweelin_8cc.html#a97b0fa62b7b0972875f5f589322c4c24" title="main" alt="" coords="976,5,1031,32"/>
+<area shape="rect" id="node8" href="$classLoopTray.html#a307e6abe64c403e39fc463ec282bde27" title="LoopTray::Draw" alt="" coords="943,56,1064,83"/>
+</map>

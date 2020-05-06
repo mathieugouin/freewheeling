@@ -1,0 +1,9 @@
+<map id="LoopManager::SetInputVolume" name="LoopManager::SetInputVolume">
+<area shape="rect" id="node2" href="$classFweelin.html#a4422f3a93561eff272cd5f7ecb0782ee" title="Fweelin::getRP" alt="" coords="327,5,445,32"/>
+<area shape="rect" id="node3" href="$classRootProcessor.html#a5d43e1257d654843ffed1ebcbe24f633" title="RootProcessor::SetInputVolume" alt="" coords="273,56,499,83"/>
+<area shape="rect" id="node4" href="$classAudioLevel.html#a6237f0fe89cafad73b27ffdd837c20d3" title="AudioLevel::fader_to_dB" alt="" coords="296,107,476,133"/>
+<area shape="rect" id="node7" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="323,157,449,184"/>
+<area shape="rect" id="node8" href="$classFloConfig.html#afe89a160de65636f17710e04713e5127" title="FloConfig::GetFaderMaxDB" alt="" coords="289,208,483,235"/>
+<area shape="rect" id="node5" href="$fweelin__core__dsp_8cc.html#aa8e70840b54e71eb9300384906358f42" title="iec_dB_to_fader" alt="" coords="547,81,673,108"/>
+<area shape="rect" id="node6" href="$fweelin__core__dsp_8cc.html#aef093fccb62a8f826bff45f18e39cf5d" title="iec_fader_to_dB" alt="" coords="547,132,673,159"/>
+</map>

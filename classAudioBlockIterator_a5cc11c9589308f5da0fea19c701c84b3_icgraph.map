@@ -1,0 +1,7 @@
+<map id="AudioBlockIterator::PutFragment" name="AudioBlockIterator::PutFragment">
+<area shape="rect" id="node2" href="$classSndFileDecoder.html#a6f533159127e8f633a12c6fe3f86b4a2" title="SndFileDecoder::ReadSamples" alt="" coords="196,5,415,32"/>
+<area shape="rect" id="node3" href="$classVorbisDecoder.html#a605d498b0a32990607910576964da546" title="VorbisDecoder::ReadSamples" alt="" coords="199,56,411,83"/>
+<area shape="rect" id="node4" href="$classRecordProcessor.html#a8fbde2e8b6f9e9dafb89ef0b06e6a11a" title="RecordProcessor::Jump" alt="" coords="220,107,391,133"/>
+<area shape="rect" id="node6" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="212,157,399,184"/>
+<area shape="rect" id="node5" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="463,107,665,133"/>
+</map>

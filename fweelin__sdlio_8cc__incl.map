@@ -1,0 +1,18 @@
+<map id="src/fweelin_sdlio.cc" name="src/fweelin_sdlio.cc">
+<area shape="rect" id="node16" href="$fweelin__sdlio_8h.html" title="fweelin_sdlio.h" alt="" coords="704,304,824,331"/>
+<area shape="rect" id="node30" href="$fweelin__core_8h.html" title="fweelin_core.h" alt="" coords="1187,80,1304,107"/>
+<area shape="rect" id="node17" href="$fweelin__event_8h.html" title="fweelin_event.h" alt="" coords="1003,379,1130,405"/>
+<area shape="rect" id="node20" href="$fweelin__datatypes_8h.html" title="fweelin_datatypes.h" alt="" coords="1160,603,1315,629"/>
+<area shape="rect" id="node22" href="$fweelin__block_8h.html" title="fweelin_block.h" alt="" coords="1625,453,1749,480"/>
+<area shape="rect" id="node27" href="$fweelin__audioio_8h.html" title="fweelin_audioio.h" alt="" coords="2098,528,2235,555"/>
+<area shape="rect" id="node29" href="$fweelin__mem_8h.html" title="fweelin_mem.h" alt="" coords="1380,528,1503,555"/>
+<area shape="rect" id="node32" href="$fweelin__amixer_8h.html" title="fweelin_amixer.h" alt="" coords="459,155,594,181"/>
+<area shape="rect" id="node35" href="$fweelin__midiio_8h.html" title="fweelin_midiio.h" alt="" coords="848,155,979,181"/>
+<area shape="rect" id="node36" href="$fweelin__videoio_8h.html" title="fweelin_videoio.h" alt="" coords="2093,304,2230,331"/>
+<area shape="rect" id="node37" href="$fweelin__rcu_8h.html" title="fweelin_rcu.h" alt="" coords="795,453,904,480"/>
+<area shape="rect" id="node39" href="$fweelin__core__dsp_8h.html" title="fweelin_core_dsp.h" alt="" coords="1011,155,1157,181"/>
+<area shape="rect" id="node42" href="$fweelin__config_8h.html" title="fweelin_config.h" alt="" coords="1500,229,1628,256"/>
+<area shape="rect" id="node46" href="$fweelin__fluidsynth_8h.html" title="fweelin_fluidsynth.h" alt="" coords="1105,304,1258,331"/>
+<area shape="rect" id="node47" href="$fweelin__browser_8h.html" title="fweelin_browser.h" alt="" coords="1413,155,1553,181"/>
+<area shape="rect" id="node48" href="$fweelin__osc_8h.html" title="fweelin_osc.h" alt="" coords="1629,155,1739,181"/>
+</map>

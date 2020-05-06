@@ -1,0 +1,5 @@
+<map id="LoopManager::LoadLoop" name="LoopManager::LoadLoop">
+<area shape="rect" id="node2" href="$classLoopManager.html#a5db9d5ddb2f42a75645a2541c7b3cc79" title="LoopManager::AddLoopToLoad\lQueue" alt="" coords="232,23,451,65"/>
+<area shape="rect" id="node3" href="$classEvent.html#aa67af0ae99b897e4f0ce42068c4e4c00" title="Event::GetEventByType" alt="" coords="513,5,687,32"/>
+<area shape="rect" id="node4" href="$classEventManager.html#a215075d1cc20ee7e2d55e9bb54ca516f" title="EventManager::QueueEvent" alt="" coords="499,56,701,83"/>
+</map>

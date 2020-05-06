@@ -1,0 +1,7 @@
+<map id="FloConfig::IsStereoInput" name="FloConfig::IsStereoInput">
+<area shape="rect" id="node2" href="$classAudioBuffers.html#ac3ab00f9fd05d68fc10fb5e6dca83fa2" title="AudioBuffers::IsStereoInput" alt="" coords="229,5,428,32"/>
+<area shape="rect" id="node5" href="$classInputSettings.html#a5a8a6bddc5f4e5bf8f7356d167a693b1" title="InputSettings::IsSelected\lStereo" alt="" coords="237,57,420,98"/>
+<area shape="rect" id="node3" href="$classAudioIO.html#a1e4157d1900df901a60d5a2260d7509c" title="AudioIO::open" alt="" coords="541,5,655,32"/>
+<area shape="rect" id="node4" href="$classAudioIO.html#a012ce924f59ced78f2fac75e6e33b55c" title="AudioIO::AudioIO" alt="" coords="768,5,900,32"/>
+<area shape="rect" id="node6" href="$classRecordProcessor.html#aa20c0f68a5ee5e4739759b3783b6e4d1" title="RecordProcessor::RecordProcessor" alt="" coords="476,64,720,91"/>
+</map>

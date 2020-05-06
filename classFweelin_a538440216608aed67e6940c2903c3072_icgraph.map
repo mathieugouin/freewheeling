@@ -1,0 +1,15 @@
+<map id="Fweelin::getBUFSZ" name="Fweelin::getBUFSZ">
+<area shape="rect" id="node2" href="$classAudioIO.html#aa131b2f89b09eeb058f56676833bf2df" title="AudioIO::process" alt="" coords="254,31,385,57"/>
+<area shape="rect" id="node5" href="$classPulse.html#adf28cef50c1f7543db7171b67126c38f" title="Pulse::process" alt="" coords="262,81,377,108"/>
+<area shape="rect" id="node6" href="$classRootProcessor.html#aec5fac86449797c873b0c6a1c364309c" title="RootProcessor::RootProcessor" alt="" coords="212,132,427,159"/>
+<area shape="rect" id="node7" href="$classRootProcessor.html#a014d1405fbd7d67ee4edeb19713ded04" title="RootProcessor::process" alt="" coords="233,183,405,209"/>
+<area shape="rect" id="node8" href="$classRecordProcessor.html#a1aea5f833c59a12398b05b514b26b572" title="RecordProcessor::RecordProcessor" alt="" coords="197,233,441,260"/>
+<area shape="rect" id="node9" href="$classRecordProcessor.html#a8fbde2e8b6f9e9dafb89ef0b06e6a11a" title="RecordProcessor::Jump" alt="" coords="234,284,405,311"/>
+<area shape="rect" id="node11" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="226,335,413,361"/>
+<area shape="rect" id="node12" href="$classPlayProcessor.html#a4f2f7e937cc77b2516d03aa76d29519d" title="PlayProcessor::PlayProcessor" alt="" coords="213,385,425,412"/>
+<area shape="rect" id="node13" href="$classPlayProcessor.html#a46bc1b738f48261e0c430f7345f4d99f" title="PlayProcessor::process" alt="" coords="234,436,405,463"/>
+<area shape="rect" id="node14" href="$classPassthroughProcessor.html#a10fbf639d2b8899ef15011532da47ad8" title="PassthroughProcessor\l::process" alt="" coords="237,487,401,529"/>
+<area shape="rect" id="node3" href="$classAudioIO.html#a1e4157d1900df901a60d5a2260d7509c" title="AudioIO::open" alt="" coords="534,5,647,32"/>
+<area shape="rect" id="node4" href="$classAudioIO.html#a012ce924f59ced78f2fac75e6e33b55c" title="AudioIO::AudioIO" alt="" coords="740,31,872,57"/>
+<area shape="rect" id="node10" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="489,284,692,311"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="LoopManager::GetPos" name="LoopManager::GetPos">
+<area shape="rect" id="node2" href="$classFweelin.html#a10bb364ecf38990653b49a98c5a89c90" title="Fweelin::getTMAP" alt="" coords="237,5,375,32"/>
+<area shape="rect" id="node3" href="$classTriggerMap.html#aca3f85b40f3aa29a280c2d7511b84217" title="TriggerMap::GetMap" alt="" coords="231,56,381,83"/>
+<area shape="rect" id="node4" href="$classAudioBlock.html#a380880c91c3af2322d232ce2de83b881" title="AudioBlock::GetTotalLen" alt="" coords="216,107,396,133"/>
+<area shape="rect" id="node5" href="$classPulse.html#ac23f657cca68747e251b1b927a11ba0f" title="Pulse::QuantizeLength" alt="" coords="223,157,389,184"/>
+<area shape="rect" id="node6" href="$classPulse.html#a7df09d55ecd7193d5491170e6888350a" title="Pulse::round" alt="" coords="444,157,547,184"/>
+</map>

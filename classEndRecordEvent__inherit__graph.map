@@ -1,0 +1,4 @@
+<map id="EndRecordEvent" name="EndRecordEvent">
+<area shape="rect" id="node2" href="$classEvent.html" title="{Event\n|+ from\l+ to\l+ next\l+ time\l+ echo\l+ ett\l|+ Event()\l+ ~Event()\l+ Recycle()\l+ operator=()\l+ GetType()\l+ GetNumParams()\l+ GetParam()\l+ GetMemMgrByType()\l+ GetEventByName()\l+ GetEventByType()\l+ GetParamIdxByType()\l+ GetEventName()\l+ SetupEventTypeTable()\l+ TakedownEventTypeTable()\l}" alt="" coords="7,395,221,736"/>
+<area shape="rect" id="node3" href="$classPreallocated.html" title="{Preallocated\n|+ prealloc_num_free\l+ prealloc_next\l+ PREALLOC_BASE_INSTANCE\l+ PREALLOC_IN_USE\l+ PREALLOC_FREE\l&#45; FWMEM_DEFINE_DELBLOCK\l&#45; prealloc_status\l&#45; prealloc_mgr\l&#45; predata\l|+ Preallocated()\l+ ~Preallocated()\l+ operator new()\l+ operator delete()\l+ RTNew()\l+ RTNewWithWait()\l+ RTDelete()\l+ GetMgr()\l+ SetupPreallocated()\l&#45; NewInstance()\l&#45; Recycle()\l}" alt="" coords="5,5,223,347"/>
+</map>

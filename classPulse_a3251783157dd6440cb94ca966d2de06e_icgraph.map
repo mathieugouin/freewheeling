@@ -1,0 +1,7 @@
+<map id="Pulse::DelPulseSync" name="Pulse::DelPulseSync">
+<area shape="rect" id="node2" href="$classRecordProcessor.html#a63fbf98c72bafa6c2e24a3962bdae70c" title="RecordProcessor::~Record\lProcessor" alt="" coords="222,5,414,47"/>
+<area shape="rect" id="node3" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="217,71,419,98"/>
+<area shape="rect" id="node4" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="225,122,411,149"/>
+<area shape="rect" id="node5" href="$classPlayProcessor.html#a3df8da4a26e768d00b0cfada90b37cc9" title="PlayProcessor::~PlayProcessor" alt="" coords="207,173,429,199"/>
+<area shape="rect" id="node6" href="$classPlayProcessor.html#a46bc1b738f48261e0c430f7345f4d99f" title="PlayProcessor::process" alt="" coords="233,223,403,250"/>
+</map>

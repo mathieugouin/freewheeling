@@ -1,0 +1,6 @@
+<map id="RTDataStruct_Updater" name="RTDataStruct_Updater">
+<area shape="rect" id="node2" href="$classRT__RCU.html" title="{RT_RCU\n|&#45; global_time_count\l&#45; last_update_time\l&#45; reader_lock_times\l&#45; num_readers\l|+ RT_RCU()\l+ ~RT_RCU()\l+ ReadLock()\l+ ReadUnlock()\l+ Update()\l+ Synchronize()\l&#45; UpdateNumRWThreads()\l}" alt="" coords="5,131,197,340"/>
+<area shape="rect" id="node3" href="$classSRMWRingBuffer.html" title="{SRMWRingBuffer\&lt; T \&gt;\n|&#45; wbufs\l&#45; numel\l&#45; num_writers\l&#45; tmpread\l|+ SRMWRingBuffer()\l+ ~SRMWRingBuffer()\l+ WriteElement()\l+ ReadElement()\l&#45; UpdateNumRWThreads()\l}" alt="" coords="221,145,413,325"/>
+<area shape="rect" id="node4" href="$classSRMWRingBuffer.html" title="{SRMWRingBuffer\&lt; Event *\&gt;\n|&#45; wbufs\l&#45; numel\l&#45; num_writers\l&#45; tmpread\l|+ SRMWRingBuffer()\l+ ~SRMWRingBuffer()\l+ WriteElement()\l+ ReadElement()\l&#45; UpdateNumRWThreads()\l}" alt="" coords="437,145,643,325"/>
+<area shape="rect" id="node5" href="$classSRMWRingBuffer.html" title="{SRMWRingBuffer\&lt; MemoryManager\lUpdate \&gt;\n|&#45; wbufs\l&#45; numel\l&#45; num_writers\l&#45; tmpread\l|+ SRMWRingBuffer()\l+ ~SRMWRingBuffer()\l+ WriteElement()\l+ ReadElement()\l&#45; UpdateNumRWThreads()\l}" alt="" coords="667,138,922,333"/>
+</map>

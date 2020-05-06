@@ -1,0 +1,5 @@
+<map id="CfgMathOperation" name="CfgMathOperation">
+<area shape="rect" id="node2" href="$classCfgToken.html" title="{CfgToken\n||+ CfgToken()\l+ Print()\l+ Evaluate()\l}" alt="" coords="196,476,302,583"/>
+<area shape="rect" id="node4" href="$classUserVariable.html" title="{UserVariable\n||+ UserVariable()\l+ ~UserVariable()\l+ RaisePrecision()\l+ operator\&gt;()\l+ operator==()\l+ operator!=()\l+ operator+=()\l+ GetDelta()\l+ operator&#45;=()\l+ operator*=()\land 18 more...\l}" alt="" coords="178,175,320,399"/>
+<area shape="rect" id="node7" href="$classEventParameter.html" title="{EventParameter\n||+ EventParameter()\l}" alt="" coords="414,248,564,325"/>
+</map>

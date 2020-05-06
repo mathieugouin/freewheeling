@@ -1,0 +1,9 @@
+<map id="Fweelin::getLOOPSEL" name="Fweelin::getLOOPSEL">
+<area shape="rect" id="node2" href="$classLoopManager.html#af9b1708b49b00b353059227a458e1887" title="LoopManager::UpdateLoopLists\l_ItemRemoved" alt="" coords="212,70,437,111"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="984,132,1189,159"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#aeabdbc5dd40563f5c4577228908f5179" title="LoopManager::UpdateLoopLists\l_ItemMoved" alt="" coords="212,209,437,250"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a332a9868980750f28fbf0e05b2336174" title="LoopManager::DeleteLoop" alt="" coords="485,67,676,93"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a6048a702c9cec3676a1c56792b16ec44" title="LoopManager::ReadComplete" alt="" coords="724,5,936,32"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="733,56,927,83"/>
+<area shape="rect" id="node8" href="$classLoopManager.html#af67b2c3a3417115739cccbe6360828fe" title="LoopManager::MoveLoop" alt="" coords="489,213,672,240"/>
+</map>

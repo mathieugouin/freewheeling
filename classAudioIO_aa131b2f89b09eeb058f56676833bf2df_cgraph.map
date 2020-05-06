@@ -1,0 +1,9 @@
+<map id="AudioIO::process" name="AudioIO::process">
+<area shape="rect" id="node2" href="$classFweelin.html#a21e51d7b639faaecc415624ab6c16a71" title="Fweelin::getEMG" alt="" coords="244,5,375,32"/>
+<area shape="rect" id="node3" href="$classEventManager.html#a529567a1f3b56ecbc97aceec5ee0b46e" title="EventManager::WakeupIfNeeded" alt="" coords="192,56,427,83"/>
+<area shape="rect" id="node4" href="$classFweelin.html#a2fd02f86f34253432dd13776434f16db" title="Fweelin::getMMG" alt="" coords="243,107,376,133"/>
+<area shape="rect" id="node5" href="$classMemoryManager.html#ab15be510a88e9eab04db2d6554d7e947" title="MemoryManager::WakeupIfNeeded" alt="" coords="184,157,435,184"/>
+<area shape="rect" id="node6" href="$classFweelin.html#a8a0d86de153c3778719cdd96fa2f7e5a" title="Fweelin::getABUFS" alt="" coords="237,208,381,235"/>
+<area shape="rect" id="node7" href="$classFweelin.html#a538440216608aed67e6940c2903c3072" title="Fweelin::getBUFSZ" alt="" coords="237,259,381,285"/>
+<area shape="rect" id="node8" href="$classProcessor.html#a2a6ea9cec150529a6b61898634540254" title="Processor::process" alt="" coords="238,309,381,336"/>
+</map>

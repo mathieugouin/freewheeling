@@ -1,0 +1,17 @@
+<map id="TriggerMap::GoSave" name="TriggerMap::GoSave">
+<area shape="rect" id="node2" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="773,21,899,48"/>
+<area shape="rect" id="node3" href="$classFloConfig.html#a9acc5e0790ab29fe30856d58c5ffa0e8" title="FloConfig::GetLibraryPath" alt="" coords="743,72,929,98"/>
+<area shape="rect" id="node4" href="$classFweelin.html#a91b18ce962a309b483f19e75c5f5a040" title="Fweelin::getSNAPS" alt="" coords="256,249,400,276"/>
+<area shape="rect" id="node5" href="$classFloConfig.html#a15b1ee51e84fb75465286ea8b7f3fe24" title="FloConfig::GetMaxSnapshots" alt="" coords="225,300,431,326"/>
+<area shape="rect" id="node6" href="$classFweelin.html#a8c82599ae1dafbc94ce4741de86f12bd" title="Fweelin::getBROWSER" alt="" coords="245,350,411,377"/>
+<area shape="rect" id="node7" href="$classFweelin.html#a5f9e0154dbb2ea46fb51beb0042cbcb6" title="Fweelin::setCURSCENE" alt="" coords="243,401,413,428"/>
+<area shape="rect" id="node8" href="$classFweelin.html#a7b1253ea49ee57244a0d8cca152d72e5" title="Fweelin::getLOOPMGR" alt="" coords="245,452,411,478"/>
+<area shape="rect" id="node9" href="$classLoopManager.html#a0c2604681ae7de5415cef3f2690e4a0c" title="LoopManager::AddSceneToBrowser" alt="" coords="204,148,452,174"/>
+<area shape="rect" id="node15" href="$classBrowser.html#aa33b6a26b512beffbe68bbcd2153c123" title="Browser::AddDivisions" alt="" coords="244,198,412,225"/>
+<area shape="rect" id="node10" href="$classBrowser.html#a614d2a2fddedf26b70ffba07b73a0678" title="Browser::GetDisplayName" alt="" coords="500,122,695,149"/>
+<area shape="rect" id="node13" href="$classBrowser.html#ade418b60a9e0e49826acb66811ac8af0" title="Browser::AddItem" alt="" coords="528,173,667,200"/>
+<area shape="rect" id="node11" href="$classSaveable.html#a4e8b7b5e6fe537a5c68c35927741a6e3" title="Saveable::SplitFilename" alt="" coords="747,173,925,200"/>
+<area shape="rect" id="node12" href="$classSaveable.html#afd744adf4ac3fbee68114daa3c513326" title="Saveable::GetHashFirst" alt="" coords="749,122,923,149"/>
+<area shape="rect" id="node14" href="$classBrowserItem.html#ae46a902950af8f0613490012a75c8194" title="BrowserItem::Compare" alt="" coords="750,224,922,250"/>
+<area shape="rect" id="node16" href="$classBrowserItem.html#a4ebfa0b72dd5eec1c43ed1b65287ae47" title="BrowserItem::GetType" alt="" coords="514,274,681,301"/>
+</map>

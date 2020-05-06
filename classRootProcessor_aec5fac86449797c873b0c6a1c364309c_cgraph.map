@@ -1,0 +1,9 @@
+<map id="RootProcessor::RootProcessor" name="RootProcessor::RootProcessor">
+<area shape="rect" id="node2" href="$classFweelin.html#a538440216608aed67e6940c2903c3072" title="Fweelin::getBUFSZ" alt="" coords="301,5,445,32"/>
+<area shape="rect" id="node3" href="$classAudioBuffers.html#ae41352754c280c76eb03a902cbe6819a" title="AudioBuffers::IsStereoMaster" alt="" coords="268,56,479,83"/>
+<area shape="rect" id="node7" href="$classFweelin.html#a21e51d7b639faaecc415624ab6c16a71" title="Fweelin::getEMG" alt="" coords="308,107,439,133"/>
+<area shape="rect" id="node8" href="$classEventManager.html#a900be2c959408f76e6926c96197bd773" title="EventManager::ListenEvent" alt="" coords="274,157,473,184"/>
+<area shape="rect" id="node4" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="557,31,683,57"/>
+<area shape="rect" id="node5" href="$classFloConfig.html#ac0e1101c8fc196548c0e1dc26251ea2b" title="FloConfig::IsStereoMaster" alt="" coords="527,81,713,108"/>
+<area shape="rect" id="node6" href="$classAudioBuffers.html#a3178afd68c48f41060d100606623a704" title="AudioBuffers::GetIntAudioIns" alt="" coords="761,81,971,108"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="FloDisplayBarSwitch" name="FloDisplayBarSwitch">
+<area shape="rect" id="node2" href="$classFloDisplayBar.html" title="{FloDisplayBar\n|+ orient\l+ barscale\l+ thickness\l+ dbscale\l+ marks\l+ maxdb\l|+ FloDisplayBar()\l+ Draw()\l}" alt="" coords="32,321,169,487"/>
+<area shape="rect" id="node3" href="$classFloDisplay.html" title="{FloDisplay\n|+ iid\l+ id\l+ exp\l+ font\l+ title\l+ xpos\l+ ypos\l+ show\l+ forceshow\l+ next\l|+ FloDisplay()\l+ ~FloDisplay()\l+ Draw()\l+ GetFloDisplayType()\l+ SetShow()\l}" alt="" coords="17,5,185,273"/>
+</map>

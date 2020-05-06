@@ -1,0 +1,19 @@
+<map id="mygettime" name="mygettime">
+<area shape="rect" id="node2" href="$classBrowser.html#a71b602afb445cf9d41ef51ddc2696485" title="Browser::MoveTo" alt="" coords="195,5,327,32"/>
+<area shape="rect" id="node3" href="$classPatchBrowser.html#abc016bb41caba0f8e6a55746169198d8" title="PatchBrowser::PB_MoveTo" alt="" coords="166,56,357,83"/>
+<area shape="rect" id="node4" href="$classPatchBrowser.html#aaf90630fae2ca039c53fe9e33f6a4d6e" title="PatchBrowser::PB_MoveToIndex" alt="" coords="148,107,375,133"/>
+<area shape="rect" id="node5" href="$classItemRenamer.html#a1769ff20cc01293b9ef3c4bf17cca172" title="ItemRenamer::UpdateUIVars" alt="" coords="158,157,365,184"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#a306ffe72c9623e33cad280ec3609c359" title="LoopManager::SetupSaveLoop" alt="" coords="153,208,370,235"/>
+<area shape="rect" id="node9" href="$classTriggerMap.html#ac8dd153318fc2546c999bd5184c827cf" title="TriggerMap::TouchMap" alt="" coords="179,259,344,285"/>
+<area shape="rect" id="node15" href="$classVideoIO.html#a50e4ccae99e278ed7d65d9db86f18c92" title="VideoIO::video_event_loop" alt="" coords="163,309,359,336"/>
+<area shape="rect" id="node17" href="$classBrowser.html#a2a4eb726037fdc8fa85b51483eef8c0b" title="Browser::Draw" alt="" coords="203,360,320,387"/>
+<area shape="rect" id="node18" href="$classFloDisplayCircleSwitch.html#a592f8a024274ed06523ad2e71402fe05" title="FloDisplayCircleSwitch\l::Draw" alt="" coords="176,411,347,453"/>
+<area shape="rect" id="node6" href="$classVideoIO.html#adca60a99be6e51d8af7ce2a32f92349a" title="VideoIO::DrawLoop" alt="" coords="455,132,601,159"/>
+<area shape="rect" id="node8" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="423,183,633,209"/>
+<area shape="rect" id="node10" href="$classFweelin.html#a46ac4eb76aa2025f2bec97c23658abef" title="Fweelin::CreateSnapshot" alt="" coords="437,233,619,260"/>
+<area shape="rect" id="node11" href="$classFweelin.html#aae8cb8c1b763a13c1d906e45b5d0690b" title="Fweelin::SwapSnapshots" alt="" coords="437,284,619,311"/>
+<area shape="rect" id="node13" href="$classFweelin.html#a057cfd43583e073f0216dd275e4b26a7" title="Fweelin::LoadSnapshot" alt="" coords="443,335,613,361"/>
+<area shape="rect" id="node12" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="681,284,887,311"/>
+<area shape="rect" id="node14" href="$classLoopManager.html#a05a6a438d14482e2f22aa802cfb432e8" title="LoopManager::LoadScene" alt="" coords="691,335,877,361"/>
+<area shape="rect" id="node16" href="$classVideoIO.html#adb25c81a2bfe792fd4f64e23a4e21176" title="VideoIO::run_video\l_thread" alt="" coords="455,386,601,427"/>
+</map>

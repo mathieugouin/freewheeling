@@ -1,0 +1,9 @@
+<map id="EventManager::BroadcastEvent" name="EventManager::BroadcastEvent">
+<area shape="rect" id="node2" href="$classLoopTray.html#ad51e58a17792f36a249b1543a96a02a6" title="LoopTray::MouseButton" alt="" coords="312,5,484,32"/>
+<area shape="rect" id="node3" href="$classRootProcessor.html#acb13a2a0320ef6b5a57ede966e468842" title="RootProcessor::UpdateProcessors" alt="" coords="279,56,517,83"/>
+<area shape="rect" id="node5" href="$classRecordProcessor.html#a9984f573bbc265321ad0604f97b23820" title="RecordProcessor::EndNow" alt="" coords="303,119,493,145"/>
+<area shape="rect" id="node4" href="$classRootProcessor.html#a014d1405fbd7d67ee4edeb19713ded04" title="RootProcessor::process" alt="" coords="581,43,753,69"/>
+<area shape="rect" id="node6" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="565,93,768,120"/>
+<area shape="rect" id="node7" href="$classRecordProcessor.html#ab035edfb707f8f1066b3597df7ddda7d" title="RecordProcessor::End" alt="" coords="586,144,747,171"/>
+<area shape="rect" id="node8" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="573,195,760,221"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="LoopManager::ItemRenamed" name="LoopManager::ItemRenamed">
+<area shape="rect" id="node2" href="$classBrowserItem.html#a4ebfa0b72dd5eec1c43ed1b65287ae47" title="BrowserItem::GetType" alt="" coords="283,5,450,32"/>
+<area shape="rect" id="node3" href="$classSaveable.html#adae4cd33642810eed468c68042afe01e" title="Saveable::RenameSaveable" alt="" coords="520,21,723,48"/>
+<area shape="rect" id="node4" href="$classSaveable.html#a4e8b7b5e6fe537a5c68c35927741a6e3" title="Saveable::SplitFilename" alt="" coords="771,72,949,99"/>
+<area shape="rect" id="node5" href="$classSaveable.html#ae80419c61613dd2ec659d23b3fe0e788" title="Saveable::SetSaveableHash\lFromText" alt="" coords="265,107,469,149"/>
+<area shape="rect" id="node7" href="$classSaveable.html#aa0fb624a251c8ec60d9e410aa1ffe2dd" title="Saveable::GetSaveHash" alt="" coords="277,224,456,251"/>
+<area shape="rect" id="node8" href="$classLoopTray.html#a2bbe0c7c1a38e03de0d315a9c68befcc" title="LoopTray::ItemRenamedFrom\lOutside" alt="" coords="261,275,472,317"/>
+<area shape="rect" id="node6" href="$classSaveable.html#a60561f2bd64b6e0044bae84729d3a01a" title="Saveable::SetSaveStatus" alt="" coords="529,123,713,149"/>
+</map>

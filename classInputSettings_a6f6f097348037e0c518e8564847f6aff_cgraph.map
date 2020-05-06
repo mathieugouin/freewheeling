@@ -1,0 +1,7 @@
+<map id="InputSettings::SetInputVol" name="InputSettings::SetInputVol">
+<area shape="rect" id="node2" href="$classAudioLevel.html#a6237f0fe89cafad73b27ffdd837c20d3" title="AudioLevel::fader_to_dB" alt="" coords="251,31,431,57"/>
+<area shape="rect" id="node5" href="$classFweelin.html#a681d7ca8d0789199af135f22c26a5409" title="Fweelin::getCFG" alt="" coords="278,81,405,108"/>
+<area shape="rect" id="node6" href="$classFloConfig.html#afe89a160de65636f17710e04713e5127" title="FloConfig::GetFaderMaxDB" alt="" coords="244,132,439,159"/>
+<area shape="rect" id="node3" href="$fweelin__core__dsp_8cc.html#aa8e70840b54e71eb9300384906358f42" title="iec_dB_to_fader" alt="" coords="487,5,613,32"/>
+<area shape="rect" id="node4" href="$fweelin__core__dsp_8cc.html#aef093fccb62a8f826bff45f18e39cf5d" title="iec_fader_to_dB" alt="" coords="487,56,613,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="FloConfig::GetNumTriggers" name="FloConfig::GetNumTriggers">
+<area shape="rect" id="node2" href="$classTriggerMap.html#aaa7bec4f62540981d1e5703fe8ed575e" title="TriggerMap::Save" alt="" coords="286,56,419,83"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="1029,81,1235,108"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="517,157,711,184"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#a87f2148eddda1d6e097ecb6612e56dfa" title="LoopManager::GetLongCount\lForAllPlayingLoops" alt="" coords="248,209,457,250"/>
+<area shape="rect" id="node8" href="$classOSCClient.html#acbb974bf11667aa6fb48c111ae14a4fe" title="OSCClient::SendPlayingLoops" alt="" coords="507,245,721,272"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#ac2adaa8b989e1284abf17fc07eb0baf2" title="LoopManager::SaveNewScene" alt="" coords="505,56,723,83"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#abd2cda6ecc976fd447167d5de7cc5912" title="LoopManager::SaveCurScene" alt="" coords="771,5,981,32"/>
+<area shape="rect" id="node9" href="$classOSCClient.html#a8b38ea5b76702f9e763daeb694091116" title="OSCClient::ReceiveEvent" alt="" coords="785,245,967,272"/>
+</map>

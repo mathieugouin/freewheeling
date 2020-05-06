@@ -1,0 +1,5 @@
+<map id="LoopManager::GetRoundedLength" name="LoopManager::GetRoundedLength">
+<area shape="rect" id="node2" href="$classOSCClient.html#acbb974bf11667aa6fb48c111ae14a4fe" title="OSCClient::SendPlayingLoops" alt="" coords="293,5,507,32"/>
+<area shape="rect" id="node4" href="$classVideoIO.html#adca60a99be6e51d8af7ce2a32f92349a" title="VideoIO::DrawLoop" alt="" coords="327,56,473,83"/>
+<area shape="rect" id="node3" href="$classOSCClient.html#a8b38ea5b76702f9e763daeb694091116" title="OSCClient::ReceiveEvent" alt="" coords="555,5,737,32"/>
+</map>

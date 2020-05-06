@@ -1,0 +1,7 @@
+<map id="Fweelin::getBROWSER" name="Fweelin::getBROWSER">
+<area shape="rect" id="node2" href="$classTriggerMap.html#a92e251eec5a7c5741807805b6869fab8" title="TriggerMap::GoSave" alt="" coords="253,5,404,32"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a306ffe72c9623e33cad280ec3609c359" title="LoopManager::SetupSaveLoop" alt="" coords="220,56,437,83"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a242f1bd7eba01c186de801ba393503e7" title="LoopManager::ItemRenamed" alt="" coords="225,107,433,133"/>
+<area shape="rect" id="node6" href="$classMidiIO.html#a222509803679fcf4bcb7b4b4a34cf0cd" title="MidiIO::activate" alt="" coords="267,157,391,184"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="485,31,696,57"/>
+</map>

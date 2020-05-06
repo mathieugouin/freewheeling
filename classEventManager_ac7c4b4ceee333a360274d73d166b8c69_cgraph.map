@@ -1,0 +1,4 @@
+<map id="EventManager::BroadcastEvent" name="EventManager::BroadcastEvent">
+<area shape="rect" id="node2" href="$classSRMWRingBuffer.html#a47699ccc0600c38559c8e10f0ca9bf3c" title="SRMWRingBuffer::WriteElement" alt="" coords="283,5,509,32"/>
+<area shape="rect" id="node3" href="$classEventManager.html#a529567a1f3b56ecbc97aceec5ee0b46e" title="EventManager::WakeupIfNeeded" alt="" coords="279,56,513,83"/>
+</map>

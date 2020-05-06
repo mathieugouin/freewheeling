@@ -1,0 +1,5 @@
+<map id="AudioBlockIterator::NextFragment" name="AudioBlockIterator::NextFragment">
+<area shape="rect" id="node2" href="$classAudioBlockIterator.html#a86cfc4c09c380d6304ed3aa6ff2ea17b" title="AudioBlockIterator\l::GetFragment" alt="" coords="196,5,339,47"/>
+<area shape="rect" id="node3" href="$classAudioBlock.html#ae7aec1591ed6f228799c11b650b2cc1b" title="AudioBlock::GetExtendedData" alt="" coords="387,13,605,39"/>
+<area shape="rect" id="node4" href="$classBlockExtendedData.html#ae33e9550384a32abf2a91386334a2be9" title="BlockExtendedData::\lGetType" alt="" coords="653,5,812,47"/>
+</map>

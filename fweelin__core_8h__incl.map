@@ -1,0 +1,17 @@
+<map id="src/fweelin_core.h" name="src/fweelin_core.h">
+<area shape="rect" id="node3" href="$fweelin__amixer_8h.html" title="fweelin_amixer.h" alt="" coords="313,80,447,107"/>
+<area shape="rect" id="node9" href="$fweelin__midiio_8h.html" title="fweelin_midiio.h" alt="" coords="581,80,712,107"/>
+<area shape="rect" id="node10" href="$fweelin__event_8h.html" title="fweelin_event.h" alt="" coords="683,304,810,331"/>
+<area shape="rect" id="node17" href="$fweelin__block_8h.html" title="fweelin_block.h" alt="" coords="1290,379,1414,405"/>
+<area shape="rect" id="node22" href="$fweelin__audioio_8h.html" title="fweelin_audioio.h" alt="" coords="1802,453,1939,480"/>
+<area shape="rect" id="node25" href="$fweelin__videoio_8h.html" title="fweelin_videoio.h" alt="" coords="858,229,995,256"/>
+<area shape="rect" id="node28" href="$fweelin__sdlio_8h.html" title="fweelin_sdlio.h" alt="" coords="460,229,580,256"/>
+<area shape="rect" id="node29" href="$fweelin__rcu_8h.html" title="fweelin_rcu.h" alt="" coords="2044,379,2153,405"/>
+<area shape="rect" id="node31" href="$fweelin__core__dsp_8h.html" title="fweelin_core_dsp.h" alt="" coords="1676,80,1823,107"/>
+<area shape="rect" id="node34" href="$fweelin__config_8h.html" title="fweelin_config.h" alt="" coords="1295,155,1423,181"/>
+<area shape="rect" id="node38" href="$fweelin__fluidsynth_8h.html" title="fweelin_fluidsynth.h" alt="" coords="1629,229,1782,256"/>
+<area shape="rect" id="node39" href="$fweelin__browser_8h.html" title="fweelin_browser.h" alt="" coords="1079,80,1219,107"/>
+<area shape="rect" id="node40" href="$fweelin__osc_8h.html" title="fweelin_osc.h" alt="" coords="2061,80,2171,107"/>
+<area shape="rect" id="node15" href="$fweelin__datatypes_8h.html" title="fweelin_datatypes.h" alt="" coords="1429,528,1584,555"/>
+<area shape="rect" id="node24" href="$fweelin__mem_8h.html" title="fweelin_mem.h" alt="" coords="1445,453,1568,480"/>
+</map>

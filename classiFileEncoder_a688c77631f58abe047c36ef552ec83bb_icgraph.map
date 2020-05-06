@@ -1,0 +1,8 @@
+<map id="iFileEncoder::PrepareFileForClosing" name="iFileEncoder::PrepareFileForClosing">
+<area shape="rect" id="node2" href="$classBlockWriteManager.html#a71f78a8f8c3f49e7e311e8553b5fa029" title="BlockWriteManager::End" alt="" coords="237,91,417,118"/>
+<area shape="rect" id="node6" href="$classFileStreamer.html#a89b7803d85f99c20fb0e3722c12b4323" title="FileStreamer::run_encode\l_thread" alt="" coords="233,155,420,196"/>
+<area shape="rect" id="node3" href="$classBlockWriteManager.html#ac169c86e8b5a32eee41db76a58d9aee5" title="BlockWriteManager::\l~BlockWriteManager" alt="" coords="496,5,655,47"/>
+<area shape="rect" id="node4" href="$classBlockWriteManager.html#a0b50330873c237f482c48aa06a4b1a9a" title="BlockWriteManager::\lManage" alt="" coords="497,71,653,112"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#aadca58536e41c8b0b8fd148ac40b23c0" title="LoopManager::~LoopManager" alt="" coords="468,137,683,163"/>
+<area shape="rect" id="node7" href="$classFileStreamer.html#a1cc038c52d8211d59503a4e7f8a16cd9" title="FileStreamer::FileStreamer" alt="" coords="478,187,673,214"/>
+</map>

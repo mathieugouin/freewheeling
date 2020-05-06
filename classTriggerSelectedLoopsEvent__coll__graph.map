@@ -1,0 +1,17 @@
+<map id="TriggerSelectedLoopsEvent" name="TriggerSelectedLoopsEvent">
+<area shape="rect" id="node2" href="$classEvent.html" title="{Event\n||+ Event()\l+ ~Event()\l+ Recycle()\l+ operator=()\l+ GetType()\l+ GetNumParams()\l+ GetParam()\l+ GetMemMgrByType()\l+ GetEventByName()\l+ GetEventByType()\l+ GetParamIdxByType()\l+ GetEventName()\l+ SetupEventTypeTable()\l+ TakedownEventTypeTable()\l}" alt="" coords="710,1208,923,1476"/>
+<area shape="rect" id="node24" href="$classEventTypeTable.html" title="{EventTypeTable\n||+ EventTypeTable()\l}" alt="" coords="376,1575,524,1653"/>
+<area shape="rect" id="node3" href="$classPreallocated.html" title="{Preallocated\n|&#45; FWMEM_DEFINE_DELBLOCK\l|+ Preallocated()\l+ ~Preallocated()\l+ operator new()\l+ operator delete()\l+ RTNew()\l+ RTNewWithWait()\l+ RTDelete()\l+ GetMgr()\l+ SetupPreallocated()\l&#45; NewInstance()\l&#45; Recycle()\l}" alt="" coords="1106,921,1317,1145"/>
+<area shape="rect" id="node4" href="$classPreallocatedType.html" title="{PreallocatedType\n||+ PreallocatedType()\l+ ~PreallocatedType()\l+ RTNew()\l+ RTNewWithWait()\l+ RTDelete()\l+ GoPreallocate()\l+ GoPostdelete()\l+ Cleanup()\l+ GetBlockSize()\l}" alt="" coords="599,543,768,737"/>
+<area shape="rect" id="node15" href="$classMemoryManagerUpdate.html" title="{MemoryManagerUpdate\n||+ MemoryManagerUpdate()\l+ MemoryManagerUpdate()\l+ IsValid()\l}" alt="" coords="1422,1289,1625,1395"/>
+<area shape="rect" id="node5" href="$classSListItem.html" title="{SListItem\n||+ SListItem()\l}" alt="" coords="293,373,401,451"/>
+<area shape="rect" id="node9" href="$classSLinkList.html" title="{SLinkList\n||+ SLinkList()\l+ AddToHead()\l+ FindAndRemove()\l+ GetFirstItem()\l+ GetNextItem()\l}" alt="" coords="5,761,156,897"/>
+<area shape="rect" id="node6" href="$classMemoryManager.html" title="{MemoryManager\n||+ MemoryManager()\l+ ~MemoryManager()\l+ AddType()\l+ DelType()\l+ WakeUp()\l+ WakeupIfNeeded()\l&#45; ProcessQueue()\l&#45; run_mgr_thread()\l}" alt="" coords="1896,1752,2063,1932"/>
+<area shape="rect" id="node13" href="$classSRMWRingBuffer.html" title="{SRMWRingBuffer\&lt; MemoryManager\lUpdate \&gt;\n||+ SRMWRingBuffer()\l+ ~SRMWRingBuffer()\l+ WriteElement()\l+ ReadElement()\l&#45; UpdateNumRWThreads()\l}" alt="" coords="1700,1539,1955,1689"/>
+<area shape="rect" id="node19" href="$classRTStore.html" title="{RTStore\&lt; PreallocatedInstance \&gt;\n||+ RTStore()\l+ ~RTStore()\l+ FindItemWithState()\l+ ChangeStateAtIdx()\l+ GetItemAtIdx()\l}" alt="" coords="833,344,1072,480"/>
+<area shape="rect" id="node20" href="$classRTStore_1_1RTStoreItem.html" title="{RTStore\&lt; T \&gt;::RTStoreItem\n||+ RTStoreItem()\l}" alt="" coords="853,145,1052,223"/>
+<area shape="rect" id="node14" href="$classRTDataStruct__Updater.html" title="{RTDataStruct_Updater\n||# UpdateNumRWThreads()\l}" alt="" coords="1699,1303,1897,1381"/>
+<area shape="rect" id="node21" href="$classT.html" title="{T\n||}" alt="" coords="200,5,239,83"/>
+<area shape="rect" id="node23" href="$classEventListener.html" title="{EventListener\n||+ ReceiveEvent()\l}" alt="" coords="635,995,769,1072"/>
+<area shape="rect" id="node25" href="$classEventProducer.html" title="{EventProducer\n||}" alt="" coords="793,995,909,1072"/>
+</map>

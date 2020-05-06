@@ -1,0 +1,5 @@
+<map id="LoopManager::GetLength" name="LoopManager::GetLength">
+<area shape="rect" id="node2" href="$classFweelin.html#a10bb364ecf38990653b49a98c5a89c90" title="Fweelin::getTMAP" alt="" coords="259,5,396,32"/>
+<area shape="rect" id="node3" href="$classTriggerMap.html#aca3f85b40f3aa29a280c2d7511b84217" title="TriggerMap::GetMap" alt="" coords="252,56,403,83"/>
+<area shape="rect" id="node4" href="$classAudioBlock.html#a380880c91c3af2322d232ce2de83b881" title="AudioBlock::GetTotalLen" alt="" coords="237,107,417,133"/>
+</map>

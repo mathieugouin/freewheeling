@@ -1,0 +1,18 @@
+<map id="src/fweelin_amixer.cc" name="src/fweelin_amixer.cc">
+<area shape="rect" id="node2" href="$fweelin__amixer_8h.html" title="fweelin_amixer.h" alt="" coords="1185,80,1319,107"/>
+<area shape="rect" id="node8" href="$fweelin__core_8h.html" title="fweelin_core.h" alt="" coords="1252,155,1369,181"/>
+<area shape="rect" id="node10" href="$fweelin__midiio_8h.html" title="fweelin_midiio.h" alt="" coords="1660,229,1791,256"/>
+<area shape="rect" id="node11" href="$fweelin__event_8h.html" title="fweelin_event.h" alt="" coords="1373,453,1499,480"/>
+<area shape="rect" id="node18" href="$fweelin__block_8h.html" title="fweelin_block.h" alt="" coords="1114,528,1238,555"/>
+<area shape="rect" id="node23" href="$fweelin__audioio_8h.html" title="fweelin_audioio.h" alt="" coords="217,603,354,629"/>
+<area shape="rect" id="node26" href="$fweelin__videoio_8h.html" title="fweelin_videoio.h" alt="" coords="930,379,1067,405"/>
+<area shape="rect" id="node29" href="$fweelin__sdlio_8h.html" title="fweelin_sdlio.h" alt="" coords="1524,379,1644,405"/>
+<area shape="rect" id="node30" href="$fweelin__rcu_8h.html" title="fweelin_rcu.h" alt="" coords="1748,528,1857,555"/>
+<area shape="rect" id="node32" href="$fweelin__core__dsp_8h.html" title="fweelin_core_dsp.h" alt="" coords="1237,229,1384,256"/>
+<area shape="rect" id="node35" href="$fweelin__config_8h.html" title="fweelin_config.h" alt="" coords="727,304,855,331"/>
+<area shape="rect" id="node39" href="$fweelin__fluidsynth_8h.html" title="fweelin_fluidsynth.h" alt="" coords="94,379,247,405"/>
+<area shape="rect" id="node40" href="$fweelin__browser_8h.html" title="fweelin_browser.h" alt="" coords="958,229,1098,256"/>
+<area shape="rect" id="node41" href="$fweelin__osc_8h.html" title="fweelin_osc.h" alt="" coords="1525,229,1635,256"/>
+<area shape="rect" id="node16" href="$fweelin__datatypes_8h.html" title="fweelin_datatypes.h" alt="" coords="1455,677,1609,704"/>
+<area shape="rect" id="node25" href="$fweelin__mem_8h.html" title="fweelin_mem.h" alt="" coords="1449,603,1572,629"/>
+</map>

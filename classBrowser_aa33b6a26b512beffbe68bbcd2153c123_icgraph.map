@@ -1,0 +1,7 @@
+<map id="Browser::AddDivisions" name="Browser::AddDivisions">
+<area shape="rect" id="node2" href="$classLoopManager.html#a860dd45d2721ff2c9912e53bb1486722" title="LoopManager::SetupLoopBrowser" alt="" coords="225,5,464,32"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#ad1c61813e7c16f4b973a3087413eed84" title="LoopManager::SetupSceneBrowser" alt="" coords="221,56,468,83"/>
+<area shape="rect" id="node4" href="$classTriggerMap.html#a92e251eec5a7c5741807805b6869fab8" title="TriggerMap::GoSave" alt="" coords="269,107,420,133"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#a306ffe72c9623e33cad280ec3609c359" title="LoopManager::SetupSaveLoop" alt="" coords="236,157,453,184"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a00143be12c150c0a89c4f99c1e8d5e70" title="LoopManager::GetWriteBlock" alt="" coords="516,132,727,159"/>
+</map>

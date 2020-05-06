@@ -1,0 +1,7 @@
+<map id="Saveable::Save" name="Saveable::Save">
+<area shape="rect" id="node2" href="$classLoop.html#a5cdc1a1f946d8e1c694f4b78c372753e" title="Loop::InitLoop" alt="" coords="211,31,324,57"/>
+<area shape="rect" id="node6" href="$classTriggerMap.html#a9d3967aeaeb355ea588e97e9a465e18d" title="TriggerMap::~TriggerMap" alt="" coords="176,81,359,108"/>
+<area shape="rect" id="node3" href="$classLoopManager.html#a861cdd2ace9aeb53b4ecf92728215265" title="LoopManager::Deactivate" alt="" coords="407,31,595,57"/>
+<area shape="rect" id="node4" href="$classFweelin.html#a4654015e2bc7cc94f3bfc421899a60d3" title="Fweelin::TriggerSnapshot" alt="" coords="643,5,827,32"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="875,31,1080,57"/>
+</map>

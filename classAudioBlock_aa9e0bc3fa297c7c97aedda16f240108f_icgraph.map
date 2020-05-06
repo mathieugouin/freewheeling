@@ -1,0 +1,12 @@
+<map id="AudioBlock::HackTotalLengthBy" name="AudioBlock::HackTotalLengthBy">
+<area shape="rect" id="node2" href="$classAudioBlock.html#a09c778d19d7d45dbb68951fabff2f518" title="AudioBlock::Smooth" alt="" coords="281,198,435,225"/>
+<area shape="rect" id="node3" href="$classBlockReadManager.html#a0956beb932559fdea3ecca152db2bd0a" title="BlockReadManager::End" alt="" coords="489,122,667,149"/>
+<area shape="rect" id="node8" href="$classRecordProcessor.html#a9984f573bbc265321ad0604f97b23820" title="RecordProcessor::EndNow" alt="" coords="483,249,673,275"/>
+<area shape="rect" id="node4" href="$classBlockReadManager.html#a935aa663d9fa5b6d346f77c7b3882e2b" title="BlockReadManager::\l~BlockReadManager" alt="" coords="750,5,907,47"/>
+<area shape="rect" id="node5" href="$classBlockReadManager.html#af12804c61f944904eedf8c9edf5cd3bd" title="BlockReadManager::Start" alt="" coords="736,71,921,98"/>
+<area shape="rect" id="node6" href="$classBlockReadManager.html#aa990976dec4a3ec5bd6384b54ce5f09b" title="BlockReadManager::Manage" alt="" coords="984,97,1189,123"/>
+<area shape="rect" id="node7" href="$classLoopManager.html#aadca58536e41c8b0b8fd148ac40b23c0" title="LoopManager::~LoopManager" alt="" coords="721,173,936,199"/>
+<area shape="rect" id="node9" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="727,223,930,250"/>
+<area shape="rect" id="node10" href="$classRecordProcessor.html#ab035edfb707f8f1066b3597df7ddda7d" title="RecordProcessor::End" alt="" coords="748,274,909,301"/>
+<area shape="rect" id="node11" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="735,325,922,351"/>
+</map>

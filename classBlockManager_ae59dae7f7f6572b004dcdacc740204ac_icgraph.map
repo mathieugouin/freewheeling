@@ -1,0 +1,23 @@
+<map id="BlockManager::DelManager" name="BlockManager::DelManager">
+<area shape="rect" id="node2" href="$classBlockManager.html#ac12004ae7d335e81c7cbd463cd614b34" title="BlockManager::GrowChainOn" alt="" coords="254,85,465,112"/>
+<area shape="rect" id="node4" href="$classBlockManager.html#add099506b29910e9dabdab9f6a1af92f" title="BlockManager::GrowChainOff" alt="" coords="253,187,465,213"/>
+<area shape="rect" id="node15" href="$classBlockManager.html#af050835c736257358a3f572f8422ff1d" title="BlockManager::PeakAvgOn" alt="" coords="261,340,457,367"/>
+<area shape="rect" id="node19" href="$classBlockManager.html#a7380825963fc62c90186a0b3c72e8d89" title="BlockManager::PeakAvgOff" alt="" coords="261,237,458,264"/>
+<area shape="rect" id="node22" href="$classLoopManager.html#aadca58536e41c8b0b8fd148ac40b23c0" title="LoopManager::~LoopManager" alt="" coords="805,441,1020,468"/>
+<area shape="rect" id="node3" href="$classRecordProcessor.html#aa20c0f68a5ee5e4739759b3783b6e4d1" title="RecordProcessor::RecordProcessor" alt="" coords="513,60,757,87"/>
+<area shape="rect" id="node5" href="$classRecordProcessor.html#a9984f573bbc265321ad0604f97b23820" title="RecordProcessor::EndNow" alt="" coords="817,107,1008,133"/>
+<area shape="rect" id="node9" href="$classRecordProcessor.html#a5bce44b8a038567efcf660cfeeae93f4" title="RecordProcessor::AbortRecording" alt="" coords="517,212,753,239"/>
+<area shape="rect" id="node6" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="1073,5,1275,32"/>
+<area shape="rect" id="node7" href="$classRecordProcessor.html#ab035edfb707f8f1066b3597df7ddda7d" title="RecordProcessor::End" alt="" coords="1093,56,1255,83"/>
+<area shape="rect" id="node8" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="1081,107,1267,133"/>
+<area shape="rect" id="node10" href="$classLoopManager.html#a332a9868980750f28fbf0e05b2336174" title="LoopManager::DeleteLoop" alt="" coords="817,157,1008,184"/>
+<area shape="rect" id="node14" href="$classRecordProcessor.html#a63fbf98c72bafa6c2e24a3962bdae70c" title="RecordProcessor::~Record\lProcessor" alt="" coords="817,209,1009,250"/>
+<area shape="rect" id="node11" href="$classLoopManager.html#a6048a702c9cec3676a1c56792b16ec44" title="LoopManager::ReadComplete" alt="" coords="1068,157,1280,184"/>
+<area shape="rect" id="node12" href="$classLoopManager.html#a8efb4c8acabceb10faa8660c14c89d71" title="LoopManager::DeletePulse" alt="" coords="1077,208,1271,235"/>
+<area shape="rect" id="node13" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="1328,233,1533,260"/>
+<area shape="rect" id="node16" href="$classBlockReadManager.html#af12804c61f944904eedf8c9edf5cd3bd" title="BlockReadManager::Start" alt="" coords="820,391,1005,417"/>
+<area shape="rect" id="node18" href="$classRecordProcessor.html#a1aea5f833c59a12398b05b514b26b572" title="RecordProcessor::RecordProcessor" alt="" coords="513,391,757,417"/>
+<area shape="rect" id="node17" href="$classBlockReadManager.html#aa990976dec4a3ec5bd6384b54ce5f09b" title="BlockReadManager::Manage" alt="" coords="1071,365,1277,392"/>
+<area shape="rect" id="node20" href="$classBlockReadManager.html#a0956beb932559fdea3ecca152db2bd0a" title="BlockReadManager::End" alt="" coords="546,289,725,316"/>
+<area shape="rect" id="node21" href="$classBlockReadManager.html#a935aa663d9fa5b6d346f77c7b3882e2b" title="BlockReadManager::\l~BlockReadManager" alt="" coords="834,274,991,315"/>
+</map>

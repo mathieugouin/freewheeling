@@ -1,0 +1,6 @@
+<map id="MidiIO::CheckUnbypass" name="MidiIO::CheckUnbypass">
+<area shape="rect" id="node2" href="$classPatchItem.html#a193dba9833309437fed1241957cd20dd" title="PatchItem::IsCombi" alt="" coords="243,5,391,32"/>
+<area shape="rect" id="node3" href="$classPatchItem.html#a80e0a72bb7db8f68cd4f7bc32bb36361" title="PatchItem::GetZone" alt="" coords="242,56,393,83"/>
+<area shape="rect" id="node4" href="$classMidiIO.html#a768bb4ca3d6df0d4d7b2dfcc95ce8417" title="MidiIO::getBP" alt="" coords="263,107,372,133"/>
+<area shape="rect" id="node5" href="$classMidiIO.html#ade75d48e27670a86a2a109f99ea847b7" title="MidiIO::OutputController" alt="" coords="228,157,407,184"/>
+</map>

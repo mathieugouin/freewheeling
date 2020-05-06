@@ -1,0 +1,9 @@
+<map id="Pulse::GetPos" name="Pulse::GetPos">
+<area shape="rect" id="node2" href="$classAudioIO.html#ab0eea49d0c149eba8716d8402a9caa73" title="AudioIO::timebase_callback" alt="" coords="165,31,368,57"/>
+<area shape="rect" id="node5" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="164,81,369,108"/>
+<area shape="rect" id="node6" href="$classRecordProcessor.html#a6168d8dc850602a348dc74ab1224263a" title="RecordProcessor::PulseSync" alt="" coords="165,132,368,159"/>
+<area shape="rect" id="node7" href="$classRecordProcessor.html#ab035edfb707f8f1066b3597df7ddda7d" title="RecordProcessor::End" alt="" coords="186,183,347,209"/>
+<area shape="rect" id="node8" href="$classPlayProcessor.html#a13ce406fdf45f876f305b01c031f04a2" title="PlayProcessor::PulseSync" alt="" coords="173,233,360,260"/>
+<area shape="rect" id="node3" href="$classAudioIO.html#a1e4157d1900df901a60d5a2260d7509c" title="AudioIO::open" alt="" coords="417,5,531,32"/>
+<area shape="rect" id="node4" href="$classAudioIO.html#a012ce924f59ced78f2fac75e6e33b55c" title="AudioIO::AudioIO" alt="" coords="579,31,711,57"/>
+</map>

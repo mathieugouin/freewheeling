@@ -1,0 +1,7 @@
+<map id="AudioBlock::GenerateSubChain" name="AudioBlock::GenerateSubChain">
+<area shape="rect" id="node2" href="$classAudioBlock.html#a380880c91c3af2322d232ce2de83b881" title="AudioBlock::GetTotalLen" alt="" coords="297,5,477,32"/>
+<area shape="rect" id="node3" href="$classAudioBlock.html#ae7aec1591ed6f228799c11b650b2cc1b" title="AudioBlock::GetExtendedData" alt="" coords="277,56,496,83"/>
+<area shape="rect" id="node5" href="$classPreallocated.html#a9195f3c7f49432b1dd7be89e53c6a5b1" title="Preallocated::RTNew" alt="" coords="309,107,465,133"/>
+<area shape="rect" id="node6" href="$classAudioBlock.html#a4f53140535b4c56db4c5360f3fb9eb7d" title="AudioBlock::SetPtrsFromAbs\lOffset" alt="" coords="284,158,489,199"/>
+<area shape="rect" id="node4" href="$classBlockExtendedData.html#ae33e9550384a32abf2a91386334a2be9" title="BlockExtendedData::\lGetType" alt="" coords="544,49,703,90"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="GrowChainManager" name="GrowChainManager">
+<area shape="rect" id="node2" href="$classManagedChain.html" title="{ManagedChain\n||+ ManagedChain()\l+ ~ManagedChain()\l+ NewInstance()\l+ Manage()\l+ RefDeleted()\l+ GetType()\l}" alt="" coords="644,1443,798,1593"/>
+<area shape="rect" id="node3" href="$classPreallocated.html" title="{Preallocated\n|&#45; FWMEM_DEFINE_DELBLOCK\l|+ Preallocated()\l+ ~Preallocated()\l+ operator new()\l+ operator delete()\l+ RTNew()\l+ RTNewWithWait()\l+ RTDelete()\l+ GetMgr()\l+ SetupPreallocated()\l&#45; NewInstance()\l&#45; Recycle()\l}" alt="" coords="1029,344,1240,568"/>
+<area shape="rect" id="node4" href="$classPreallocatedType.html" title="{PreallocatedType\n||+ PreallocatedType()\l+ ~PreallocatedType()\l+ RTNew()\l+ RTNewWithWait()\l+ RTDelete()\l+ GoPreallocate()\l+ GoPostdelete()\l+ Cleanup()\l+ GetBlockSize()\l}" alt="" coords="1156,704,1326,899"/>
+<area shape="rect" id="node15" href="$classMemoryManagerUpdate.html" title="{MemoryManagerUpdate\n||+ MemoryManagerUpdate()\l+ MemoryManagerUpdate()\l+ IsValid()\l}" alt="" coords="1472,1185,1674,1292"/>
+<area shape="rect" id="node27" href="$classAudioBlock.html" title="{AudioBlock\n||+ AudioBlock()\l+ AudioBlock()\l+ ~AudioBlock()\l+ NewInstance()\l+ IsStereo()\l+ Link()\l+ Zero()\l+ ChopChain()\l+ Smooth()\l+ DeleteChain()\land 7 more...\l}" alt="" coords="385,689,516,913"/>
+<area shape="rect" id="node30" href="$classBED__ExtraChannel.html" title="{BED_ExtraChannel\n||+ BED_ExtraChannel()\l+ ~BED_ExtraChannel()\l+ NewInstance()\l+ GetType()\l}" alt="" coords="722,741,901,862"/>
+<area shape="rect" id="node24" href="$classAudioBlockIterator.html" title="{AudioBlockIterator\n||+ AudioBlockIterator()\l+ ~AudioBlockIterator()\l+ round()\l+ GenCnt()\l+ GenConstants()\l+ Zero()\l+ NextFragment()\l+ Jump()\l+ PutFragment()\l+ GetFragment()\l+ EndChain()\l+ GetTotalLength2Cur()\l+ IsStopped()\l+ Stop()\l+ GetCurBlock()\l}" alt="" coords="417,1097,596,1380"/>
+<area shape="rect" id="node5" href="$classSListItem.html" title="{SListItem\n||+ SListItem()\l}" alt="" coords="1706,417,1814,495"/>
+<area shape="rect" id="node9" href="$classSLinkList.html" title="{SLinkList\n||+ SLinkList()\l+ AddToHead()\l+ FindAndRemove()\l+ GetFirstItem()\l+ GetNextItem()\l}" alt="" coords="1398,937,1548,1073"/>
+<area shape="rect" id="node6" href="$classMemoryManager.html" title="{MemoryManager\n||+ MemoryManager()\l+ ~MemoryManager()\l+ AddType()\l+ DelType()\l+ WakeUp()\l+ WakeupIfNeeded()\l&#45; ProcessQueue()\l&#45; run_mgr_thread()\l}" alt="" coords="1210,1656,1376,1836"/>
+<area shape="rect" id="node13" href="$classSRMWRingBuffer.html" title="{SRMWRingBuffer\&lt; MemoryManager\lUpdate \&gt;\n||+ SRMWRingBuffer()\l+ ~SRMWRingBuffer()\l+ WriteElement()\l+ ReadElement()\l&#45; UpdateNumRWThreads()\l}" alt="" coords="1646,1443,1900,1593"/>
+<area shape="rect" id="node19" href="$classRTStore.html" title="{RTStore\&lt; PreallocatedInstance \&gt;\n||+ RTStore()\l+ ~RTStore()\l+ FindItemWithState()\l+ ChangeStateAtIdx()\l+ GetItemAtIdx()\l}" alt="" coords="1443,388,1682,524"/>
+<area shape="rect" id="node20" href="$classRTStore_1_1RTStoreItem.html" title="{RTStore\&lt; T \&gt;::RTStoreItem\n||+ RTStoreItem()\l}" alt="" coords="1511,145,1710,223"/>
+<area shape="rect" id="node14" href="$classRTDataStruct__Updater.html" title="{RTDataStruct_Updater\n||# UpdateNumRWThreads()\l}" alt="" coords="1872,1200,2071,1277"/>
+<area shape="rect" id="node21" href="$classT.html" title="{T\n||}" alt="" coords="1410,5,1448,83"/>
+<area shape="rect" id="node28" href="$classBlockExtendedData.html" title="{BlockExtendedData\n||+ BlockExtendedData()\l+ BlockExtendedData()\l+ ~BlockExtendedData()\l+ GetType()\l}" alt="" coords="357,395,544,517"/>
+</map>

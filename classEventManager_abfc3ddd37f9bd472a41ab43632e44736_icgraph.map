@@ -1,0 +1,19 @@
+<map id="EventManager::UnlistenEvent" name="EventManager::UnlistenEvent">
+<area shape="rect" id="node2" href="$classBrowser.html#a53b7061ec24c8189cfd72a6bed8ef6b7" title="Browser::~Browser" alt="" coords="307,5,454,32"/>
+<area shape="rect" id="node3" href="$classLoopTray.html#a972a3fcb0906760d4dea5b852ee34eb2" title="LoopTray::~LoopTray" alt="" coords="303,56,459,83"/>
+<area shape="rect" id="node4" href="$classPatchBrowser.html#acaa6ebdc72e5d29e692422347ccf28aa" title="PatchBrowser::~PatchBrowser" alt="" coords="272,107,489,133"/>
+<area shape="rect" id="node5" href="$classInputMatrix.html#a941629c2da3685c5379825be93413ed9" title="InputMatrix::~InputMatrix" alt="" coords="286,157,475,184"/>
+<area shape="rect" id="node6" href="$classLoopManager.html#aadca58536e41c8b0b8fd148ac40b23c0" title="LoopManager::~LoopManager" alt="" coords="273,208,488,235"/>
+<area shape="rect" id="node7" href="$classRootProcessor.html#afbc20497636d11e4ac4e1c34e91fa000" title="RootProcessor::~RootProcessor" alt="" coords="268,259,493,285"/>
+<area shape="rect" id="node8" href="$classFileStreamer.html#a89b7803d85f99c20fb0e3722c12b4323" title="FileStreamer::run_encode\l_thread" alt="" coords="287,310,474,351"/>
+<area shape="rect" id="node10" href="$classMidiIO.html#a2fc0035cc0c0e522da0768eca0bdfc61" title="MidiIO::unlisten_events" alt="" coords="293,376,468,403"/>
+<area shape="rect" id="node13" href="$classOSCClient.html#a362085391b8f3b76e014a314b1aaa02e" title="OSCClient::~OSCClient" alt="" coords="295,427,466,453"/>
+<area shape="rect" id="node14" href="$classSDLIO.html#ad1b1bf6d23251b3014749b18497c1b91" title="SDLIO::run_sdl_thread" alt="" coords="298,477,463,504"/>
+<area shape="rect" id="node9" href="$classFileStreamer.html#a1cc038c52d8211d59503a4e7f8a16cd9" title="FileStreamer::FileStreamer" alt="" coords="541,317,736,344"/>
+<area shape="rect" id="node11" href="$classMidiIO.html#aef220bcce8b89bea36032298868a919e" title="MidiIO::run_midi_thread" alt="" coords="550,376,727,403"/>
+<area shape="rect" id="node12" href="$classMidiIO.html#a222509803679fcf4bcb7b4b4a34cf0cd" title="MidiIO::activate" alt="" coords="784,376,908,403"/>
+<area shape="rect" id="node15" href="$classFweelin.html#a268997890fa59492e27b4787c6bdc41f" title="Fweelin::go" alt="" coords="591,465,687,492"/>
+<area shape="rect" id="node18" href="$classSDLIO.html#a219c64dd0f01ca0fe0319ba7a0a3379e" title="SDLIO::activate" alt="" coords="577,516,700,543"/>
+<area shape="rect" id="node16" href="$fweelin_8cc.html#a97b0fa62b7b0972875f5f589322c4c24" title="main" alt="" coords="819,452,873,479"/>
+<area shape="rect" id="node17" href="$classLoopTray.html#a307e6abe64c403e39fc463ec282bde27" title="LoopTray::Draw" alt="" coords="785,503,907,529"/>
+</map>

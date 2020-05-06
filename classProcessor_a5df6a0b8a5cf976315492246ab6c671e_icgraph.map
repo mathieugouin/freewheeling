@@ -1,0 +1,5 @@
+<map id="Processor::fadepreandcurrent" name="Processor::fadepreandcurrent">
+<area shape="rect" id="node2" href="$classRootProcessor.html#a014d1405fbd7d67ee4edeb19713ded04" title="RootProcessor::process" alt="" coords="274,5,446,32"/>
+<area shape="rect" id="node3" href="$classRecordProcessor.html#ad36d69ec9d41b424eb2e6c5fa2e0cf3a" title="RecordProcessor::process" alt="" coords="267,56,453,83"/>
+<area shape="rect" id="node4" href="$classPlayProcessor.html#a46bc1b738f48261e0c430f7345f4d99f" title="PlayProcessor::process" alt="" coords="275,107,445,133"/>
+</map>

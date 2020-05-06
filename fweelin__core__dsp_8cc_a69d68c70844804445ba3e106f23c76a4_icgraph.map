@@ -1,0 +1,12 @@
+<map id="math_gcd" name="math_gcd">
+<area shape="rect" id="node2" href="$fweelin__core__dsp_8h.html#a69d68c70844804445ba3e106f23c76a4" title="math_gcd" alt="" coords="140,29,227,56"/>
+<area shape="rect" id="node3" href="$fweelin__core__dsp_8h.html#abc995860348321dce04aba6aea4adbb4" title="math_lcm" alt="" coords="275,55,361,81"/>
+<area shape="rect" id="node4" href="$classLoopManager.html#a87f2148eddda1d6e097ecb6612e56dfa" title="LoopManager::GetLongCount\lForAllPlayingLoops" alt="" coords="409,18,619,59"/>
+<area shape="rect" id="node7" href="$classPulse.html#a4769535b925a7444569205947eaa2da1" title="Pulse::ExtendLongCount" alt="" coords="425,84,603,111"/>
+<area shape="rect" id="node5" href="$classOSCClient.html#acbb974bf11667aa6fb48c111ae14a4fe" title="OSCClient::SendPlayingLoops" alt="" coords="667,25,880,52"/>
+<area shape="rect" id="node6" href="$classOSCClient.html#a8b38ea5b76702f9e763daeb694091116" title="OSCClient::ReceiveEvent" alt="" coords="929,25,1111,52"/>
+<area shape="rect" id="node8" href="$classLoopManager.html#add3b21cda3c0eddecabf19d24c610cdc" title="LoopManager::Activate" alt="" coords="688,83,859,109"/>
+<area shape="rect" id="node11" href="$classLoopManager.html#a861cdd2ace9aeb53b4ecf92728215265" title="LoopManager::Deactivate" alt="" coords="679,133,867,160"/>
+<area shape="rect" id="node9" href="$classFweelin.html#a4654015e2bc7cc94f3bfc421899a60d3" title="Fweelin::TriggerSnapshot" alt="" coords="928,131,1112,157"/>
+<area shape="rect" id="node10" href="$classLoopManager.html#a4aada2d07b7ce0a67a8119ece4805966" title="LoopManager::ReceiveEvent" alt="" coords="1160,131,1365,157"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="BlockManager::StripeBlockOn" name="BlockManager::StripeBlockOn">
+<area shape="rect" id="node2" href="$classBlockManager.html#a5566277a4ec6c8a5347470433843b998" title="BlockManager::DelHiManager" alt="" coords="270,13,485,39"/>
+<area shape="rect" id="node4" href="$classFweelin.html#a6cb99744f75b371673c3e90031797972" title="Fweelin::getPRE_TIMEMARKER" alt="" coords="268,63,487,90"/>
+<area shape="rect" id="node5" href="$classStripeBlockManager.html#a0bd66e4d0743493ad80c17203301a2db" title="StripeBlockManager\l::Setup" alt="" coords="301,115,453,156"/>
+<area shape="rect" id="node6" href="$classBlockManager.html#ac62e5c20f032e777abfe76aad9cecee1" title="BlockManager::AddHiManager" alt="" coords="269,181,486,207"/>
+<area shape="rect" id="node3" href="$classHiPriManagedChain.html#a65066950fc82d852fd81af83cf558b4f" title="HiPriManagedChain::\lGetType" alt="" coords="535,5,692,47"/>
+</map>
