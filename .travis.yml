@@ -1,3 +1,4 @@
+os:       linux
 dist:     bionic
 language: cpp
 compiler: gcc
@@ -23,9 +24,10 @@ script:
 # Generate and deploy documentation
 deploy:
   provider: pages
-  skip_cleanup: true
+  strategy: git
+  cleanup: false
   local_dir: html
-  github_token: $GH_REPO_TOKEN
+  token: $GH_REPO_TOKEN
   on:
     branch: ci-doxygen  # TBD for now
 
