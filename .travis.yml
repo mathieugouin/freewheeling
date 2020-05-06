@@ -18,6 +18,7 @@ script:
   - make installcheck
 
   # Documentation
+  - doxygen --version
   - doxygen
 
 # Generate and deploy documentation
