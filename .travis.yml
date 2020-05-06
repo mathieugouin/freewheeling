@@ -2,7 +2,7 @@ dist:     bionic
 language: cpp
 compiler: gcc
 
-if: branch IN (master , development)
+# TBD why??? if: branch IN (master , development)
 
 before_install:
   - sudo apt-get update -qq
