@@ -24,6 +24,7 @@ script:
   - doxygen
 
 # Generate and deploy documentation
+# Ref: https://github.com/EmaroLab/docs/wiki/Automatic-deployment-Doxygen-documentation
 deploy:
   provider: pages
   strategy: git
