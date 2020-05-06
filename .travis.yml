@@ -16,3 +16,16 @@ script:
   - make
   - sudo make install
   - make installcheck
+
+  # Documentation
+  - doxygen
+
+# Generate and deploy documentation
+#deploy:
+#  provider: pages
+#  skip_cleanup: true
+#  local_dir: html
+#  github_token: $GH_REPO_TOKEN
+#  on:
+#    branch: master
+
